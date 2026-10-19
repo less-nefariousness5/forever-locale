@@ -1,0 +1,21 @@
+^%+(%d+) more side objectives?$	+%d autres objectifs secondaires
+^(%d+) more steps?$	Encore %d étape(s)
+^(%d+) stale translations need review$	%d traductions obsolètes à vérifier
+^([%d%.]+) yd$	%s m
+^Could not save: (.+)$	Impossible d'enregistrer : %s
+^Could not start download: (.+)$	Impossible de lancer le téléchargement : %s
+^Could not use font: (.+)$	Impossible d'utiliser la police : %s
+^Danger: (.+)$	Danger : %s
+^Flying to (.-) • lands in (.+)$	Vol vers %s • atterrissage dans %s
+^Overlay scale • (%d+)%%$	Échelle de la superposition • %d%%
+^Quest history suggests step (%d+)%.$	L'historique des quêtes suggère l'étape %d.
+^Rare nearby: (.+)$	Rare à proximité : %s
+^Rare: (.+)$	Rare : %s
+^Rare: (.-) • ([%d%.]+) yd$	Rare : %s • %s m
+^Step (%d+) of (%d+)$	Étape %d sur %d
+^Step (%d+)$	Étape %d
+^Then: (.+)$	Ensuite : %s
+^Travel • (.+)$	Voyage • %s
+^Wait • (%d+) s %((.-)%)$	Attente • %d s (%s)
+^Download ([%d%.]+) MB$	Télécharger %s Mo
+^Language pack: ([%d%.]+) MB download$	Pack de langue : %s Mo à télécharger

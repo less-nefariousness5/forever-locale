@@ -1,0 +1,21 @@
+^%+(%d+) more side objectives?$	+%d weitere Nebenziele
+^(%d+) more steps?$	%d weitere Schritte
+^(%d+) stale translations need review$	%d veraltete Übersetzungen müssen geprüft werden
+^([%d%.]+) yd$	%s m
+^Could not save: (.+)$	Speichern nicht möglich: %s
+^Could not start download: (.+)$	Download konnte nicht gestartet werden: %s
+^Could not use font: (.+)$	Schriftart kann nicht verwendet werden: %s
+^Danger: (.+)$	Gefahr: %s
+^Flying to (.-) • lands in (.+)$	Flug nach %s • landet in %s
+^Overlay scale • (%d+)%%$	Overlay-Skalierung • %d%%
+^Quest history suggests step (%d+)%.$	Der Questverlauf schlägt Schritt %d vor.
+^Rare nearby: (.+)$	Rar in der Nähe: %s
+^Rare: (.+)$	Rar: %s
+^Rare: (.-) • ([%d%.]+) yd$	Rar: %s • %s m
+^Step (%d+) of (%d+)$	Schritt %d von %d
+^Step (%d+)$	Schritt %d
+^Then: (.+)$	Danach: %s
+^Travel • (.+)$	Reise • %s
+^Wait • (%d+) s %((.-)%)$	Warten • %d s (%s)
+^Download ([%d%.]+) MB$	Herunterladen %s MB
+^Language pack: ([%d%.]+) MB download$	Sprachpaket: %s MB Download

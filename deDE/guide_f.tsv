@@ -1,0 +1,1297 @@
+f003e84e	Train |T136100:0|t[Entangling Roots]	Trainiere |T136100:0|t[Entangling Roots]
+f0054656	Travel toward |cRXP_FRIENDLY_Seereth|r	Reise in Richtung |cRXP_FRIENDLY_Seereth|r
+f00920db	Darkhound Blood (5)	Darkhound Blood (5)
+f00d29e2	Kill |cRXP_ENEMY_Irontree Stompers|r, |cRXP_ENEMY_Irontree Wanderers|r and |cRXP_ENEMY_Withered Protectors|r. Loot them for their |cRXP_LOOT_Rotting Wood|r	Töte |cRXP_ENEMY_Irontree Stompers|r, |cRXP_ENEMY_Irontree Wanderers|r und |cRXP_ENEMY_Withered Protectors|r. Plündere sie für ihr |cRXP_LOOT_Rotting Wood|r
+f0134f3d	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Brakkar|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Brakkar|r
+f01401de	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Tukk|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Tukk|r
+f014f836	|cRXP_WARN_Hearthstone BATCH from Stormwind to Auberdine|r	|cRXP_WARN_Ruhestein-CHARGE von Stormwind nach Auberdine|r
+f0174f6c	Take the Zeppelin to Undercity	Nimm den Zeppelin nach Undercity
+f021f0ab	Travel to the top of the mountain	Reise zur Spitze des Bergs
+f0298fc3	Discover The Master's Glaive	Entdecke The Master's Glaive
+f032842f	Turn in Set Them Ablaze!	Gib Set Them Ablaze! ab
+f033bd22	Accept Favor for Krazek	Nimm Favor for Krazek an
+f037182a	Turn in Return to Jahan	Gib Return to Jahan ab
+f03abf79	|cRXP_WARN_Be careful! This will summon FOUR |cRXP_ENEMY_Simmering Elementals|r (lvl 42, Frost immune)|r	|cRXP_WARN_Vorsicht! Dadurch werden VIER |cRXP_ENEMY_Simmering Elementals|r beschworen (Stufe 42, frostimmun)|r
+f03dbc7b	Abandon Stranglethorn Fever	Brich Stranglethorn Fever ab
+f03e3b17	1/1 Commander Cyclas's Head	1/1 Commander Cyclas's Head
+f04ded58	Abandon Shredding Machines	Brich Shredding Machines ab
+f04e7c48	Get the Camp Taurajo flight path	Hol dir die Flugroute in Camp Taurajo
+f04ec1ff	|cRXP_WARN_If you fail and run out of Taming Rod Charges, abandon the quest, then pick it up again and come back|r	|cRXP_WARN_Falls es fehlschlägt und dir die Ladungen des Taming Rod ausgehen, brich die Quest ab, nimm sie erneut an und komm zurück|r
+f053f197	Reach Cooking 50	Erreiche Cooking 50
+f054dc8c	AoE nearby |cRXP_ENEMY_Ghouls|r whilst waiting for respawns if needed	Bekämpfe bei Bedarf nahe |cRXP_ENEMY_Ghouls|r per AoE, während du auf Respawns wartest
+f05b1dd9	Accept Morrowgrain Research	Nimm Morrowgrain Research an
+f05dbb8c	Turn in Return to Lewis	Gib Return to Lewis ab
+f061bd50	Escort the |cRXP_FRIENDLY_Homing Robot OOX-22/FE|r to safety	Eskortiere |cRXP_FRIENDLY_Homing Robot OOX-22/FE|r in Sicherheit
+f062cde8	A Simple Compass (1)	A Simple Compass (1)
+f0638eac	|cRXP_ENEMY_Lashtail Raptors|r |cRXP_WARN_cast|r |T132109:0|t[Lash] |cRXP_WARN_which is a 2 second stun|r	|cRXP_ENEMY_Lashtail Raptors|r |cRXP_WARN_wirken|r |T132109:0|t[Lash]|cRXP_WARN_, eine 2 Sekunden lange Betäubung|r
+f0643f33	Train |T132310:0|t[Sap]	Trainiere |T132310:0|t[Sap]
+f06927d5	|cRXP_WARN_Equip the|r |T135421:0|t[Tomahawk]	|cRXP_WARN_Lege an:|r |T135421:0|t[Tomahawk]
+f06b306f	/cast Cooking\\n/run local count=C_Item.GetItemCount(6889);if count and count > 0 then C_TradeSkillUI.CraftRecipe(8604,count) end	/cast Cooking\\n/run local count=C_Item.GetItemCount(6889);if count and count > 0 then C_TradeSkillUI.CraftRecipe(8604,count) end
+f06dd996	Turn in Consumed by Hatred	Gib Consumed by Hatred ab
+f06f16f4	Kill Young Night Web Spider (10)	Töte Young Night Web Spider (10)
+f06f76bb	Abandon the |cRXP_ENEMY_Shardtooth Bear|r or |cRXP_ENEMY_Winterspring Owl|r and retrieve your regular pet	Gib |cRXP_ENEMY_Shardtooth Bear|r oder |cRXP_ENEMY_Winterspring Owl|r frei und hol dein normales Begleittier zurück
+f070d87e	Abandon A Recipe for Death	Brich A Recipe for Death ab
+f0713d82	Abandon The Moss-twined Heart. You never have an opportunity to turn it in	Brich The Moss-twined Heart ab. Du hast nie eine Gelegenheit, sie abzugeben
+f07c6614	Grind to 6320+/6500xp	Grinde bis 6320+/6500 EP
+f0810bbc	Kill |cRXP_ENEMY_Kul Tiras Sailors|r and |cRXP_ENEMY_Kul Tiras Marines|r. Loot them for their |cRXP_LOOT_Canvas Scraps|r	Töte |cRXP_ENEMY_Kul Tiras Sailors|r und |cRXP_ENEMY_Kul Tiras Marines|r. Plündere sie für ihre |cRXP_LOOT_Canvas Scraps|r
+f081dcc2	Turn in Return to Nessa	Gib Return to Nessa ab
+f0846e6c	Kill |cRXP_ENEMY_Adult Plainstriders|r. Loot them for their |T134028:0|t[|cRXP_LOOT_Tender Strider Meat|r]	Töte |cRXP_ENEMY_Adult Plainstriders|r. Plündere sie für ihr |T134028:0|t[|cRXP_LOOT_Tender Strider Meat|r]
+f0880cf7	Find a Jabbering Ghoul. Kill him and loot the Good Luck Charm	Finde einen Jabbering Ghoul. Töte ihn und plündere den Good Luck Charm
+f08849aa	Turn in Hallowed Memorandum	Gib Hallowed Memorandum ab
+f089c6fe	Run back to Felwood	Lauf zurück nach Felwood
+f08a4aef	skip if ghost wolf trained	überspringen, falls Ghost Wolf trainiert
+f08d989c	|cRXP_WARN_Click on the Altar to summon|r |cRXP_ENEMY_Seductress Ceeyna|r |cRXP_WARN_but make sure to use|r |T136121:0|t[Shadow Ward]|cRXP_WARN_,|r |T136190:0|t[Sacrifice] |cRXP_WARN_and|r |T136160:0|t[Soul Link]|r |cRXP_WARN_beforehand|r |cFFFF0000as you will receive a lot of damage during the channel and it cannot be healed|r	|cRXP_WARN_Klicke auf den Altar, um|r |cRXP_ENEMY_Seductress Ceeyna|r |cRXP_WARN_zu beschwören, aber benutze unbedingt|r |T136121:0|t[Shadow Ward]|cRXP_WARN_,|r |T136190:0|t[Sacrifice] |cRXP_WARN_und|r |T136160:0|t[Soul Link]|r |cRXP_WARN_vorher|r |cFFFF0000, da du während des Kanalisierens viel Schaden erleidest, der nicht geheilt werden kann|r
+f09aed3c	Talk to |cRXP_FRIENDLY_Benedictus|r	Sprich mit |cRXP_FRIENDLY_Benedictus|r
+f09b4d0d	Accept The Sacred Flame	Nimm The Sacred Flame an
+f0a295a7	|T133972:0|t[Snickerfang Jowl]	|T133972:0|t[Snickerfang Jowl]
+f0a33462	Level your Skinning skill to 50.	Bringe deine Skinning-Fertigkeit auf 50.
+f0a33d89	Level your Skinning skill to 75.	Bringe deine Skinning-Fertigkeit auf 75.
+f0a63f75	|cRXP_WARN_If you prefer the website method then start loading the website already. It usually takes a couple minutes to load. DO NOT SELECT TO MOVE YOUR CHARACTER YET|r	|cRXP_WARN_Falls du die Website-Methode bevorzugst, fang schon jetzt an, die Website zu laden. Das dauert meist ein paar Minuten. WÄHLE NOCH NICHT AUS, DEINEN CHARAKTER ZU VERSETZEN|r
+f0a69c3a	Engrave |T136181:0|t[Mind Spike] on your belt	Graviere |T136181:0|t[Mind Spike] auf deinen Gürtel
+f0a86576	Run East into Hillsbrad	Lauf nach Osten nach Hillsbrad
+f0ab33f3	Travel to Gol'Bolar Quarry	Reise nach Gol'Bolar Quarry
+f0ac9de3	Accept Bounty on Garrick Padfoot	Nimm Bounty on Garrick Padfoot an
+f0b16d64	Kill |cRXP_ENEMY_Helboars|r	Töte |cRXP_ENEMY_Helboars|r
+f0b48b15	Nutri - Blacksmithing 1-300	Nutri - Blacksmithing 1-300
+f0b962ef	Turn in An Ordinary Egg	Gib An Ordinary Egg ab
+f0b965bc	Accept Feralas Mission IV: Dragon Intelligence	Nimm Feralas Mission IV: Dragon Intelligence an
+f0bb43cb	You will need to travel to Booty Bay to purchase the Expert Fishing book.	Du musst nach Booty Bay reisen, um das Buch für Expert Fishing zu kaufen.
+f0bda050	Use the |T134419:0|t[|cRXP_FRIENDLY_Rune of the Shadowstep|r] to train |T132303:0|t[Shadowstep]	Benutze die |T134419:0|t[|cRXP_FRIENDLY_Rune of the Shadowstep|r], um |T132303:0|t[Shadowstep] zu trainieren
+f0c0c133	Turn in Return to Quinn	Gib Return to Quinn ab
+f0c86917	Loot |cRXP_LOOT_Abercrombie's Crate|r on the ground	Plündere |cRXP_LOOT_Abercrombie's Crate|r auf dem Boden
+f0c9f0a2	If it's on cooldown, this step will skip on turnin of Harmony in Balance. You can complete it later.	Falls es auf Abklingzeit ist, wird dieser Schritt bei der Abgabe von Harmony in Balance übersprungen. Du kannst ihn später abschließen.
+f0cd4c35	Talk to |cRXP_FRIENDLY_Dalmond|r	Sprich mit |cRXP_FRIENDLY_Dalmond|r
+f0d41152	Open the |cRXP_PICK_Plant Bundles|r on the ground. Loot them for |cRXP_LOOT_Bathran's Hairs|r	Öffne |cRXP_PICK_Plant Bundles|r auf dem Boden und plündere |cRXP_LOOT_Bathran's Hairs|r daraus
+f0d9bdef	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Seereth|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Seereth|r
+f0dd098e	Travel back to Everlook	Reise zurück nach Everlook
+f0dea20a	Swim toward Menethil Harbor	Schwimm in Richtung Menethil Harbor
+f0df076f	AoE |cRXP_ENEMY_Andre Firebeard|r. Loot him for |cRXP_LOOT_Firebeard's Head|r	Bekämpfe per AoE |cRXP_ENEMY_Andre Firebeard|r. Plündere ihn, um |cRXP_LOOT_Firebeard's Head|r zu erhalten
+f0e262bf	Turn in Vahlarriel's Search	Gib Vahlarriel's Search ab
+f0e411dc	|cRXP_WARN_There are not enough |cRXP_ENEMY_Mosh'Ogg Brutes|r so you will have to wait for respawns at least once|r	|cRXP_WARN_Es gibt nicht genug |cRXP_ENEMY_Mosh'Ogg Brutes|r, daher musst du mindestens einmal auf Respawns warten|r
+f0e7db91	Kill |cRXP_ENEMY_Bristleback Interlopers|r	Töte |cRXP_ENEMY_Bristleback Interlopers|r
+f0e9ac99	Go downstairs, then travel toward |cRXP_FRIENDLY_Khelden Bremen|r	Geh nach unten und reise dann zu |cRXP_FRIENDLY_Khelden Bremen|r
+f0f02612	Talk to |cRXP_FRIENDLY_Do'gol|r	Sprich mit |cRXP_FRIENDLY_Do'gol|r
+f0f1a620	Turn in A Scribbled Letter	Gib A Scribbled Letter ab
+f0f25a91	Kill |cRXP_ENEMY_Blackrock Shadowcasters|r. Loot them for their |cRXP_LOOT_Orbs|r	Töte |cRXP_ENEMY_Blackrock Shadowcasters|r. Plündere sie für ihre |cRXP_LOOT_Orbs|r
+f0f56603	Accept The Eighteenth Pilot	Nimm The Eighteenth Pilot an
+f0f8b453	Travel south to Bloodfen Burrow	Reise nach Süden nach Bloodfen Burrow
+f0f8dfe0	Kill |cRXP_ENEMY_Stonetusk Boars|r. Loot them for their |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r	Töte |cRXP_ENEMY_Stonetusk Boars|r. Plündere sie für ihre |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r
+f0f94d63	Turn in Return to Tymor	Gib Return to Tymor ab
+f0fd1b9a	|cRXP_WARN_Skip this step if he isn't up, he has a long respawn timer|r	|cRXP_WARN_Überspringe diesen Schritt, falls er nicht da ist, er hat einen langen Respawn-Timer|r
+f106aaa1	|cRXP_WARN_It is recommended you find additional party members for acquiring the|r |T134419:0|t[|cRXP_LOOT_Rune of Invocation|r] |cRXP_WARN_as it requires killing elites in Stromgarde Keep|r	|cRXP_WARN_Es wird empfohlen, dir zusätzliche Gruppenmitglieder zu suchen, um Folgendes zu erhalten:|r |T134419:0|t[|cRXP_LOOT_Rune of Invocation|r]|cRXP_WARN_, da du dafür Elite-Mobs in Stromgarde Keep töten musst|r
+f108d4a9	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Beldin Steelgrill::1376|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Beldin Steelgrill::1376|r
+f10ec376	|cRXP_WARN_Open the|r |T132596:0|t[|cRXP_LOOT_Pirate's Footlocker|r] |cRXP_WARN_until you find the|r |T134939:0|t[|cRXP_LOOT_Ship Schedule|r]	|cRXP_WARN_Öffne die|r |T132596:0|t[|cRXP_LOOT_Pirate's Footlocker|r]|cRXP_WARN_, bis du Folgendes findest:|r |T134939:0|t[|cRXP_LOOT_Ship Schedule|r]
+f10ef9c6	|cRXP_WARN_Be careful! The|r |cRXP_ENEMY_Deepmoss Hatchlings|r |cRXP_WARN_have a chance of summoning a level 22|r |cRXP_ENEMY_Deepmoss Matriarch|r	|cRXP_WARN_Vorsicht! Die|r |cRXP_ENEMY_Deepmoss Hatchlings|r |cRXP_WARN_können mit einer gewissen Chance eine Stufe-22-Mob beschwören:|r |cRXP_ENEMY_Deepmoss Matriarch|r
+f111d7df	|T133708:0|t[Scorpok Pincer]	|T133708:0|t[Scorpok Pincer]
+f114507e	Kill Dark Strand Fanatics. Loot them for Parchments	Töte Dark Strand Fanatics. Plündere sie für Parchments
+f1166154	Turn in Passing Word of a Threat	Gib Passing Word of a Threat ab
+f118c1d7	Zephrali Smasher	Zephrali Smasher
+f11bc903	Kill |cRXP_ENEMY_Fizzle Darkstorm|r and loot him for his |cRXP_LOOT_Claw|r	Töte |cRXP_ENEMY_Fizzle Darkstorm|r und plündere ihn für seine |cRXP_LOOT_Claw|r
+f124b1a8	|cRXP_WARN_They share spawns with |cRXP_ENEMY_Dark Iron Watchmen|r. AoE them too if you run out of spawns|r	|cRXP_WARN_Sie teilen sich Spawns mit |cRXP_ENEMY_Dark Iron Watchmen|r. Bekämpfe diese auch per AoE, falls dir die Spawns ausgehen|r
+f129bff0	Click on the |cRXP_PICK_Altar of Hakkar|r	Klicke auf |cRXP_PICK_Altar of Hakkar|r
+f12bf805	|cRXP_WARN_If |cRXP_ENEMY_Echeyakee|r doesn't spawn after using the|r |T134227:0|t[Horn of Echeyakee]|cRXP_WARN_ or you didn't get the tag when it did spawn, skip this step|r	|cRXP_WARN_Falls |cRXP_ENEMY_Echeyakee|r nach dem Benutzen von|r |T134227:0|t[Horn of Echeyakee]|cRXP_WARN_ nicht erscheint oder du ihn beim Erscheinen nicht getaggt hast, überspringe diesen Schritt|r
+f13a0245	|cRXP_WARN_Be careful! They cry for help when attacked, you could accidently aggro multiple nearby mobs|r	|cRXP_WARN_Vorsicht! Sie rufen um Hilfe, wenn sie angegriffen werden, du könntest versehentlich mehrere nahe Mobs pullen|r
+f13ca6e2	|cRXP_WARN_Make sure you to keep all the|r |T132905:0|t[Silk Cloth] |cRXP_WARN_you find during this segment for a quest later|r	|cRXP_WARN_Behalte unbedingt alle|r |T132905:0|t[Silk Cloth]|cRXP_WARN_, die du in diesem Abschnitt findest, für eine spätere Quest|r
+f13e6d0f	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Brother Paxton|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Brother Paxton|r
+f141b63c	Keep all 6 tubes if you intend to choose Gnomish Engineering.	Behalte alle 6 Röhren, falls du dich für Gnomish Engineering entscheiden willst.
+f1443418	|cRXP_WARN_Use the|r |T132147:0|t[Knife Set] |cRXP_WARN_to create|r |T134007:0|t[Fish Chunks]	|cRXP_WARN_Benutze das|r |T132147:0|t[Knife Set] |cRXP_WARN_, um herzustellen:|r |T134007:0|t[Fish Chunks]
+f1453330	Grind |cRXP_ENEMY_Blood Elves|r until you are 50% into level 53	Grinde |cRXP_ENEMY_Blood Elves|r, bis du 50% in Stufe 53 erreicht hast
+f146e96a	Craft |cRXP_FRIENDLY_Enchant Cloak - Minor Protection|r from skill 100 to 109.	Stelle |cRXP_FRIENDLY_Enchant Cloak - Minor Protection|r von Fertigkeit 100 bis 109 her.
+f14aaf6b	Click here for the unstuck link for US servers	Klicke hier für den Unstuck-Link für US-Server
+f14ad6b7	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kzan Thornslash|r in the back of the cave	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kzan Thornslash|r im hinteren Teil der Höhle
+f14f28cc	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Jabbey|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Jabbey|r
+f159aee8	Run to the Booty Bay Dock	Lauf zum Booty Bay-Steg
+f15d9ec5	Defias Smuggler slain (15)	Defias Smuggler getötet (15)
+f15ff404	Collect Gyromechanic Gear (x8)	Sammle Gyromechanic Gear (x8)
+f161d2d5	|cRXP_WARN_Use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Steady Shot|r] |cRXP_WARN_to train|r |T132213:0|t[Steady Shot]	|cRXP_WARN_Benutze|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Steady Shot|r] |cRXP_WARN_, um zu trainieren:|r |T132213:0|t[Steady Shot]
+f1620042	AoE |cRXP_ENEMY_Dustbelcher Brutes|r and |cRXP_ENEMY_Dustbelcher Ogres|r. Loot them for |cRXP_LOOT_Scrap Metal|r	Bekämpfe per AoE |cRXP_ENEMY_Dustbelcher Brutes|r und |cRXP_ENEMY_Dustbelcher Ogres|r. Plündere sie, um |cRXP_LOOT_Scrap Metal|r zu erhalten
+f1654e75	Kill |cRXP_ENEMY_Moonstalker Runts|r and |cRXP_ENEMY_Moonstalkers|r. Loot them for their |cRXP_LOOT_Moonstalker Fangs|r	Töte |cRXP_ENEMY_Moonstalker Runts|r und |cRXP_ENEMY_Moonstalkers|r. Plündere sie für ihre |cRXP_LOOT_Moonstalker Fangs|r
+f165f40e	|cRXP_WARN_Be careful! These mobs cast|r |T135846:0|t[Frostbolt] |cRXP_WARN_and flee at low health. Pull them back and kill them one by one until you can safely click on the crate|r	|cRXP_WARN_Vorsicht! Diese Mobs wirken|r |T135846:0|t[Frostbolt] |cRXP_WARN_und fliehen bei niedriger Gesundheit. Ziehe sie zurück und töte sie einzeln, bis du die Kiste sicher anklicken kannst|r
+f165f86a	Grind to 1150+/1400xp	Grinde bis 1150+/1400 EP
+f1667778	|cRXP_WARN_Talk to a|r |cRXP_FRIENDLY_Vengeful Wisp|r |cRXP_WARN_in northern Felwood, then follow it through Jadefire Run and kill any |cRXP_ENEMY_Satyrs|r it runs through|r	|cRXP_WARN_Sprich mit einem|r |cRXP_FRIENDLY_Vengeful Wisp|r |cRXP_WARN_im Norden von Felwood, folge ihm dann durch Jadefire Run und töte alle |cRXP_ENEMY_Satyrs|r, durch die er läuft|r
+f1717dbf	Talk to |cRXP_FRIENDLY_Archbishop Benedictus|r	Sprich mit |cRXP_FRIENDLY_Archbishop Benedictus|r
+f172642f	Pristine Spider Silk RP	Pristine Spider Silk RP
+f17498c1	c:Mulgore,45.86,57.67	c:Mulgore,45.86,57.67
+f17998da	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to|r |cRXP_FRIENDLY_Torka|r and |cRXP_FRIENDLY_Gar'Thok|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit|r |cRXP_FRIENDLY_Torka|r und |cRXP_FRIENDLY_Gar'Thok|r
+f17abab5	Turn in Collecting Kelp	Gib Collecting Kelp ab
+f17f1af1	Click the |cRXP_PICK_Hoofprints|r on the ground	Klicke auf |cRXP_PICK_Hoofprints|r auf dem Boden
+f1810f9b	Call of Water RP	Call of Water RP
+f1845006	Kill |cRXP_ENEMY_Noxxion|r. Loot him for the |cRXP_LOOT_Celebrian Rod|r	Töte |cRXP_ENEMY_Noxxion|r. Plündere ihn für den |cRXP_LOOT_Celebrian Rod|r
+f18599d7	|cRXP_WARN_Use the|r |T133747:0|t[|cRXP_LOOT_Rune of the First Warrior|r] |cRXP_WARN_to learn|r |T237516:0|t[Fresh Meat]	|cRXP_WARN_Benutze|r |T133747:0|t[|cRXP_LOOT_Rune of the First Warrior|r] |cRXP_WARN_, um zu erlernen:|r |T237516:0|t[Fresh Meat]
+f189c093	Fine Leather Belt	Fine Leather Belt
+f1913963	Kill |cRXP_ENEMY_Entropic Beasts|r and |cRXP_ENEMY_Entropic Horrors|r	Töte |cRXP_ENEMY_Entropic Beasts|r und |cRXP_ENEMY_Entropic Horrors|r
+f1940edb	Keep 10 belts for Dark Leather Belts.	Behalte 10 Gürtel für Dark Leather Belts.
+f194c0af	|cRXP_WARN_Run to Feathermoon Stronghold. Be careful of the |cRXP_ENEMY_Horde Guards|r in Camp Mojache en route|r	|cRXP_WARN_Lauf nach Feathermoon Stronghold. Achte unterwegs auf die |cRXP_ENEMY_Horde Guards|r in Camp Mojache|r
+f198936e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Antur Fallow|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Antur Fallow|r
+f1a12a51	Collect Boar Intestines (x3)	Sammle Boar Intestines (x3)
+f1b236b5	Craft |cRXP_FRIENDLY_Mithril Tube|r from skill 195 to 200.	Stelle |cRXP_FRIENDLY_Mithril Tube|r von Fertigkeit 195 bis 200 her.
+f1b3721c	Kill Cauldron Lord Malvinious. Loot him for the key	Töte Cauldron Lord Malvinious. Plündere ihn für den Schlüssel
+f1b3842b	|cRXP_FRIENDLY_Marlene Redpath|r may also be upstairs	|cRXP_FRIENDLY_Marlene Redpath|r kann auch oben sein
+f1b3f1f5	Accept Glyphic Letter	Nimm Glyphic Letter an
+f1b45b46	Kill |cRXP_ENEMY_Kobold Vermins|r. Loot them for their |cRXP_LOOT_Stolen Books|r	Töte |cRXP_ENEMY_Kobold Vermins|r. Plündere sie für ihre |cRXP_LOOT_Stolen Books|r
+f1b684c0	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Ukor|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Ukor|r
+f1b7bb81	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Tiza Battleforge|r upstairs	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Tiza Battleforge|r oben
+f1bd64dd	|cRXP_ENEMY_King Bangalash|r |cRXP_WARN_will spawn 2 |cRXP_ENEMY_Panthers|r at 50% health. Try to CC him just before 50% if possible so it prevents him from spawning any|r	|cRXP_ENEMY_King Bangalash|r |cRXP_WARN_beschwört bei 50% Gesundheit 2 |cRXP_ENEMY_Panthers|r. Versuche, ihn möglichst kurz vor 50% in CC zu nehmen, damit er keine beschwört|r
+f1c39668	Kill |cRXP_ENEMY_Deadwood Shamans|r, |cRXP_ENEMY_Deadwood Avengers|r and |cRXP_ENEMY_Deadwood Den Watchers|r. Loot them for the |T134918:0|t[|cRXP_LOOT_Voltaic Icon|r]	Töte |cRXP_ENEMY_Deadwood Shamans|r, |cRXP_ENEMY_Deadwood Avengers|r und |cRXP_ENEMY_Deadwood Den Watchers|r. Plündere sie für das |T134918:0|t[|cRXP_LOOT_Voltaic Icon|r]
+f1ccbd6a	|cRXP_WARN_Use the |T134939:0|t[|cRXP_LOOT_Westfall Deed|r] to start the quest|r	|cRXP_WARN_Benutze |T134939:0|t[|cRXP_LOOT_Westfall Deed|r], um die Quest zu starten|r
+f1d58126	Right click on the |T133054:0|t|cRXP_LOOT_Broken Geode Hammer|r to loot it for |T134419:0|t[|cRXP_FRIENDLY_Rune of the Demolition|r]	Rechtsklicke auf |T133054:0|t|cRXP_LOOT_Broken Geode Hammer|r und plündere ihn für |T134419:0|t[|cRXP_FRIENDLY_Rune of the Demolition|r]
+f1d6fc1a	Talk to |cRXP_FRIENDLY_Mebok Mizzyrix|r	Sprich mit |cRXP_FRIENDLY_Mebok Mizzyrix|r
+f1da746e	|cRXP_WARN_If you can't splitpull, focus on killing and interrupting the casts of |cRXP_ENEMY_Sleeby|r, |cRXP_ENEMY_Znort|r and |cRXP_ENEMY_Feeboz|r before killing|r |cRXP_ENEMY_Fozruk|r	|cRXP_WARN_Falls du nicht einzeln pullen kannst, konzentriere dich darauf, |cRXP_ENEMY_Sleeby|r, |cRXP_ENEMY_Znort|r und |cRXP_ENEMY_Feeboz|r zu töten und ihre Zauber zu unterbrechen, bevor du Folgenden tötest:|r |cRXP_ENEMY_Fozruk|r
+f1db1bda	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Umpi|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Umpi|r
+f1dc2e85	Click the |cRXP_PICK_Theramore Guard Badge|r on the wooden plank	Klicke auf |cRXP_PICK_Theramore Guard Badge|r auf dem Holzbrett
+f1e0a1e9	Grind to level 53 130000+/167100	Grinde bis Stufe 53 130000+/167100 EP
+f1e34c5e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to|r |cRXP_FRIENDLY_Mary|r in the Rogues' Quarter	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit|r |cRXP_FRIENDLY_Mary|r im Rogues' Quarter
+f1e6d535	Get the Redridge Mountains flight path	Hol dir die Flugroute in Redridge Mountains
+f1eb4c75	Talk to |cRXP_FRIENDLY_Conacher|r inside	Sprich drinnen mit |cRXP_FRIENDLY_Conacher|r
+f1effaea	Run up to the docks then jump in the water at the intersection	Lauf hinauf zu den Docks und spring dann an der Kreuzung ins Wasser
+f1f03453	|5/5 Deathguards motivated	|5/5 Deathguards motiviert
+f1f195b7	Kill |cRXP_ENEMY_Darkhounds|r. Loot them for their |cRXP_LOOT_Blood|r	Töte |cRXP_ENEMY_Darkhounds|r. Plündere sie für ihr |cRXP_LOOT_Blood|r
+f1f20988	Accept The Thirsty Goblin	Nimm The Thirsty Goblin an
+f1fd26e8	Train |T136103:0|t[Wolf Riding]	Trainiere |T136103:0|t[Wolf Riding]
+f1ff766c	|cRXP_WARN_Search the Bloodsail Ships for|r |T134939:0|t[|cRXP_LOOT_Cortello's Riddle|r]|cRXP_WARN_. It can spawn on any of the 3 ships|r	|cRXP_WARN_Durchsuche die Bloodsail-Schiffe nach|r |T134939:0|t[|cRXP_LOOT_Cortello's Riddle|r]|cRXP_WARN_. Es kann auf jedem der 3 Schiffe spawnen|r
+f20695df	Kill |cRXP_ENEMY_Large Crag Boars|r and |cRXP_ENEMY_Crag Boars|r en route	Töte unterwegs |cRXP_ENEMY_Large Crag Boars|r und |cRXP_ENEMY_Crag Boars|r
+f20a5c77	|cRXP_WARN_Kill |cRXP_ENEMY_Young Scavengers|r and |cRXP_ENEMY_Duskbats|r. Loot them until you have 50 copper worth of vendor items (including your armor)|r	|cRXP_WARN_Töte |cRXP_ENEMY_Young Scavengers|r und |cRXP_ENEMY_Duskbats|r. Plündere sie, bis du Händlerware im Wert von 50 Kupfer hast (inklusive deiner Rüstung)|r
+f20d6c4e	Kill |cRXP_ENEMY_Crag Boars|r and |cRXP_ENEMY_Large Crag Boars|r. Loot them for their |cRXP_LOOT_Crag Boar Ribs|r	Töte |cRXP_ENEMY_Crag Boars|r und |cRXP_ENEMY_Large Crag Boars|r. Plündere sie für ihre |cRXP_LOOT_Crag Boar Ribs|r
+f20daf7b	Turn in Our Ancient Enemy	Gib Our Ancient Enemy ab
+f20dfbff	Accept Stolen Silver	Nimm Stolen Silver an
+f20e37ea	|cRXP_WARN_Be careful as |cRXP_ENEMY_Twilight Disciples|r cast|r |T135953:0|t[Renew] |cRXP_WARN_and a 3 second|r |T135915:0|t[Heal]	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Twilight Disciples|r wirken:|r |T135953:0|t[Renew] |cRXP_WARN_und eine 3-Sekunden-|r |T135915:0|t[Heal]
+f210e1ef	Talk to |cRXP_FRIENDLY_Mary|r	Sprich mit |cRXP_FRIENDLY_Mary|r
+f212c087	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Brother Wilhelm|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Brother Wilhelm|r
+f21bad80	|cRXP_BUY_Buy up to 10|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_from him if needed|r	|cRXP_BUY_Kaufe bei Bedarf bis zu 10|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_bei ihm|r
+f225958c	Turn in Twisted Evils	Gib Twisted Evils ab
+f22682e3	Head to the middle floor of the second tower in Hearthglen located on the northern side of the city. Use the |T134237:0|t[|cRXP_LOOT_Safe Box Key|r] to open [|cRXP_PICK_Belavus' Safe Box|r] and loot it for the |T134419:0|t[|cRXP_FRIENDLY_Rune of the Crimson Tempest|r]	Begib dich in das mittlere Stockwerk des zweiten Turms in Hearthglen auf der Nordseite der Stadt. Benutze den |T134237:0|t[|cRXP_LOOT_Safe Box Key|r], um [|cRXP_PICK_Belavus' Safe Box|r] zu öffnen, und plündere sie für die |T134419:0|t[|cRXP_FRIENDLY_Rune of the Crimson Tempest|r]
+f2268a32	Loot the |cRXP_LOOT_Hillsbrad Town Registry|r and burn the |cRXP_PICK_Hillsbrad Proclamation|r	Plündere |cRXP_LOOT_Hillsbrad Town Registry|r und verbrenne |cRXP_PICK_Hillsbrad Proclamation|r
+f227b768	Travel to Tanaris	Reise nach Tanaris
+f22a794e	Turn in Evershine	Gib Evershine ab
+f22cb953	Turn in Blackmoore's Legacy	Gib Blackmoore's Legacy ab
+f22d43e1	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Jamie Nore|r to receive |T134419:0|t[|cRXP_FRIENDLY_Rune of Mutilation|r] from her	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Jamie Nore|r, um |T134419:0|t[|cRXP_FRIENDLY_Rune of Mutilation|r] von ihr zu erhalten
+f22edfcb	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Urda|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Urda|r
+f22f96b6	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Urek|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Urek|r
+f23129eb	Turn in Lines of Communication	Gib Lines of Communication ab
+f23558ca	Turn in Hinterlands Mission IV: Dragon Intelligence	Gib Hinterlands Mission IV: Dragon Intelligence ab
+f23769b5	Accept The Shattered Hand	Nimm The Shattered Hand an
+f23ed59e	Kill |cRXP_ENEMY_Thundering Exiles|r. Loot them for their |T133435:0|t[Thundering Charms]	Töte |cRXP_ENEMY_Thundering Exiles|r. Plündere sie für ihre |T133435:0|t[Thundering Charms]
+f2413127	Click on the |cRXP_PICK_Keystone|r	Klicke auf |cRXP_PICK_Keystone|r
+f242785b	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Nathanos|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Nathanos|r
+f244f60a	|cRXP_WARN_You will need to kill |cRXP_ENEMY_Calyx Greenglow|r after turning this quest in|r	|cRXP_WARN_Du musst |cRXP_ENEMY_Calyx Greenglow|r töten, nachdem du diese Quest abgegeben hast|r
+f2480e36	c:Mulgore,50.23,79.38	c:Mulgore,50.23,79.38
+f24d4c84	Kill |cRXP_ENEMY_Scorpid Workers|r. Loot them for |cRXP_LOOT_Scorpid Worker Tails|r	Töte |cRXP_ENEMY_Scorpid Workers|r. Plündere sie für |cRXP_LOOT_Scorpid Worker Tails|r
+f24e83d9	Follow the river from the entrance toward Menethil Harbor.	Folge dem Fluss vom Eingang in Richtung Menethil Harbor.
+f24ffdbc	Accept The Corrupter	Nimm The Corrupter an
+f251915d	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Talk to|r |cRXP_FRIENDLY_Geoffrey|r|cRXP_BUY_. Buy a|r |T135341:0|t[Rondel] |cRXP_BUY_from him|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Sprich mit|r |cRXP_FRIENDLY_Geoffrey|r|cRXP_BUY_. Kaufe|r |T135341:0|t[Rondel] |cRXP_BUY_bei ihm|r
+f2565241	Turn in Ashenvale Mission VIII: Recover Azsharan Prophecy	Gib Ashenvale Mission VIII: Recover Azsharan Prophecy ab
+f25a60f6	Talk to |cRXP_FRIENDLY_Metz|r	Sprich mit |cRXP_FRIENDLY_Metz|r
+f25aed08	Accept The Greenwarden	Nimm The Greenwarden an
+f25be773	|cRXP_WARN_Keep an eye out for |cRXP_FRIENDLY_Ol' Emma|r as she patrols around and you need to talk to her later|r	|cRXP_WARN_Halte Ausschau nach |cRXP_FRIENDLY_Ol' Emma|r, da sie herumläuft und du später mit ihr sprechen musst|r
+f25cb072	Spell Research	Zauberforschung
+f25ce73f	Grind to 1110+/1400xp on your way back to town	Grinde auf dem Rückweg in die Stadt bis 1110+/1400 EP
+f26110db	Kill the |cRXP_ENEMY_Dark Strand|r. Loot them for the |cRXP_LOOT_Glowing Soul Gem|r	Töte die |cRXP_ENEMY_Dark Strand|r. Plündere sie für den |cRXP_LOOT_Glowing Soul Gem|r
+f267c068	Kill |cRXP_ENEMY_Boulderfist Ogres|r and |cRXP_ENEMY_Boulderfist Enforcers|r. Loot them for a |T134921:0|t|cRXP_LOOT_[Ogre Lightning Rod]|r	Töte |cRXP_ENEMY_Boulderfist Ogres|r und |cRXP_ENEMY_Boulderfist Enforcers|r. Plündere sie für einen |T134921:0|t|cRXP_LOOT_[Ogre Lightning Rod]|r
+f26a9572	Buy 1-2 6 slot bags to fill your bag slots	Kaufe 1-2 Taschen mit 6 Plätzen, um deine Taschenplätze zu füllen
+f26de573	|cRXP_WARN_Be careful as |cRXP_ENEMY_Skeletal Fiends|r cast|r |T136224:0|t[Fiend Fury] |cRXP_WARN_(Increases damage dealt by 45)|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Skeletal Fiends|r wirken:|r |T136224:0|t[Fiend Fury] |cRXP_WARN_(erhöht den verursachten Schaden um 45)|r
+f26e77ea	|cRXP_WARN_Delete any remaining|r |T134813:0|t[Videre Elixirs] |cRXP_WARN_you have|r	|cRXP_WARN_Lösche alle restlichen|r |T134813:0|t[Videre Elixirs]|cRXP_WARN_, die du hast|r
+f272579b	|cRXP_FRIENDLY_Nikova Raskol|r |cRXP_WARN_patrols in Old Town|r	|cRXP_FRIENDLY_Nikova Raskol|r |cRXP_WARN_patrouilliert in Old Town|r
+f27cf7d1	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Zardeth of the Black Claw|r and |cRXP_FRIENDLY_Zggi|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Zardeth of the Black Claw|r und |cRXP_FRIENDLY_Zggi|r
+f27ea983	|cRXP_ENEMY_Bloodfeather Matriarchs|r |cRXP_WARN_cast|r |T136052:0|t[Healing Wave] |cRXP_WARN_and|r |T136048:0|t[Lightning Bolt] |cRXP_WARN_which does a lot of damage. Try to burst them fast|r	|cRXP_ENEMY_Bloodfeather Matriarchs|r |cRXP_WARN_wirken|r |T136052:0|t[Healing Wave] |cRXP_WARN_und|r |T136048:0|t[Lightning Bolt]|cRXP_WARN_, was viel Schaden macht. Versuche, sie schnell zu bursten|r
+f280666f	Accept Journey to Sentinel Hill	Nimm Journey to Sentinel Hill an
+f28123c6	|cRXP_WARN_You will level Herbalism from 1-70 in a starter zone.|r	|cRXP_WARN_Du levelst Herbalism von 1-70 in einem Startgebiet.|r
+f284262c	Remnants of War	Remnants of War
+f285c522	Run down to southeast Searing Gorge where Margol the Rager is found. Wait for him to patrol all the way out of his cave (or kill him), then logout skip from the mushrooms at the back	Lauf hinunter in den Südosten von Searing Gorge, wo sich Margol the Rager aufhält. Warte, bis er ganz aus seiner Höhle herausgelaufen ist (oder töte ihn), und mach dann hinten bei den Pilzen einen Logout-Skip
+f28a4eed	Turn in Ogre Head On A Stick = Party	Gib Ogre Head On A Stick = Party ab
+f290fb2d	|cRXP_WARN_You will now complete a pre-quest for the Hall of Thanes, then run the dungeon|r	|cRXP_WARN_Du schließt jetzt eine Vorquest für die Hall of Thanes ab und spielst dann den Dungeon|r
+f292f58e	Accept Assessing the Threat	Nimm Assessing the Threat an
+f2a4274d	Abandon Swoop Hunting	Brich Swoop Hunting ab
+f2adb4d8	Click on the Crate	Klicke auf die Kiste
+f2af83a6	|cRXP_WARN_You may kill |cRXP_ENEMY_Muckrake|r or just CC him, loot and then run away|r	|cRXP_WARN_Du kannst |cRXP_ENEMY_Muckrake|r töten oder ihn einfach mit CC kontrollieren, plündern und dann weglaufen|r
+f2aff9d5	Click on the |cRXP_PICK_Wanted Poster|r	Klicke auf |cRXP_PICK_Wanted Poster|r
+f2b09851	Arrive in Winterspring	Komm in Winterspring an
+f2b2cca1	|cRXP_WARN_NOTE: This quest does NOT give bonus XP similar to other dungeon quests, and takes significantly longer to complete. Consider skipping this quest if your group agrees|r	|cRXP_WARN_HINWEIS: Diese Quest gibt KEINE Bonus-EP wie andere Dungeonquests und dauert deutlich länger. Überleg dir, sie zu überspringen, falls deine Gruppe einverstanden ist|r
+f2b82699	Kill |cRXP_ENEMY_Winterfall Pathfinders|r, |cRXP_ENEMY_Winterfall Den Watchers|r and |cRXP_ENEMY_Winterfall Totemics|r	Töte |cRXP_ENEMY_Winterfall Pathfinders|r, |cRXP_ENEMY_Winterfall Den Watchers|r und |cRXP_ENEMY_Winterfall Totemics|r
+f2c0a895	Accept Drive Them Out	Nimm Drive Them Out an
+f2c1412b	Kill |cRXP_ENEMY_Twilight Keeper Mayna|r. Loot her for the |cRXP_LOOT_Twilight Lexicon - Chapter 1|r	Töte |cRXP_ENEMY_Twilight Keeper Mayna|r. Plündere sie für das |cRXP_LOOT_Twilight Lexicon - Chapter 1|r
+f2c2758c	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Princess Moira Bronzebeard|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Princess Moira Bronzebeard|r
+f2c4ffff	Turn in Kodo Roundup	Gib Kodo Roundup ab
+f2cbbc96	Talk to |cRXP_FRIENDLY_Grual|r in the room behind |cRXP_FRIENDLY_Trelayne|r	Sprich mit |cRXP_FRIENDLY_Grual|r im Raum hinter |cRXP_FRIENDLY_Trelayne|r
+f2d195a9	|cRXP_WARN_Skip this step if any of them is not there and you're unable to complete the objective|r	|cRXP_WARN_Überspringe diesen Schritt, falls einer von ihnen nicht da ist und du das Questziel nicht erledigen kannst|r
+f2d1ff81	Withdraw the |T134238:0|t[Small Brass Key] from your bank (if you have it)	Hol den |T134238:0|t[Small Brass Key] aus deiner Bank (falls du ihn hast)
+f2d25c72	|cRXP_WARN_Be careful as |cRXP_ENEMY_Scorching Elementals|r cast|r |T135827:0|t[Scorch] |cRXP_WARN_(Deals about 150 damage) and |cRXP_ENEMY_Blazing Invaders|r cast|r |T135903:0|t[Blast Wave] |cRXP_WARN_(instantly deals about 500 fire damage)|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Scorching Elementals|r wirken:|r |T135827:0|t[Scorch] |cRXP_WARN_(verursacht etwa 150 Schaden) und |cRXP_ENEMY_Blazing Invaders|r wirken|r |T135903:0|t[Blast Wave] |cRXP_WARN_(verursacht sofort etwa 500 Feuerschaden)|r
+f2d3de0d	|cRXP_WARN_There can be times where all |cRXP_PICK_Musty Tomes|r are traps and you must open them to force a correct one to spawn|r	|cRXP_WARN_Manchmal sind alle |cRXP_PICK_Musty Tomes|r Fallen und du musst sie öffnen, damit ein richtiges spawnt|r
+f2d69905	57-59 Western/Eastern Plaguelands	57-59 Western/Eastern Plaguelands
+f2d7667a	Fly to Sepulcher if you have the flight path	Flieg nach Sepulcher, falls du die Flugroute hast
+f2d9450f	Accept Plainstrider Menace	Nimm Plainstrider Menace an
+f2d94c66	Turn in Hinterlands Mission V: Turtle Intelligence	Gib Hinterlands Mission V: Turtle Intelligence ab
+f2dabf90	Palemane Poacher (5)	Palemane Poacher (5)
+f2df1cbb	Kill |cRXP_ENEMY_Kraul Bats|r. Loot them for a |cRXP_LOOT_Kraul Guano|r	Töte |cRXP_ENEMY_Kraul Bats|r. Plündere sie für einen |cRXP_LOOT_Kraul Guano|r
+f2e4b729	Travel Toward |cRXP_ENEMY_Grimson the Pale|r	Reise in Richtung |cRXP_ENEMY_Grimson the Pale|r
+f2e74380	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Jubahl Corpseseeker|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Jubahl Corpseseeker|r
+f2eb06ce	|cRXP_BUY_Buy a|r |T135641:0|t[Stiletto] |cRXP_BUY_from her if you can afford it|r	|cRXP_BUY_Kaufe ein|r |T135641:0|t[Stiletto] |cRXP_BUY_bei ihr, falls du es dir leisten kannst|r
+f2ee834d	|cRXP_WARN_This will start a 45 minute timer for the quest. Do NOT go AFK or log out for the next 5 minutes|r	|cRXP_WARN_Damit startet ein 45-Minuten-Timer für die Quest. Geh in den nächsten 5 Minuten NICHT AFK und logg dich NICHT aus|r
+f2fadd95	|cRXP_WARN_The log is on the ship's mid-level, towards its front|r	|cRXP_WARN_Das Logbuch liegt auf dem mittleren Deck des Schiffs, Richtung Bug|r
+f2fc12ec	Open |cRXP_PICK_Kerlonian's Chest|r. Loot it for the |cRXP_LOOT_Horn of Awakening|r	Öffne |cRXP_PICK_Kerlonian's Chest|r. Plündere es für |cRXP_LOOT_Horn of Awakening|r
+f30065f7	Venture Co. Supervisor (6)	Venture Co. Supervisor (6)
+f3062e03	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Talk to|r |cRXP_FRIENDLY_Katis|r|cRXP_BUY_. Buy a|r |T135139:0|t[Burning Wand] |cRXP_BUY_from her|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Sprich mit|r |cRXP_FRIENDLY_Katis|r|cRXP_BUY_. Kaufe|r |T135139:0|t[Burning Wand] |cRXP_BUY_bei ihr|r
+f30740f8	|cRXP_WARN_Be careful of |cRXP_ENEMY_Dalaran Shield Guards'|r |cRXP_WARN_glowing|r |T136173:0|t[Violet Shield Effect] |cRXP_WARN_ buff. It lasts eight seconds and returns 85 damage upon being struck in melee|r	|cRXP_WARN_Achte auf den leuchtenden Stärkungszauber der |cRXP_ENEMY_Dalaran Shield Guards'|r |cRXP_WARN_–|r |T136173:0|t[Violet Shield Effect]|cRXP_WARN_. Er hält acht Sekunden und wirft bei Nahkampftreffern 85 Schaden zurück|r
+f30795cc	|cRXP_BUY_Buy a|r |T134237:0|t[Kolkar Booty Key] |cRXP_BUY_from the Auction House if possible|r	|cRXP_BUY_Kaufe einen|r |T134237:0|t[Kolkar Booty Key] |cRXP_BUY_im Auktionshaus, falls möglich|r
+f307b52f	Batch ingredients: 55 Coyote Meat.	Zutaten für die Charge: 55 Coyote Meat.
+f3084549	|T133918:0|t[Longjaw Mud Snappers] |cRXP_WARN_are extremely cheap, buy as many as you want|r	|T133918:0|t[Longjaw Mud Snappers] |cRXP_WARN_sind extrem billig, kaufe so viele du willst|r
+f3091034	|cRXP_WARN_Use the|r |T134332:0|t[|cRXP_LOOT_Mulgore Expansion Plans|r] |cRXP_WARN_to start the quest|r	|cRXP_WARN_Benutze|r |T134332:0|t[|cRXP_LOOT_Mulgore Expansion Plans|r] |cRXP_WARN_, um die Quest zu starten|r
+f30d26c6	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Turak|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Turak|r
+f3101873	Talk to |cRXP_FRIENDLY_Baldruc|r	Sprich mit |cRXP_FRIENDLY_Baldruc|r
+f314641a	|cRXP_WARN_Cast|r |T132172:0|t[Eagle Eye] |cRXP_WARN_to try and locate |cRXP_ENEMY_Bhag'thera|r|r	|cRXP_WARN_Wirke|r |T132172:0|t[Eagle Eye]|cRXP_WARN_, um |cRXP_ENEMY_Bhag'thera|r aufzuspüren|r
+f315d464	Turn in The Last Element	Gib The Last Element ab
+f316151e	Accept The Spirits of Southwind	Nimm The Spirits of Southwind an
+f3162361	|cRXP_WARN_Pre-Cast|r |T135850:0|t[Frost Ward] |cRXP_WARN_and|r |T135988:0|t[Ice Barrier]	|cRXP_WARN_Wirke vorab|r |T135850:0|t[Frost Ward] |cRXP_WARN_und|r |T135988:0|t[Ice Barrier]
+f3188e1d	Turn in Open the Maw	Gib Open the Maw ab
+f3238ccd	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Thotar|r inside	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Thotar|r drinnen
+f326e1c1	Turn in Secret Communication	Gib Secret Communication ab
+f32aaa09	|cRXP_WARN_Use your|r |T132164:0|t[Taming Rod] |cRXP_WARN_on a|r |cRXP_ENEMY_Surf Crawler|r |cRXP_WARN_at max range|r	|cRXP_WARN_Benutze deinen|r |T132164:0|t[Taming Rod] |cRXP_WARN_bei einem|r |cRXP_ENEMY_Surf Crawler|r |cRXP_WARN_auf maximale Reichweite|r
+f332c35f	REMOVE THIS STEP LATER	DIESEN SCHRITT SPÄTER ENTFERNEN
+f3337a97	|cRXP_WARN_You could also buy them from the auction house instead|r	|cRXP_WARN_Du kannst sie stattdessen auch im Auktionshaus kaufen|r
+f333aed8	|cRXP_WARN_Perform a Logout skip on the Urn next to |cRXP_ENEMY_Shadow Lord Fel'dan|r to teleport to Irontree Woods|r	|cRXP_WARN_Mach einen Logout-Skip auf der Urne neben |cRXP_ENEMY_Shadow Lord Fel'dan|r, um dich nach Irontree Woods zu teleportieren|r
+f334c69e	Kill the |cRXP_ENEMY_Demon Spirit|r after it spawns. Loot it for the |cRXP_LOOT_Demon Box|r	Töte den |cRXP_ENEMY_Demon Spirit|r, nachdem er erschienen ist. Plündere ihn für die |cRXP_LOOT_Demon Box|r
+f339939e	Teleport to Orgrimmar or Undercity. Train your level 50-52 spells	Teleportiere dich nach Orgrimmar oder Undercity. Trainiere deine Zauber der Stufen 50-52
+f33ad02a	|cRXP_ENEMY_Mor'Ladim|r |cRXP_WARN_hits very hard but moves quite slow. Try to kite him around any large trees if required|r	|cRXP_ENEMY_Mor'Ladim|r |cRXP_WARN_schlägt sehr hart zu, bewegt sich aber recht langsam. Kite ihn bei Bedarf um große Bäume herum|r
+f33d348d	Click |cRXP_PICK_Illari's Loot Cache|r on the ground	Klicke auf |cRXP_PICK_Illari's Loot Cache|r am Boden
+f33ef7db	Turn in Meet at the Grave	Gib Meet at the Grave ab
+f3409f23	Accept Bugged	Nimm Bugged an
+f340e3d3	You may have to wait for the RP to finish	Eventuell musst du warten, bis das RP vorbei ist
+f3446df6	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Thorgas Grimson|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Thorgas Grimson|r
+f3456c1c	Be careful of Chatter (rare), as he has an 8 second-long stun	Achte auf Chatter (Rar), da er eine 8 Sekunden lange Betäubung hat
+f34ca12e	Turn in The Scarlet Rune	Gib The Scarlet Rune ab
+f34dba48	Captain Melrache (1)	Captain Melrache (1)
+f352bb67	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Vahi|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Vahi|r
+f35e74dd	Train |T136126:0|t[Life Tap]	Trainiere |T136126:0|t[Life Tap]
+f365c227	|cRXP_WARN_Clear an exit path if needed so you can reset them along with the |cRXP_ENEMY_Succubus|r if needed|r	|cRXP_WARN_Räume bei Bedarf einen Fluchtweg frei, damit du sie zusammen mit der |cRXP_ENEMY_Succubus|r zurücksetzen kannst|r
+f368f1e5	|TInterface/cursor/crosshair/interact.blp:16|tClick on the |cRXP_PICK_Flutterfly Dust|r.	|TInterface/cursor/crosshair/interact.blp:16|tKlicke auf |cRXP_PICK_Flutterfly Dust|r.
+f3693e0b	Nutri - First Aid 1-300	Nutri - First Aid 1-300
+f37191ce	Kill |cRXP_ENEMY_Vagash|r. Loot him for the |cRXP_LOOT_Fang of Vagash|r	Töte |cRXP_ENEMY_Vagash|r. Plündere ihn für den |cRXP_LOOT_Fang of Vagash|r
+f372de10	Abandon Separation Anxiety	Brich Separation Anxiety ab
+f3777313	|cRXP_WARN_If you are in a group, hand in this quest while with your party! |cRXP_ENEMY_Thenan|r, a level 42 Elite will spawn. You can either kill him or run away and reset him if you're solo|r	|cRXP_WARN_Falls du in einer Gruppe bist, gib diese Quest zusammen mit deiner Gruppe ab! |cRXP_ENEMY_Thenan|r, ein Elite der Stufe 42, erscheint. Solo kannst du ihn entweder töten oder weglaufen und ihn zurücksetzen|r
+f3780165	|cRXP_WARN_Be on the lookout for any|r Cloak |cRXP_WARN_drops|r|cRXP_WARN_. Equip it and engrave|r |T236168:0|t[Starfall] |cRXP_WARN_on it|r	|cRXP_WARN_Halte Ausschau nach|r Cloak |cRXP_WARN_-Drops|r|cRXP_WARN_. Lege ihn an und graviere|r |T236168:0|t[Starfall] |cRXP_WARN_darauf|r
+f379aa2a	Loot Scarab Shells inside of ZF after you've AoE'd them	Plündere Scarab Shells in ZF, nachdem du die Mobs per AoE bekämpft hast
+f37cb767	Enter the RFC Instance portal. Zone in	Betritt das Instanzportal von RFC. Lade in die Instanz
+f38424b1	|cRXP_WARN_Create|r |T133684:0|t[Wool Bandages] |cRXP_WARN_until your skill is 115|r	|cRXP_WARN_Stelle|r |T133684:0|t[Wool Bandages] |cRXP_WARN_her, bis deine Fertigkeit 115 erreicht|r
+f3845062	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Orphan Matron Nightingale|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Orphan Matron Nightingale|r
+f38d4972	|cRXP_WARN_Position your character until it looks like they're floating, then perform a Logout Skip by logging out and back in|r	|cRXP_WARN_Positioniere deinen Charakter so, dass er zu schweben scheint, und mach dann einen Logout-Skip, indem du dich aus- und wieder einloggst|r
+f396fc76	Leatherworking route reviewed against the Forever beta reference on 2026-10-14.	Leatherworking-Route am 2026-10-14 mit der Forever-Beta-Referenz abgeglichen.
+f39e3343	Loot the |cRXP_PICK_Abandoned Dagger|r on the ground	Plündere |cRXP_PICK_Abandoned Dagger|r auf dem Boden
+f39ec00e	Travel toward the Darkshore Boat	Reise in Richtung des Schiffs nach Darkshore
+f3a2912b	Turn in Broodling Essence	Gib Broodling Essence ab
+f3a2c28f	Enter Scarlet Monastery. Start with Library so you can loot the [|cRXP_FRIENDLY_The Scarlet Key|r] at the end	Betritt Scarlet Monastery. Beginne mit Library, damit du am Ende [|cRXP_FRIENDLY_The Scarlet Key|r] plündern kannst
+f3b4798b	Accept Our Ancient Enemy	Nimm Our Ancient Enemy an
+f3ba8a11	Stranglethorn Seed	Stranglethorn Seed
+f3bce50e	View the Anchor Pylon	Betrachte den Anchor Pylon
+f3bdd855	Kill |cRXP_ENEMY_Stonesplinter Seers|r. Loot them for their |cRXP_LOOT_Reagent Pouch|r	Töte |cRXP_ENEMY_Stonesplinter Seers|r. Plündere sie für ihren |cRXP_LOOT_Reagent Pouch|r
+f3bf4e54	Talk to |cRXP_FRIENDLY_Rohan the Assassin|r	Sprich mit |cRXP_FRIENDLY_Rohan the Assassin|r
+f3c37b4d	Blackened Skull (3)	Blackened Skull (3)
+f3c77e61	|cRXP_BUY_Buy a|r |T132264:0|t[|cFF0070FFSkeletal Horse|r]	|cRXP_BUY_Kaufe ein|r |T132264:0|t[|cFF0070FFSkeletal Horse|r]
+f3c7dc68	|cRXP_WARN_Be careful as|r |cRXP_ENEMY_Scalding Elementals|r |cRXP_WARN_cast|r |T135807:0|t[Scald]|cRXP_WARN_, instantly dealing 150 fire damage and stunning you for 4 seconds|r	|cRXP_WARN_Sei vorsichtig, da|r |cRXP_ENEMY_Scalding Elementals|r |cRXP_WARN_wirken:|r |T135807:0|t[Scald]|cRXP_WARN_, was sofort 150 Feuerschaden verursacht und dich 4 Sekunden lang betäubt|r
+f3c982a4	Kill |cRXP_ENEMY_Venture Co. Operators|r. Loot them for their |cRXP_LOOT_Blueprints|r	Töte |cRXP_ENEMY_Venture Co. Operators|r. Plündere sie für ihre |cRXP_LOOT_Blueprints|r
+f3cb29db	Accept The Monogrammed Sash	Nimm The Monogrammed Sash an
+f3cce7cb	Accept Zalazane	Nimm Zalazane an
+f3d54da7	Abandon Arachnophobia	Brich Arachnophobia ab
+f3d5f4c7	Loot the |cRXP_LOOT_Scaber Stalks|r and a |cRXP_LOOT_Death Cap|r on the ground	Plündere |cRXP_LOOT_Scaber Stalks|r und eine |cRXP_LOOT_Death Cap|r auf dem Boden
+f3d7552b	Exit Ruins of Lordaeron	Verlasse Ruins of Lordaeron
+f3dd91eb	Train Expert Mining.	Trainiere Expert Mining.
+f3e38319	|cRXP_WARN_You have 5 minutes to return to Anvilmar before|r |T132791:0|t[Durnan's Scalding Mornbrew] |cRXP_WARN_expires|r	|cRXP_WARN_Du hast 5 Minuten, um nach Anvilmar zurückzukehren, bevor|r |T132791:0|t[Durnan's Scalding Mornbrew] |cRXP_WARN_ausläuft|r
+f3e50194	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Spraggle|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Spraggle|r
+f3e80d1a	Requirements: First Aid 50; no character level requirement.	Voraussetzungen: First Aid 50; keine Mindeststufe für den Charakter.
+f3e8d931	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Vira|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Vira|r
+f3e98359	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Vish|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Vish|r
+f3f68708	Turn in The Public Servant	Gib The Public Servant ab
+f3fa4b06	|cRXP_WARN_Use the|r |T132821:0|t[Empty Blue Waterskin] |cRXP_WARN_under the Gazebo|r	|cRXP_WARN_Benutze den|r |T132821:0|t[Empty Blue Waterskin] |cRXP_WARN_unter dem Pavillon|r
+f3fe54d7	Loot the |cRXP_LOOT_Spirit of Silverpine Log|r on the bottom of the ship. It is on the sea floor	Plündere |cRXP_LOOT_Spirit of Silverpine Log|r unten am Schiff. Es liegt auf dem Meeresgrund
+f3fece22	Kill |cRXP_ENEMY_Duskbats|r. Loot them for their |cRXP_LOOT_Pelts|r and |cRXP_LOOT_Wing Membranes|r	Töte |cRXP_ENEMY_Duskbats|r. Plündere sie für ihre |cRXP_LOOT_Pelts|r und |cRXP_LOOT_Wing Membranes|r
+f4024920	A Grand Adventure	A Grand Adventure
+f403d083	|cRXP_WARN_Remember to reapply this food buff when it expires|r	|cRXP_WARN_Denk daran, diesen Essens-Stärkungszauber zu erneuern, wenn er ausläuft|r
+f4057200	Loot |cRXP_LOOT_Relic of the Silent Shadow|r	Plündere |cRXP_LOOT_Relic of the Silent Shadow|r
+f405b84d	|cRXP_WARN_Jump onto one of the standing torches in the cave. Perform a Logout Skip by logging out and back in|r	|cRXP_WARN_Spring auf eine der stehenden Fackeln in der Höhle. Mach einen Logout-Skip, indem du dich aus- und wieder einloggst|r
+f40aaba9	|cRXP_BUY_Buy a|r |T135346:0|t[Cutlass] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe ein|r |T135346:0|t[Cutlass] |cRXP_BUY_bei ihm|r
+f40e6565	Click on the Wagon	Klicke auf den Wagen
+f412ad02	Melon Juice (10)	Melon Juice (10)
+f412ada7	Melon Juice (15)	Melon Juice (15)
+f412b143	Melon Juice (20)	Melon Juice (20)
+f412b1e8	Melon Juice (25)	Melon Juice (25)
+f412b584	Melon Juice (30)	Melon Juice (30)
+f412b629	Melon Juice (35)	Melon Juice (35)
+f412b9c5	Melon Juice (40)	Melon Juice (40)
+f412ba6a	Melon Juice (45)	Melon Juice (45)
+f4130755	9 |T134564:0|t[Blue Pearls] (If you have them)	9 |T134564:0|t[Blue Pearls] (falls du welche hast)
+f41b489e	Turn in Hilary's Necklace	Gib Hilary's Necklace ab
+f41e2288	Accept Secure the Mountain	Nimm Secure the Mountain an
+f420e592	Keep the full batch of 30 bolts for Rough Copper Bombs.	Behalte die ganze Charge von 30 Bolzen für Rough Copper Bombs.
+f42a6cb8	c:Mulgore,63.86,66.31	c:Mulgore,63.86,66.31
+f42c487f	Accept The Longwalkers	Nimm The Longwalkers an
+f43178ce	Loot |cRXP_LOOT_Redpath's Shield|r on the ground	Plündere |cRXP_LOOT_Redpath's Shield|r auf dem Boden
+f439d8f4	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Thun'grim|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Thun'grim|r
+f43e2b28	c:Mulgore,63.86,79.97	c:Mulgore,63.86,79.97
+f440d90f	Turn in Elixir of Pain	Gib Elixir of Pain ab
+f443e549	Moss Agate	Moss Agate
+f4471ab3	c:Mulgore,59.50,48.21	c:Mulgore,59.50,48.21
+f4479b11	|cRXP_WARN_Repeat this process 5 times|r	|cRXP_WARN_Wiederhole das 5 Mal|r
+f447ea4c	Turn in behind you	Gib die Quest hinter dir ab
+f44b2767	Accept Dogran's Captivity	Nimm Dogran's Captivity an
+f44b5335	c:Mulgore,63.86,80.14	c:Mulgore,63.86,80.14
+f44e0675	Kill Centaurs. Loot them for their bracers	Töte Zentauren. Plündere sie für ihre Armschienen
+f44e5165	|cRXP_WARN_Use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Channeling|r] |cRXP_WARN_to train|r |T136168:0|t[Master Channeler]	|cRXP_WARN_Benutze|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Channeling|r] |cRXP_WARN_, um zu trainieren:|r |T136168:0|t[Master Channeler]
+f44faf19	Turn in Deliver the Shipment	Gib Deliver the Shipment ab
+f452b03c	|cRXP_WARN_Don't start the quest for the |T134939:0|t[|cRXP_LOOT_Ship Schedule|r] yet|r	|cRXP_WARN_Starte die Quest für den |T134939:0|t[|cRXP_LOOT_Ship Schedule|r] noch nicht|r
+f455b8e3	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Dalar|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Dalar|r
+f455c1de	Turn in The Second Rebellion	Gib The Second Rebellion ab
+f4569d5c	Accept Hinterlands Mission XVII: Rescue Serlina Starbright	Nimm Hinterlands Mission XVII: Rescue Serlina Starbright an
+f4584906	This guide will guide you through leveling your Herbalism profession from 1-300 for Alliance players.	Dieser Guide führt dich als Allianzspieler durch das Leveln deines Berufs Kräuterkunde von 1-300.
+f4587d15	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Alaana Stormwalker::259119|r.	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Alaana Stormwalker::259119|r.
+f459edea	Get the Hammerfall Flight Path	Hol dir die Flugroute in Hammerfall
+f45bc286	Kill |cRXP_ENEMY_Rockjaw Troggs|r and |cRXP_ENEMY_Burly Rockjaw Troggs|r	Töte |cRXP_ENEMY_Rockjaw Troggs|r und |cRXP_ENEMY_Burly Rockjaw Troggs|r
+f45e9eaf	Set your Hearthstone to Stormwind	Setze deinen Ruhestein auf Stormwind
+f45f4c93	Turn in Break a Few Eggs	Gib Break a Few Eggs ab
+f4636eb1	Kill |cRXP_ENEMY_Rockjaw Bonesnappers|r inside the cave	Töte |cRXP_ENEMY_Rockjaw Bonesnappers|r in der Höhle
+f465e407	Whirlwind Weapon	Whirlwind Weapon
+f46826ce	Turn in A New Plague	Gib A New Plague ab
+f4690b7b	Kill |cRXP_ENEMY_Rockjaw Bonesnappers|r inside the mine	Töte |cRXP_ENEMY_Rockjaw Bonesnappers|r in der Mine
+f46a01e9	|cRXP_BUY_Buy 20|r |T132815:0|t[Ice Cold Milk] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe 20|r |T132815:0|t[Ice Cold Milk] |cRXP_BUY_bei ihm|r
+f46cf9ad	Grind to 1140+/4500xp	Grinde bis 1140+/4500 EP
+f46d9f0e	Kill |cRXP_ENEMY_Dark Iron Geologists|r	Töte |cRXP_ENEMY_Dark Iron Geologists|r
+f46daf7e	|cRXP_WARN_Complete this as your clear your way back down south toward|r |cRXP_FRIENDLY_Torwa Pathfinder|r	|cRXP_WARN_Erledige dies, während du dir den Weg zurück nach Süden bahnst, in Richtung|r |cRXP_FRIENDLY_Torwa Pathfinder|r
+f46e563d	|TInterface/cursor/crosshair/interact.blp:20|tClick on the |cRXP_PICK_Branch|r.	|TInterface/cursor/crosshair/interact.blp:20|tKlicke auf |cRXP_PICK_Branch|r.
+f473d302	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Norric Lochthane|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Norric Lochthane|r
+f4749faa	Turn in The Pariah's Instructions	Gib The Pariah's Instructions ab
+f47e3367	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Danil|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Danil|r
+f47f52f6	Go upstairs	Geh nach oben
+f4861234	|cRXP_WARN_If you fail the quest don't worry as you can get it again later|r	|cRXP_WARN_Falls die Quest fehlschlägt, keine Sorge, du kannst sie später erneut bekommen|r
+f4874e0d	Accept Petty Squabbles	Nimm Petty Squabbles an
+f487ed1b	|cRXP_WARN_There are more|r |cRXP_ENEMY_Elder Saltwater Crocolisks|r |cRXP_WARN_North along the coast|r	|cRXP_WARN_Weitere|r |cRXP_ENEMY_Elder Saltwater Crocolisks|r |cRXP_WARN_findest du weiter nördlich an der Küste|r
+f48a2668	Return to the city and wait for the roleplay.	Kehre in die Stadt zurück und warte das Rollenspiel ab.
+f4916b48	|cRXP_WARN_Check the westernmost hill for all spawns before you head east, kill all|r |cRXP_ENEMY_Hulking Mountain Lions|r |cRXP_WARN_you see as the objective is hard to complete if you skip mobs|r	|cRXP_WARN_Suche den westlichsten Hügel nach allen Spawns ab, bevor du nach Osten gehst, und töte alle|r |cRXP_ENEMY_Hulking Mountain Lions|r|cRXP_WARN_, die du siehst, da das Questziel schwer zu erfüllen ist, wenn du Mobs auslässt|r
+f49a1d74	Talk to |cRXP_FRIENDLY_Andromath|r	Sprich mit |cRXP_FRIENDLY_Andromath|r
+f49c0556	Kill |cRXP_ENEMY_Searing Whelps|r and |cRXP_ENEMY_Searing Hatchlings|r. Loot them for their |cRXP_LOOT_Tongues|r and |cRXP_LOOT_Hearts|r	Töte |cRXP_ENEMY_Searing Whelps|r und |cRXP_ENEMY_Searing Hatchlings|r. Plündere sie für ihre |cRXP_LOOT_Tongues|r und |cRXP_LOOT_Hearts|r
+f49d7adb	Elixir of Minor Strength	Elixir of Minor Strength
+f4a9d00d	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Stampi|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Stampi|r
+f4ab2e59	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Haughty|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Haughty|r
+f4b128d9	Batch ingredients: 10 Mageroyal, 10 Peacebloom, 10 Empty Vial.	Zutaten für die Charge: 10 Mageroyal, 10 Peacebloom, 10 Empty Vial.
+f4b19fb5	Kill |cRXP_ENEMY_Slitherblade Tidehunters|r and |cRXP_ENEMY_Slitherblade Sea Witches|r. Loot them for |cRXP_LOOT_Karnitol's Satchel|r	Töte |cRXP_ENEMY_Slitherblade Tidehunters|r und |cRXP_ENEMY_Slitherblade Sea Witches|r. Plündere sie für |cRXP_LOOT_Karnitol's Satchel|r
+f4b9bbe3	Accept Thwarting Kolkar Aggression	Nimm Thwarting Kolkar Aggression an
+f4ba40e4	Open the |cRXP_PICK_Rockjaw Footlocker|r on the ground. Loot it for the |T134939:0|t|cRXP_LOOT_[Spell Notes: CALE ENCI]|r	Öffne |cRXP_PICK_Rockjaw Footlocker|r auf dem Boden und plündere |T134939:0|t|cRXP_LOOT_[Spell Notes: CALE ENCI]|r daraus
+f4bc3b72	|cRXP_WARN_Recommended to bring before you start:|r	|cRXP_WARN_Empfohlen vor dem Start mitzubringen:|r
+f4c38272	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Darcy|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Darcy|r
+f4cf4aaf	Enter the silithid hive, then click the |cRXP_PICK_Scrimshank's Surveying Gear console|r and loot |cRXP_LOOT_Scrimshank's Surveying Gear|r	Betritt den Silithidenstock, klicke dann auf |cRXP_PICK_Scrimshank's Surveying Gear console|r und plündere |cRXP_LOOT_Scrimshank's Surveying Gear|r
+f4d34d3c	AoE Cats/Syndicates/Ogres en route	Bekämpfe unterwegs Katzen/Syndicate/Oger per AoE
+f4d4a19f	Kill |cRXP_ENEMY_Boulderfist Shamans|r and |cRXP_ENEMY_Boulderfist Lords|r	Töte |cRXP_ENEMY_Boulderfist Shamans|r und |cRXP_ENEMY_Boulderfist Lords|r
+f4d6869a	|cRXP_WARN_Remember to put|r |T134919:0|t[Rebuke] |cRXP_WARN_onto your action bars|r	|cRXP_WARN_Denk daran,|r |T134919:0|t[Rebuke] |cRXP_WARN_auf deine Aktionsleisten zu legen|r
+f4d94ef5	|cRXP_WARN_Use the|r |T134743:0|t[Earth Sapta]	|cRXP_WARN_Benutze|r |T134743:0|t[Earth Sapta]
+f4df205a	Accept Thunderhorn Cleansing	Nimm Thunderhorn Cleansing an
+f4e161b9	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Gregan Brewspewer|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Gregan Brewspewer|r
+f4e5c1eb	Accept Meet at the Grave	Nimm Meet at the Grave an
+f4edc91f	Travel toward the Darnassus Boat	Reise in Richtung des Schiffs nach Darnassus
+f4f1fbf2	Accept A Warrior's Training	Nimm A Warrior's Training an
+f4f8585f	Accept Squire Maltrake	Nimm Squire Maltrake an
+f4fee409	|T134170:0|t[Shadow Lord Fel'dan's Head] (If you have it)	|T134170:0|t[Shadow Lord Fel'dan's Head] (falls vorhanden)
+f50071a0	Equip the |T135145:0|t[Militia Quarterstaff]	Lege |T135145:0|t[Militia Quarterstaff] an
+f5010155	|cRXP_WARN_Withdraw 6 stacks of each cloth now: (|r|T132911:0|t[Wool Cloth]|cRXP_WARN_,|r |T132905:0|t[Silk Cloth]|cRXP_WARN_,|r |T132892:0|t[Mageweave Cloth]|cRXP_WARN_,|r and |T132903:0|t[Runecloth]|cRXP_WARN_)|r	|cRXP_WARN_Hol jetzt je 6 Stapel jedes Stoffs aus der Bank: (|r|T132911:0|t[Wool Cloth]|cRXP_WARN_,|r |T132905:0|t[Silk Cloth]|cRXP_WARN_,|r |T132892:0|t[Mageweave Cloth]|cRXP_WARN_,|r und |T132903:0|t[Runecloth]|cRXP_WARN_)|r
+f501485f	c:Mulgore,53.98,61.68	c:Mulgore,53.98,61.68
+f5037a42	c:Mulgore,53.98,65.94	c:Mulgore,53.98,65.94
+f506e62f	|1/1 Barrens Operations Best Practices	|1/1 Barrens Operations Best Practices
+f50e6bec	Equip your new wand	Lege deinen neuen Zauberstab an
+f50ed567	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_David|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_David|r
+f5172ae2	Turn in Of Lost Honor	Gib Of Lost Honor ab
+f518feeb	|cRXP_WARN_Make sure to turn off any autocomplete functions from addons such as Questie or Leatrix Plus for this!|r	|cRXP_WARN_Schalte hierfür unbedingt alle Auto-Abschluss-Funktionen von Addons wie Questie oder Leatrix Plus aus!|r
+f51bfc27	Abandon Luck Be With You if you didn't complete it earlier	Brich Luck Be With You ab, falls du sie vorhin nicht abgeschlossen hast
+f51d64b4	Grind |cRXP_ENEMY_Murlocs|r to 31550/44300 xp	Grinde |cRXP_ENEMY_Murlocs|r bis 31550/44300 EP
+f523e05c	Turn in Teldrassil	Gib Teldrassil ab
+f524d68a	Kill |cRXP_ENEMY_Black Oozes|r. Loot them for |cRXP_LOOT_Sida's Bag|r	Töte |cRXP_ENEMY_Black Oozes|r. Plündere sie für |cRXP_LOOT_Sida's Bag|r
+f5253c9e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Innkeeper Pala|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Innkeeper Pala|r
+f5285911	Turn in A Light in the Darkness	Gib A Light in the Darkness ab
+f52f5eaa	|cRXP_WARN_Wait for |cRXP_ENEMY_Deathclasp|r to patrol up the hill before looting|r |cRXP_LOOT_Noggle's Satchel|r	|cRXP_WARN_Warte, bis |cRXP_ENEMY_Deathclasp|r den Hügel hinaufpatrouilliert, bevor du plünderst:|r |cRXP_LOOT_Noggle's Satchel|r
+f530c637	Turn in Theldurin the Lost	Gib Theldurin the Lost ab
+f539273e	Click on the grave	Klicke auf das Grab
+f53a2a49	Accept Job Opening: Guard Captain of Revantusk Village	Nimm Job Opening: Guard Captain of Revantusk Village an
+f53dbd17	Fly to The Crossroads	Flieg nach The Crossroads
+f540f15c	Kill |cRXP_ENEMY_Magistrate Burnside|r and |cRXP_ENEMY_Clerk Horrace Whitesteed |r inside Hillsbrad Town Hall	Töte |cRXP_ENEMY_Magistrate Burnside|r und |cRXP_ENEMY_Clerk Horrace Whitesteed |r in der Hillsbrad Town Hall
+f5473786	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Tsunaman|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Tsunaman|r
+f5495b3b	Accept Broodling Essence	Nimm Broodling Essence an
+f549a023	Congratulations on reaching level 300 Herbalism!	Glückwunsch, du hast Kräuterkunde auf 300 gebracht!
+f54b6506	Die and respawn at the Thelsamar graveyard	Stirb und lass dich am Friedhof von Thelsamar wiederbeleben
+f54c3caf	|1/1 Offer aid to the Frightened Paladin	|1/1 Biete dem Frightened Paladin Hilfe an
+f55024fb	Grind en route	Grinde unterwegs
+f5518625	Craft |cRXP_FRIENDLY_Enchant Cloak - Minor Protection|r from skill 110 to 130.	Stelle |cRXP_FRIENDLY_Enchant Cloak - Minor Protection|r von Fertigkeit 110 bis 130 her.
+f552c9e2	Loot the orange |cRXP_LOOT_Death Cap|r on the ground at the end of the top path of the cave	Plündere die orange |cRXP_LOOT_Death Cap|r auf dem Boden am Ende des oberen Pfads der Höhle
+f5543fbb	Nuke him with Single Target	Mach ihn mit Single Target nieder
+f5547d38	|cRXP_WARN_Skip this step if you already have enough extra bags for your bank|r	|cRXP_WARN_Überspringe diesen Schritt, falls du bereits genug zusätzliche Taschen für deine Bank hast|r
+f5557c93	|cRXP_WARN_Use the|r |T135255:0|t[Rough Weightstone] |cRXP_WARN_on your current weapon|r	|cRXP_WARN_Benutze|r |T135255:0|t[Rough Weightstone] |cRXP_WARN_auf deiner aktuellen Waffe|r
+f5584c04	|cRXP_BUY_Buy|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_from her|r	|cRXP_BUY_Kaufe|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_bei ihr|r
+f5598b55	Turn in Freedom for All Creatures	Gib Freedom for All Creatures ab
+f55a4b1d	|1/1 Skybreaker Bulwark	|1/1 Skybreaker Bulwark
+f55a6843	|cRXP_BUY_Buy|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe|r |T133968:0|t[Freshly Baked Bread] |cRXP_BUY_bei ihm|r
+f55c2dae	Accept Zaeldarr the Outcast	Nimm Zaeldarr the Outcast an
+f55d7196	Collect Rock Hammer (1)	Sammle Rock Hammer (1)
+f55f2dbd	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Rohan the Assassin|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Rohan the Assassin|r
+f5626df6	Mine: Thorium Ore, Rich Thorium Ore	Abbauen: Thorium Ore, Rich Thorium Ore
+f5637e48	48-49 The Hinterlands	48-49 The Hinterlands
+f563b11b	Talk to |cRXP_FRIENDLY_Ormer|r	Sprich mit |cRXP_FRIENDLY_Ormer|r
+f564f5f4	Accept Plea To The Alliance	Nimm Plea To The Alliance an
+f5650dc8	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Jinar'Zillen|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Jinar'Zillen|r
+f5662684	1/1 Listen to Illaya	1/1 Hör Illaya zu
+f56d22d6	Deposit your |T134128:0|t[Blood Shards]	Lagere deine |T134128:0|t[Blood Shards] ein
+f56f0c8d	|cRXP_WARN_Don't go out of your way to collect all|r |cRXP_LOOT_Turtle Meat|r	|cRXP_WARN_Mach keine Umwege, um alles zu sammeln:|r |cRXP_LOOT_Turtle Meat|r
+f56f605a	Loot the |cRXP_PICK_Dusty Reliquary|r inside the lodge for the |cRXP_LOOT_Reliquary of Purity|r	Plündere |cRXP_PICK_Dusty Reliquary|r in der Hütte für |cRXP_LOOT_Reliquary of Purity|r
+f5708bb0	|cRXP_WARN_Be careful not to aggro the boss|r |cRXP_ENEMY_Ghamoo-Raja|r	|cRXP_WARN_Pass auf, den Boss nicht zu pullen:|r |cRXP_ENEMY_Ghamoo-Raja|r
+f5761c08	|cRXP_WARN_Use|r |T132599:0|t[Winna's Kitten Carrier] |cRXP_WARN_at the corrupted moonwell at the Ruins of Constellas|r	|cRXP_WARN_Benutze|r |T132599:0|t[Winna's Kitten Carrier] |cRXP_WARN_am verderbten Mondbrunnen bei den Ruins of Constellas|r
+f5767057	|cRXP_WARN_This quest takes 5 minutes, and will spawn 3 waves of Kobolds at set times:|r	|cRXP_WARN_Diese Quest dauert 5 Minuten und lässt zu festen Zeiten 3 Wellen von Kobolds spawnen:|r
+f57c4775	Loot |cRXP_LOOT_Maiden's Folly Log|r on the 2nd floor of the ship. It is inside of the Cauldron	Plündere |cRXP_LOOT_Maiden's Folly Log|r im 2. Stock des Schiffs. Es liegt im Kessel
+f5825f8b	Go through the tunnel to Loch Modan	Geh durch den Tunnel nach Loch Modan
+f583c5e7	Grind until you are 2040xp away from level 10	Grinde, bis dir noch 2040 EP bis Stufe 10 fehlen
+f58417dd	Kill the |cRXP_ENEMY_Enraged Shade|r. Loot it for the |T134939:0|t[|cRXP_LOOT_Spell Notes: Frozen Orb|r]	Töte den |cRXP_ENEMY_Enraged Shade|r. Plündere ihn für die |T134939:0|t[|cRXP_LOOT_Spell Notes: Frozen Orb|r]
+f58ecf7e	Train the Darnassus portal for convenience if you want (its not needed for any part of the route later)	Trainiere der Bequemlichkeit halber das Portal nach Darnassus, wenn du willst (es wird später an keiner Stelle der Route benötigt)
+f59c49b9	Keep an eye out for the Wandering Skeleton whilst you're AoEing. Kill him then loot him for the Outhouse Key	Achte beim AoE-Farmen auf das Wandering Skeleton. Töte es und plündere es für den Outhouse Key
+f59f9e00	Equip your |cRXP_FRIENDLY_Fishing Pole|r.	Lege deine |cRXP_FRIENDLY_Fishing Pole|r an.
+f5a7a57c	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Guard Byron|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Guard Byron|r
+f5a7ef03	fire nova r2	fire nova r2
+f5aa4897	Travel to Thelsamar	Reise nach Thelsamar
+f5ac856e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Witch Doctor Unbagwa|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Witch Doctor Unbagwa|r
+f5b367d2	Accept A Free Lunch	Nimm A Free Lunch an
+f5b4dc9b	Kill |cRXP_ENEMY_Mountain Boars|r. Loot them for their |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r	Töte |cRXP_ENEMY_Mountain Boars|r. Plündere sie für ihre |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r
+f5b807de	|cRXP_WARN_Stay on the lower part of The Slag Pit until 225.|r	|cRXP_WARN_Bleib bis 225 im unteren Teil von The Slag Pit.|r
+f5bb1b80	|cRXP_WARN_Open your|r |T132595:0|t[Hoard of the Black Dragonflight] |cRXP_WARN_if you haven't yet|r	|cRXP_WARN_Öffne deinen|r |T132595:0|t[Hoard of the Black Dragonflight]|cRXP_WARN_, falls du es noch nicht getan hast|r
+f5beb9aa	Find a corrupt furbolg camp (1)	Finde ein verderbtes Furbolglager (1)
+f5c212ae	Accept Hilary's Necklace	Nimm Hilary's Necklace an
+f5c219be	Click on |cRXP_PICK_Cortello's Treasure|r underwater	Klicke auf |cRXP_PICK_Cortello's Treasure|r unter Wasser
+f5cb779d	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Galen Goodward|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Galen Goodward|r
+f5cc08eb	Jumping Logout Skip from the Brazier inside the tunnel to Thelsamar	Logout-Skip per Sprung vom Kohlenbecken im Tunnel nach Thelsamar
+f5cc15e3	Accept Legends of Maraudon	Nimm Legends of Maraudon an
+f5d5a7bf	Fly to Winterspring	Flieg nach Winterspring
+f5d65ac3	Kill |cRXP_ENEMY_Huntsman Radley|r	Töte |cRXP_ENEMY_Huntsman Radley|r
+f5d71e8e	Teleport back to Stormwind or Ironforge, and train your level 24 class spells	Teleportiere dich zurück nach Stormwind oder Ironforge und trainiere deine Klassenzauber der Stufe 24
+f5db32f3	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Bliztik|r upstairs	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Bliztik|r oben
+f5dec749	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Spraggle Frock|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Spraggle Frock|r
+f5e21d23	Kron's Amulet (1)	Kron's Amulet (1)
+f5e4a57d	Kill |cRXP_ENEMY_Duskbats|r. Loot them for their |cRXP_LOOT_Pelts|r	Töte |cRXP_ENEMY_Duskbats|r. Plündere sie für ihre |cRXP_LOOT_Pelts|r
+f5e525eb	|cRXP_BUY_Buy a|r |T135489:0|t[|cRXP_FRIENDLY_Massive Longbow|r] |cRXP_BUY_from him if it's available|r	|cRXP_BUY_Kaufe einen|r |T135489:0|t[|cRXP_FRIENDLY_Massive Longbow|r] |cRXP_BUY_bei ihm, falls verfügbar|r
+f5e58d72	AoE |cRXP_ENEMY_Bluegill Murlocs|r	Bekämpfe per AoE |cRXP_ENEMY_Bluegill Murlocs|r
+f5e784af	Kill |cRXP_ENEMY_Grizzled Thistle Bears|r. Loot them for their |cRXP_LOOT_Scalps|r	Töte |cRXP_ENEMY_Grizzled Thistle Bears|r. Plündere sie für ihre |cRXP_LOOT_Scalps|r
+f5e91bab	Accept The Gordunni Scroll	Nimm The Gordunni Scroll an
+f5eb376f	|cRXP_WARN_Accepting this quest turns|r |cRXP_ENEMY_Overlord Mok'Morokk|r |cRXP_WARN_hostile. He hits extremely hard and should be kited. Be prepared|r	|cRXP_WARN_Wenn du diese Quest annimmst, wird|r |cRXP_ENEMY_Overlord Mok'Morokk|r |cRXP_WARN_feindlich. Er schlägt extrem hart zu und sollte gekitet werden. Sei vorbereitet|r
+f5ebb200	Kill |cRXP_ENEMY_Mountain Boars|r. Loot them for their |cRXP_LOOT_Boar Intestines|r	Töte |cRXP_ENEMY_Mountain Boars|r. Plündere sie für ihre |cRXP_LOOT_Boar Intestines|r
+f5ec326f	|cRXP_WARN_Before starting, pre-clear mobs to the immediate southwest of Galen as best you can|r	|cRXP_WARN_Räume vor dem Start so gut wie möglich die Mobs direkt südwestlich von Galen|r
+f5ec9fe1	|cRXP_WARN_Use the|r |T134332:0|t|cRXP_LOOT_[Spell Notes: Enlightenment]|r |cRXP_WARN_to learn|r |T133815:0|t[Engrave Chest - Enlightenment]	|cRXP_WARN_Benutze|r |T134332:0|t|cRXP_LOOT_[Spell Notes: Enlightenment]|r |cRXP_WARN_, um zu erlernen:|r |T133815:0|t[Engrave Chest - Enlightenment]
+f5f391a6	Accept Find OOX-09/HL!	Nimm Find OOX-09/HL! an
+f5f3c79f	Buy Stormwind Seasoning Herbs from Felicia for the Lean Wolf Meat (Darkshire) quest	Kaufe Stormwind Seasoning Herbs bei Felicia für die Quest Lean Wolf Meat (Darkshire)
+f5f56c70	Agamand Family Axe (1)	Agamand Family Axe (1)
+f5f9408e	Accept Fruit of the Sea	Nimm Fruit of the Sea an
+f5fd2785	Enter the |cRXP_PICK_Emerald Dream Portal|r	Betritt |cRXP_PICK_Emerald Dream Portal|r
+f60036ed	Arrive in Stonetalon Peak	Komm in Stonetalon Peak an
+f6058ef6	Kill all types of |cRXP_ENEMY_Deviate|r creatures. Loot them for their |cRXP_LOOT_Deviate Hides|r	Töte alle Arten von |cRXP_ENEMY_Deviate|r-Kreaturen. Plündere sie für ihre |cRXP_LOOT_Deviate Hides|r
+f6069e62	Collect 4 Young Crocolisk Skins	Sammle 4 Young Crocolisk Skins
+f60c6792	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Lore Keeper of Norgannon|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Lore Keeper of Norgannon|r
+f60ea1cf	Run up this part of the mountain	Lauf diesen Teil des Berges hinauf
+f60f0c57	Kill |cRXP_ENEMY_Halikor|r (elite). Loot him for |T134061:0|t[|cRXP_LOOT_Halikor's Hoof|r]	Töte |cRXP_ENEMY_Halikor|r (Elite). Plündere ihn für |T134061:0|t[|cRXP_LOOT_Halikor's Hoof|r]
+f611dc77	show step if Red Crystal turned in	Schritt anzeigen, falls Red Crystal abgegeben wurde
+f616eefe	AoE |cRXP_ENEMY_Moonstalker Matriarchs|r and |cRXP_ENEMY_Moonstalker Sires|r. Loot them for their |cRXP_LOOT_Fine Moonstalker Pelts|r	Bekämpfe per AoE |cRXP_ENEMY_Moonstalker Matriarchs|r und |cRXP_ENEMY_Moonstalker Sires|r. Plündere sie, um |cRXP_LOOT_Fine Moonstalker Pelts|r zu erhalten
+f61bba50	Kill |cRXP_ENEMY_Heavy War Golems|r and |cRXP_ENEMY_Magma Elementals|r. Loot them for their |cRXP_LOOT_Golem Oils|r	Töte |cRXP_ENEMY_Heavy War Golems|r und |cRXP_ENEMY_Magma Elementals|r. Plündere sie für ihre |cRXP_LOOT_Golem Oils|r
+f61ca736	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Humbert|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Humbert|r
+f624dcad	AoE |cRXP_ENEMY_Mirefin Muckdwellers|r, |cRXP_ENEMY_Mirefin Coastrunners|r, |cRXP_ENEMY_Mirefin Puddlejumpers|r, and |cRXP_ENEMY_Mirefin Murlocs|r to Level 38	Bekämpfe per AoE |cRXP_ENEMY_Mirefin Muckdwellers|r, |cRXP_ENEMY_Mirefin Coastrunners|r, |cRXP_ENEMY_Mirefin Puddlejumpers|r und |cRXP_ENEMY_Mirefin Murlocs|r bis Stufe 38
+f625c027	Kill |cRXP_ENEMY_Commander Belguilos::252666|r |cRXP_WARN_on the second floor|r inside the house.	Töte |cRXP_ENEMY_Commander Belguilos::252666|r |cRXP_WARN_im zweiten Stock|r im Haus.
+f6288dda	Kill Rabid Thistle Bears you see. Have at least 50% mana and nuke them before they give you Rabies (debuff)	Töte jeden Rabid Thistle Bear, den du siehst. Hab mindestens 50% Mana und mach sie schnell kaputt, bevor sie dir Rabies (Schwächungszauber) anhängen
+f62899bb	|T134377:0|t[Gyrochronatom] |cRXP_WARN_(Don't buy this unless you have a|r |T134800:0|t[Frost Oil]|cRXP_WARN_)|r	|T134377:0|t[Gyrochronatom] |cRXP_WARN_(Kauf das nur, wenn du ein|r |T134800:0|t[Frost Oil]|cRXP_WARN_ hast)|r
+f62b2f4c	For this step you must be a |T132331:0|t[Ghost] to talk to |cRXP_FRIENDLY_Franclorn Forgewright|r inside Blackrock Mountain. Resurrect at your corpse once you have the quest	Für diesen Schritt musst du ein |T132331:0|t[Ghost] sein, um in Blackrock Mountain mit |cRXP_FRIENDLY_Franclorn Forgewright|r zu sprechen. Lass dich an deinem Leichnam wiederbeleben, sobald du die Quest hast
+f62fa705	|cRXP_BUY_Buy a|r |T133024:0|t[Bronze Tube] |cRXP_BUY_from him if its up|r	|cRXP_BUY_Kaufe eine|r |T133024:0|t[Bronze Tube] |cRXP_BUY_bei ihm, falls verfügbar|r
+f6314e6f	Kill the |cRXP_ENEMY_Slitherblades|r. Loot them for |cRXP_LOOT_Rackmore's Golden Key|r	Töte die |cRXP_ENEMY_Slitherblades|r. Plündere sie für |cRXP_LOOT_Rackmore's Golden Key|r
+f6335bc8	Drop down to the small ledge by running into the white wall. Be careful. Run along it toward the exit of Stormwind	Spring auf den schmalen Vorsprung hinunter, indem du in die weiße Wand läufst. Sei vorsichtig. Lauf darauf entlang in Richtung Ausgang von Stormwind
+f633b6c6	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Andrew Krighton|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Andrew Krighton|r
+f635042a	Turn in Further Mysteries	Gib Further Mysteries ab
+f637abe0	Check your quest objectives and loot before leaving. Return through the portal when your group is finished.	Prüfe vor dem Verlassen deine Questziele und deine Beute. Kehre durch das Portal zurück, wenn deine Gruppe fertig ist.
+f638fc68	Turn in Excavation Progress Report	Gib Excavation Progress Report ab
+f63901b0	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Valreaa Valewind::257551|r.	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Valreaa Valewind::257551|r.
+f63ea20a	Travel to Emerald Sanctuary	Reise nach Emerald Sanctuary
+f63fc25e	Loot |T133741:0|t[|cRXP_LOOT_An Old History Book|r] from any Undead/Humanoid in Duskwood	Erbeute |T133741:0|t[|cRXP_LOOT_An Old History Book|r] von einem beliebigen Untoten/Humanoiden in Duskwood
+f642f1ed	Escort |cRXP_FRIENDLY_Shay Leafrunner|r to safety	Eskortiere |cRXP_FRIENDLY_Shay Leafrunner|r in Sicherheit
+f642fd7e	|cRXP_BUY_Buy two or more|r |T134419:0|t[Rune of Teleportation] |cRXP_BUY_and optionally one or more|r |T134421:0|t[Rune of Portals] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe zwei oder mehr|r |T134419:0|t[Rune of Teleportation] |cRXP_BUY_und optional eine oder mehrere|r |T134421:0|t[Rune of Portals] |cRXP_BUY_bei ihm|r
+f644eff9	Accept Baron Aquanis	Nimm Baron Aquanis an
+f64aa258	Learn Journeyman Enchanting from Lucan Cordell.	Erlerne Journeyman Enchanting bei Lucan Cordell.
+f64c9f9c	Cast |T132320:0|t[Track Hidden] to find the |cRXP_ENEMY_Ashenvale Outrunners|r more easily	Wirke |T132320:0|t[Track Hidden], um die |cRXP_ENEMY_Ashenvale Outrunners|r leichter zu finden
+f64ce380	Loot the |cRXP_LOOT_Compendium of the Fallen|r	Plündere |cRXP_LOOT_Compendium of the Fallen|r
+f652de0a	Turn in Winterfall Activity	Gib Winterfall Activity ab
+f6531c34	Accept The Hidden Chamber	Nimm The Hidden Chamber an
+f65b44f2	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Un'Thuwa|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Un'Thuwa|r
+f6610f9b	Clear the |cRXP_ENEMY_Grimtotems|r and then light the bonfire	Räume die |cRXP_ENEMY_Grimtotems|r und entzünde dann das Lagerfeuer
+f666ab94	Travel to |cRXP_FRIENDLY_Hornizz|r at the Kodo Graveyard	Reise zu |cRXP_FRIENDLY_Hornizz|r beim Kodo Graveyard
+f66c7187	Turn in Searching for the Lost Satchel	Gib Searching for the Lost Satchel ab
+f66f8842	Chunk of Boar Meat (10-50)	Chunk of Boar Meat (10-50)
+f67593bc	Talk to |cRXP_FRIENDLY_Clarice Foster|r	Sprich mit |cRXP_FRIENDLY_Clarice Foster|r
+f676dd63	Accept Blessings of the Great Windborne Cat Spirit	Nimm Blessings of the Great Windborne Cat Spirit an
+f6794348	Use the |T133841:0|t[Faerie Dragon Muisek Vessel] on their corpses	Benutze das |T133841:0|t[Faerie Dragon Muisek Vessel] an ihren Leichen
+f67c2119	|cRXP_WARN_You will level Mining from 245-275.|r	|cRXP_WARN_Du levelst Mining von 245-275.|r
+f67d517c	|cRXP_WARN_Remember you're going to kite |cRXP_ENEMY_Mangeclaw|r back to |cRXP_FRIENDLY_Hammerfoot|r	|cRXP_WARN_Denk dran: Du wirst |cRXP_ENEMY_Mangeclaw|r zurück kiten zu |cRXP_FRIENDLY_Hammerfoot|r
+f6806451	Travel toward |cRXP_FRIENDLY_Golnir|r	Reise in Richtung |cRXP_FRIENDLY_Golnir|r
+f685dafc	|cRXP_WARN_Use your|r |T132793:0|t[Empty Vial Labeled #2] |cRXP_WARN_in the centre of the puddle|r	|cRXP_WARN_Benutze deine|r |T132793:0|t[Empty Vial Labeled #2] |cRXP_WARN_in der Mitte der Pfütze|r
+f687c032	Accept Milly Osworth	Nimm Milly Osworth an
+f68838e4	Batch ingredients: 76 Bolt of Mageweave, 76 Heavy Silken Thread.	Zutaten für die Charge: 76 Bolt of Mageweave, 76 Heavy Silken Thread.
+f688a9af	Kill |cRXP_ENEMY_Corporal Adamore|r	Töte |cRXP_ENEMY_Corporal Adamore|r
+f68c5f9e	Accept Ivar the Foul	Nimm Ivar the Foul an
+f68c94bb	Hearth to Kharanos	Benutze deinen Ruhestein nach Kharanos
+f695c7e0	Turn in March of the Silithid	Gib March of the Silithid ab
+f696b1ae	|cRXP_WARN_Create as many|r |T132662:0|t[Brown Linen Robes] |cRXP_WARN_as you can|r	|cRXP_WARN_Stelle so viele|r |T132662:0|t[Brown Linen Robes] |cRXP_WARN_her wie möglich|r
+f6acf173	Turn in A Trial of Fitness	Gib A Trial of Fitness ab
+f6af7265	|cRXP_WARN_Be careful! Two mobs will spawn after you shut off the Valve|r	|cRXP_WARN_Vorsicht! Nachdem du das Ventil abgedreht hast, spawnen zwei Mobs|r
+f6b44ff8	Abandon STOLEN: Smithing Tuyere and Lookout's Spyglass	Brich STOLEN: Smithing Tuyere and Lookout's Spyglass ab
+f6b511d2	Travel to Dandred's Fold. Be careful of fall damage if dropping down from the Ruins of Alterac	Reise nach Dandred's Fold. Achte auf Fallschaden, wenn du von den Ruins of Alterac hinunterspringst
+f6b8b666	Collect the |cRXP_PICK_Well Stones|r around the Well	Sammle die |cRXP_PICK_Well Stones|r rund um den Brunnen
+f6ba60f6	Loot the 3 |cRXP_LOOT_Fel Cones|r from the locations marked on your map.	Plündere die 3 |cRXP_LOOT_Fel Cones|r an den auf deiner Karte markierten Stellen.
+f6bdc6fc	Go underwater	Tauche unter Wasser
+f6c07287	Open |cRXP_PICK_Doan's Strongbox|r. Loot it for [|cRXP_FRIENDLY_The Scarlet Key|r]	Öffne |cRXP_PICK_Doan's Strongbox|r. Plündere es für [|cRXP_FRIENDLY_The Scarlet Key|r]
+f6c0d314	|cRXP_WARN_Use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Felguard|r] |cRXP_WARN_to learn|r |T136216:0|t[Summon Felguard]	|cRXP_WARN_Benutze|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Felguard|r] |cRXP_WARN_, um zu erlernen:|r |T136216:0|t[Summon Felguard]
+f6c3fe86	Go to Angor Fortress in southwestern Badlands.	Geh zu Angor Fortress im Südwesten der Badlands.
+f6c59664	c:Mulgore,54.5,40.1	c:Mulgore,54.5,40.1
+f6c6bb97	The droprate can be really bad on this quest	Die Droprate kann bei dieser Quest wirklich schlecht sein
+f6c805b6	Zone out of Uldaman together as a group to turn in quests in Badlands. The closest exit is the Uldaman backdoor	Verlasst Uldaman gemeinsam als Gruppe, um Quests in den Badlands abzugeben. Der nächste Ausgang ist die Hintertür von Uldaman
+f6d1337f	If you've found an |T132836:0|t[OOX-17/TN Distress Beacon], click it and accept its quest. Otherwise, skip this step	Falls du ein |T132836:0|t[OOX-17/TN Distress Beacon] gefunden hast, klicke darauf und nimm die Quest an. Ansonsten überspringe diesen Schritt
+f6d780ce	|cRXP_WARN_Destroy the|r |T135427:0|t[Heavy Throwing Daggers] |cRXP_WARN_from your bags, as it's no longer needed|r	|cRXP_WARN_Zerstöre|r |T135427:0|t[Heavy Throwing Daggers] |cRXP_WARN_aus deinen Taschen, da sie nicht mehr benötigt werden|r
+f6d8b343	An Unsent Letter (1)	An Unsent Letter (1)
+f6dd6645	|cRXP_WARN_Be careful as they cast|r |T135812:0|t[Fireball] |cRXP_WARN_(dealing ranged damage). Remember to cast|r |T135806:0|t[Fire Ward]	|cRXP_WARN_Sei vorsichtig, da sie wirken:|r |T135812:0|t[Fireball] |cRXP_WARN_(verursacht Fernkampfschaden). Denk daran zu wirken:|r |T135806:0|t[Fire Ward]
+f6ded4df	Collect Hornwood Recurve Bow	Sammle Hornwood Recurve Bow
+f6e1e995	Accept Draenethyst Crystals	Nimm Draenethyst Crystals an
+f6e6f360	|cRXP_WARN_Position your character on the edge of the circle until it looks like they're floating. Perform a Logout Skip by logging out and back in|r	|cRXP_WARN_Positioniere deinen Charakter so am Rand des Kreises, dass er zu schweben scheint. Mach einen Logout-Skip, indem du dich aus- und wieder einloggst|r
+f6e8315a	|cRXP_WARN_Use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Southpaw|r] |cRXP_WARN_to train|r |T134919:0|t[Rolling with the Punches]	|cRXP_WARN_Benutze|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Southpaw|r] |cRXP_WARN_, um zu trainieren:|r |T134919:0|t[Rolling with the Punches]
+f6e9a5e5	Kill |cRXP_ENEMY_Northspring Harpies|r. Loot them for the |T134228:0|t[|cRXP_LOOT_Horn of Hatetalon|r]	Töte |cRXP_ENEMY_Northspring Harpies|r. Plündere sie für das |T134228:0|t[|cRXP_LOOT_Horn of Hatetalon|r]
+f6ea4bb7	Click the |cRXP_PICK_Torn Scroll|r on the ground	Klicke auf |cRXP_PICK_Torn Scroll|r am Boden
+f6ec889a	Loot the brown boxes found in the area	Plündere die braunen Kisten in der Gegend
+f6ed8268	Grind to 6545+/11400xp	Grinde bis 6545+/11400 EP
+f6f4a7ba	Be careful as Dredgers attack fast, and Bashers bash and stun	Sei vorsichtig, da Dredgers schnell angreifen und Bashers zuschlagen und betäuben
+f6f5497f	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Sam Sarsaparilla|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Sam Sarsaparilla|r
+f6f7d27b	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Zaetar's Spirit|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Zaetar's Spirit|r
+f6fe2368	|cRXP_BUY_Buy|r |T134831:0|t[Healing Potions] |cRXP_BUY_from him (if they're up)|r	|cRXP_BUY_Kaufe|r |T134831:0|t[Healing Potions] |cRXP_BUY_bei ihm (falls verfügbar)|r
+f6ff2b5a	Turn in Faerie Dragon Muisek	Gib Faerie Dragon Muisek ab
+f6fff895	Use the |T133733:0|t[Grimoire of Fel Armor] to train |T136156:0|t[Fel Armor] |cRXP_WARN_use it as your main armor spell|r	Benutze das |T133733:0|t[Grimoire of Fel Armor], um |T136156:0|t[Fel Armor] zu trainieren. |cRXP_WARN_Benutze ihn als deinen Haupt-Rüstungszauber|r
+f700f791	|cRXP_WARN_Pull the 2|r |cRXP_ENEMY_Murlocs|r |cRXP_WARN_in front of the huts, move away and|r |T136071:0|t[Polymorph] |cRXP_WARN_one whilst killing the other. Kill the|r |T136071:0|t[Polymorphed] |cRXP_WARN_one after|r	|cRXP_WARN_Pulle die 2|r |cRXP_ENEMY_Murlocs|r |cRXP_WARN_vor den Hütten, geh auf Abstand und belege einen mit|r |T136071:0|t[Polymorph] |cRXP_WARN_, während du den anderen tötest. Töte danach den|r |T136071:0|t[Polymorphed] |cRXP_WARN_Mob|r
+f701fa80	|cRXP_WARN_Deal 51%+ damage to nearby |cRXP_ENEMY_Snow Tracker Wolves|r, |cRXP_ENEMY_Winter Wolves|r, and |cRXP_ENEMY_Young Black Bears|r. Pull them to the |cRXP_FRIENDLY_Ironforge Mountaineer|r to kill them more efficiently|r	|cRXP_WARN_Verursache an nahen |cRXP_ENEMY_Snow Tracker Wolves|r, |cRXP_ENEMY_Winter Wolves|r und |cRXP_ENEMY_Young Black Bears|r 51%+ des Schadens. Zieh sie zum |cRXP_FRIENDLY_Ironforge Mountaineer|r, um sie effizienter zu töten|r
+f7055690	Walk back along the tree branch. Wait a couple seconds for |cRXP_ENEMY_Enraged Stormcrow|r to spawn. Kill it and loot it for |T134419:0|t[|cRXP_FRIENDLY_Rune of Focused Fire|r]	Lauf den Ast zurück. Warte ein paar Sekunden, bis |cRXP_ENEMY_Enraged Stormcrow|r erscheint. Töte ihn und plündere ihn für |T134419:0|t[|cRXP_FRIENDLY_Rune of Focused Fire|r]
+f7076fd5	1-7 Mulgore	1-7 Mulgore
+f709d7ba	Accept Hallowed Memorandum	Nimm Hallowed Memorandum an
+f70dc873	Kill mobs in the area	Töte Mobs in der Umgebung
+f7101997	All Forever guides are still work in progress. Keep your addon updated!	Alle Forever-Guides sind noch in Arbeit. Halte dein Addon aktuell!
+f7163e73	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Bibbly|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Bibbly|r
+f716bfa3	|cRXP_WARN_Be careful as |cRXP_ENEMY_Twilight Thugs|r can|r |T132343:0|t[Disarm] |cRXP_WARN_you for 6 seconds|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Twilight Thugs|r 6 Sekunden lang einsetzen können:|r |T132343:0|t[Disarm] |cRXP_WARN_gegen dich|r
+f7170402	Go to Zoram Strand in northwestern Ashenvale.	Geh zum Zoram Strand im Nordwesten von Ashenvale.
+f71867e8	Turn in Good Luck Charm	Gib Good Luck Charm ab
+f719d873	Turn in The Blightcaller Cometh	Gib The Blightcaller Cometh ab
+f71b25f9	Enter Frostmane Hold	Betritt Frostmane Hold
+f71efd96	|cRXP_FRIENDLY_Umber|r |cRXP_WARN_may be patrolling through Nighthaven|r	|cRXP_FRIENDLY_Umber|r |cRXP_WARN_patrouilliert eventuell durch Nighthaven|r
+f727d510	|cRXP_WARN_If you get|r |T132149:0|t[Netted]|cRXP_WARN_,|r |T135736:0|t[Blink] |cRXP_WARN_away from now on|r	|cRXP_WARN_Falls du|r |T132149:0|t[Netted]|cRXP_WARN_ wirst, benutze ab jetzt|r |T135736:0|t[Blink] |cRXP_WARN_zum Entkommen|r
+f72a957a	Grind to 15715+/25200xp	Grinde bis 15715+/25200 EP
+f72dd9d1	Accept Crest of Lordaeron	Nimm Crest of Lordaeron an
+f72e80f4	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kamari|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kamari|r
+f7336fc1	Be careful as Plaguebats can terrify	Sei vorsichtig, da Plaguebats Furcht auslösen können
+f739770b	Learn Mageweave Bandage	Erlerne Mageweave Bandage
+f73c9920	Follow |cRXP_FRIENDLY_Aamelia Windfield::252800|r. Wait for the roleplay.	Folge |cRXP_FRIENDLY_Aamelia Windfield::252800|r. Warte das Rollenspiel ab.
+f73d0f4d	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Innkeeper Hearthstove|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Innkeeper Hearthstove|r
+f73e07e1	Talk to |cRXP_FRIENDLY_Magatha Grimtotem|r	Sprich mit |cRXP_FRIENDLY_Magatha Grimtotem|r
+f7413464	Loot the |cRXP_PICK_Agamand Weapon Racks|r on the ground	Plündere |cRXP_PICK_Agamand Weapon Racks|r auf dem Boden
+f74175ca	Head to the cave above the waterfall	Begib dich zur Höhle oberhalb des Wasserfalls
+f748a7d4	|cRXP_WARN_Be careful of|r |cRXP_ENEMY_Syndicate Prowlers|r|cRXP_WARN_, they will not body pull as you aggro|r |cRXP_ENEMY_Marez Cowl|r	|cRXP_WARN_Achte auf|r |cRXP_ENEMY_Syndicate Prowlers|r|cRXP_WARN_, sie werden nicht mitgepullt, wenn du angreifst:|r |cRXP_ENEMY_Marez Cowl|r
+f752bf29	Accept Collection of the Corrupt Water	Nimm Collection of the Corrupt Water an
+f754aefd	Accept Ogre Head On A Stick = Party	Nimm Ogre Head On A Stick = Party an
+f756f291	Click |cRXP_PICK_Belnistrasz's Brazier|r	Klicke auf |cRXP_PICK_Belnistrasz's Brazier|r
+f75e38ee	Turn in Hunt for Yenniku	Gib Hunt for Yenniku ab
+f75f9c9e	Collect Eye of Burning Shadow	Sammle Eye of Burning Shadow
+f763f0cf	Accept Vahlarriel's Search	Nimm Vahlarriel's Search an
+f767c16b	|T132794:0|t[Flask of Oil]	|T132794:0|t[Flask of Oil]
+f76cd3c1	|cRXP_BUY_Buy a|r |T135435:0|t[Simple Wood] |cRXP_BUY_and|r |T135237:0|t[Flint and Tinder] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe|r |T135435:0|t[Simple Wood] |cRXP_BUY_und|r |T135237:0|t[Flint and Tinder] |cRXP_BUY_bei ihm|r
+f774c3c1	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Hadric Harlson|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Hadric Harlson|r
+f775ce90	Talk to Watcher Backus. He patrols along the road north of Darkshire	Sprich mit Watcher Backus. Er patrouilliert auf der Straße nördlich von Darkshire
+f776ba9d	Abandon Sister Pamela if you have it. You cannot accept Little Pamela if you have the quest Sister Pamela. Little Pamela gives more XP	Brich Sister Pamela ab, falls du sie hast. Du kannst Little Pamela nicht annehmen, solange du die Quest Sister Pamela hast. Little Pamela gibt mehr EP
+f778734e	|cRXP_WARN_Prioritize the |cRXP_LOOT_Carved Stone Urns|r. This can only be completed OUTSIDE of Uldaman. You can finish the |cRXP_LOOT_Magenta Fungus Caps|r once inside|r	|cRXP_WARN_Erledige zuerst die |cRXP_LOOT_Carved Stone Urns|r. Das geht nur AUSSERHALB von Uldaman. Die |cRXP_LOOT_Magenta Fungus Caps|r kannst du drinnen fertig machen|r
+f77a3cd2	Accept Conscript of the Horde	Nimm Conscript of the Horde an
+f77d4753	|cRXP_WARN_Get ready to Logout Skip on the cart behind |cRXP_FRIENDLY_Mistina|r soon|r	|cRXP_WARN_Mach dich bereit für den Logout-Skip auf dem Karren hinter |cRXP_FRIENDLY_Mistina|r|r
+f7810208	Teleport to Orgrimmar or Undercity. Train your level 46-48 spells	Teleportiere dich nach Orgrimmar oder Undercity. Trainiere deine Zauber der Stufen 46-48
+f784822f	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Baine|r, |cRXP_FRIENDLY_Ruul|r, and |cRXP_FRIENDLY_Mull|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Baine|r, |cRXP_FRIENDLY_Ruul|r und |cRXP_FRIENDLY_Mull|r
+f787846f	Skip this step if you won't have 50g or more after vendoring trash	Überspringe diesen Schritt, falls du nach dem Verkauf von Plunder nicht mindestens 50g hast
+f78790da	|cRXP_WARN_You have selected a guide meant for Tauren. This zone will NOT work well for you due to missing one of the main questlines that are gated for Tauren only. It is recommended you choose the same starter zone that you start in|r	|cRXP_WARN_Du hast einen Guide für Tauren gewählt. Dieses Gebiet funktioniert für dich NICHT gut, da dir eine der Hauptquestreihen fehlt, die nur für Tauren verfügbar ist. Es wird empfohlen, dasselbe Startgebiet zu wählen, in dem du beginnst|r
+f7966e7d	34-35 Stranglethorn Vale I	34-35 Stranglethorn Vale I
+f79fd097	Talk to the |cRXP_FRIENDLY_Theramore Lieutenant|r	Sprich mit dem |cRXP_FRIENDLY_Theramore Lieutenant|r
+f79fdccd	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Maur|r, |cRXP_FRIENDLY_Zarlman|r, |cRXP_FRIENDLY_Harken|r and |cRXP_FRIENDLY_Mull|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Maur|r, |cRXP_FRIENDLY_Zarlman|r, |cRXP_FRIENDLY_Harken|r und |cRXP_FRIENDLY_Mull|r
+f7a11a29	Turn in Stinglasher	Gib Stinglasher ab
+f7a60443	|cRXP_WARN_Be careful as |cRXP_ENEMY_Huntsman Radley|r casts |T132222:0|t[Shoot] |cRXP_WARN_(Deals about 100 ranged damage).|r |cRXP_ENEMY_Scarlet Spellbinders|r cast|r |T135846:0|t[Frostbolt] |cRXP_WARN_(slows and deals about 300 frost damage),|r |T136091:0|t[Slow] |cRXP_WARN_(reduces movespeed by 60% for 10 seconds), and |cRXP_ENEMY_Scarlet Avengers|r cast|r |T132152:0|t[Thrash] |cRXP_WARN_(Charges 2 extra attacks every 10 seconds)|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Huntsman Radley|r wirkt: |T132222:0|t[Shoot] |cRXP_WARN_(verursacht etwa 100 Fernkampfschaden).|r |cRXP_ENEMY_Scarlet Spellbinders|r wirken|r |T135846:0|t[Frostbolt] |cRXP_WARN_(verlangsamt und verursacht etwa 300 Frostschaden),|r |T136091:0|t[Slow] |cRXP_WARN_(verringert das Bewegungstempo um 60% für 10 Sekunden), und |cRXP_ENEMY_Scarlet Avengers|r wirken|r |T132152:0|t[Thrash] |cRXP_WARN_(lädt alle 10 Sekunden 2 zusätzliche Angriffe auf)|r
+f7a7543c	|T134331:0|t[Insect Analysis Report]	|T134331:0|t[Insect Analysis Report]
+f7ab482f	Batch ingredients: 160 Silk Cloth.	Zutaten für die Charge: 160 Silk Cloth.
+f7abb7d4	shows if skinning is >1	wird angezeigt, wenn Kürschnerei >1 ist
+f7ac524a	Talk to |cRXP_FRIENDLY_Oslow|r	Sprich mit |cRXP_FRIENDLY_Oslow|r
+f7b06c54	Accept Sunken Treasure	Nimm Sunken Treasure an
+f7b172a1	Travel downstairs	Geh nach unten
+f7b25af1	|cRXP_WARN_Be careful, she has Psychic Scream (instant fear)|r	|cRXP_WARN_Vorsicht, sie hat Psychischen Schrei (sofortige Furcht)|r
+f7b33701	Accept Aid For The Refugees	Nimm Aid For The Refugees an
+f7b55c64	Talk to |cRXP_FRIENDLY_Mudcrush Durtfeet|r	Sprich mit |cRXP_FRIENDLY_Mudcrush Durtfeet|r
+f7b7cc51	Loot pirates you AoE in the area for their hats	Plündere die Piraten, die du in der Gegend per AoE bekämpfst, für ihre Hüte
+f7bca4fa	Kill |cRXP_ENEMY_Den Mother|r	Töte |cRXP_ENEMY_Den Mother|r
+f7c070d1	Loot the wooden box just outside of the cave	Plündere die Holzkiste direkt vor der Höhle
+f7c17c5f	Kill |cRXP_ENEMY_Samuel|r. Loot him for |cRXP_LOOT_Samuel's Remains|r	Töte |cRXP_ENEMY_Samuel|r. Plündere ihn für |cRXP_LOOT_Samuel's Remains|r
+f7c4da44	Accept A Lost Master	Nimm A Lost Master an
+f7c849a2	|cRXP_WARN_If you still need|r |T132905:0|t[Silk Cloth] |cRXP_WARN_buy some from the Auction House|r	|cRXP_WARN_Falls du noch|r |T132905:0|t[Silk Cloth] |cRXP_WARN_brauchst, kaufe welches im Auktionshaus|r
+f7c8f97c	Gem of Anacondra (1)	Gem of Anacondra (1)
+f7cba30e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Crank Fizzlebub|r on the inn's lowest level	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Crank Fizzlebub|r im untersten Stockwerk des Gasthauses
+f7cfb296	Run along the road north to Redridge if you don't have the Redridge Flight Path yet	Lauf die Straße entlang nach Norden nach Redridge, falls du die Redridge-Flugroute noch nicht hast
+f7d06260	Accept Deliver to MacKinley	Nimm Deliver to MacKinley an
+f7d2947e	Escort |cRXP_FRIENDLY_Dorius|r to the Loch Modan Pass Gate	Eskortiere |cRXP_FRIENDLY_Dorius|r zum Loch Modan Pass Gate
+f7d344b6	Accept The Orc Report	Nimm The Orc Report an
+f7d6fa48	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Archmage Malin|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Archmage Malin|r
+f7d7a0ba	c:Mulgore,67.62,59.06	c:Mulgore,67.62,59.06
+f7d8da3e	Talk to |cRXP_FRIENDLY_Kristoff|r	Sprich mit |cRXP_FRIENDLY_Kristoff|r
+f7dbce3a	Accept Further Mysteries	Nimm Further Mysteries an
+f7de4203	|cRXP_WARN_Equip the|r |T133053:0|t[Wooden Mallet]	|cRXP_WARN_Lege an:|r |T133053:0|t[Wooden Mallet]
+f7e41fa1	Buy a Rhapsody Malt and Thunder Ale from Belm	Kaufe ein Rhapsody Malt und ein Thunder Ale bei Belm
+f7e853cf	|cRXP_WARN_Equip the|r |T135503:0|t[Refined Shortbow]	|cRXP_WARN_Lege an:|r |T135503:0|t[Refined Shortbow]
+f7e91cf3	Darkshore Grouper (6)	Darkshore Grouper (6)
+f7fa51e0	Accept WANTED: Andre Firebeard	Nimm WANTED: Andre Firebeard an
+f7fc663a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Priestess Anetta|r inside	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Priestess Anetta|r drinnen
+f7ffba79	Kill |cRXP_ENEMY_Cultists|r. Loot them for a |cRXP_LOOT_Reagent Pouch|r	Töte |cRXP_ENEMY_Cultists|r. Plündere sie für einen |cRXP_LOOT_Reagent Pouch|r
+f8032b75	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Brother Anton|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Brother Anton|r
+f80b1042	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Xanis|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Xanis|r
+f80f0c66	Exit the naga cave and head southeast towards the ocean	Verlasse die Nagahöhle und geh nach Südosten in Richtung Ozean
+f8112767	Turn in The Shadowy Figure	Gib The Shadowy Figure ab
+f81545f6	Talk to |cRXP_FRIENDLY_Osric|r	Sprich mit |cRXP_FRIENDLY_Osric|r
+f8167419	Turn in Doom Weed	Gib Doom Weed ab
+f819ad74	Plan for about 26 crafts. Stop for the next step when its skill target is met, unless a note asks you to retain a full batch.	Plane etwa 26 Herstellungen ein. Hör beim Erreichen des Fertigkeitsziels auf und geh zum nächsten Schritt, außer ein Hinweis sagt, dass du eine volle Charge behalten sollst.
+f81f4a90	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Trackmaster Zherin|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Trackmaster Zherin|r
+f81f7916	|cRXP_WARN_Save the |cRXP_LOOT_Murloc Fins|r for later|r	|cRXP_WARN_Heb die |cRXP_LOOT_Murloc Fins|r für später auf|r
+f81fd7b2	|cRXP_WARN_Cast|r |T136080:0|t[Taunt] |cRXP_WARN_on the |cRXP_ENEMY_Combat Dummy|r, then move across to the next|r |cRXP_ENEMY_Combat Dummy|r	|cRXP_WARN_Wirke|r |T136080:0|t[Taunt] |cRXP_WARN_auf die |cRXP_ENEMY_Combat Dummy|r und geh dann weiter zur nächsten|r |cRXP_ENEMY_Combat Dummy|r
+f824bc93	Accept Find OOX-17/TN!	Nimm Find OOX-17/TN! an
+f825885f	|cRXP_WARN_If you do not already have the Redridge Mountains flight path, skip this step|r	|cRXP_WARN_Falls du die Flugroute in Redridge Mountains noch nicht hast, überspringe diesen Schritt|r
+f82651b3	|cRXP_WARN_Be sure |T136205:0|t[Evasion] |cRXP_WARN_is ready. If you're struggling, you can use the Fence with Throwing Weapons to abuse pathing and buy time|r	|cRXP_WARN_Stelle sicher, dass |T136205:0|t[Evasion] |cRXP_WARN_bereit ist. Falls du Probleme hast, kannst du mit Wurfwaffen am Zaun die Wegfindung ausnutzen und Zeit gewinnen|r
+f82c81ed	|cRXP_WARN_This quest starts a 15 minute timer. Do not go AFK/Log out in this time or you will fail the quest|r	|cRXP_WARN_Diese Quest startet einen 15-Minuten-Timer. Geh in dieser Zeit nicht AFK und logg dich nicht aus, sonst schlägt die Quest fehl|r
+f830a7ee	Make sure you have at least 30s leftover	Stelle sicher, dass du mindestens 30s übrig hast
+f839d44e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Syurna|r underground	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Syurna|r unter der Erde
+f83b29ef	Talk to |cRXP_FRIENDLY_Zor Lonetree|r	Sprich mit |cRXP_FRIENDLY_Zor Lonetree|r
+f83c86c3	Turn in Encrypted Letter	Gib Encrypted Letter ab
+f83d4872	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Magatha|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Magatha|r
+f83ef853	1-6 Coldridge Valley	1-6 Coldridge Valley
+f83f4640	Grind to 940+/1400xp	Grinde bis 940+/1400 EP
+f8405b08	Kill |cRXP_ENEMY_Stonelash Pincers|r. Loot them for their |cRXP_LOOT_Stingers|r	Töte |cRXP_ENEMY_Stonelash Pincers|r. Plündere sie für ihre |cRXP_LOOT_Stingers|r
+f8421ce0	Kill |cRXP_ENEMY_Scorpid Reavers|r and |cRXP_ENEMY_Scorpid Terrors|r. Loot them for their |cRXP_LOOT_Venom|r	Töte |cRXP_ENEMY_Scorpid Reavers|r und |cRXP_ENEMY_Scorpid Terrors|r. Plündere sie für ihr |cRXP_LOOT_Venom|r
+f843054a	Accept Honor the Dead	Nimm Honor the Dead an
+f8478430	Loot the |cRXP_PICK_Bottles of Whispering Elixir|r on the ground and on the walls	Plündere |cRXP_PICK_Bottles of Whispering Elixir|r auf dem Boden und an den Wänden
+f84dd1ee	If the Flawed Power Stone in your bags has less than 10 minutes left, drop it, then go back and loot the Purple Stone next to Ak'Zeloth again	Falls der Flawed Power Stone in deinen Taschen weniger als 10 Minuten übrig hat, wirf ihn weg, geh dann zurück und plündere erneut den Purple Stone neben Ak'Zeloth
+f84f0394	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Faralorn|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Faralorn|r
+f8504208	Buy a bronze tube from Herble if you didn't get one earlier	Kaufe eine Bronze Tube bei Herble, falls du vorhin keine bekommen hast
+f8510974	|cRXP_WARN_Be careful. |cRXP_ENEMY_Lashtail Raptors|r can stun and|r |T132343:0|t[Disarm] |cRXP_WARN_you|r	|cRXP_WARN_Vorsicht. |cRXP_ENEMY_Lashtail Raptors|r können dich betäuben und|r |T132343:0|t[Disarm] |cRXP_WARN_gegen dich einsetzen|r
+f85acb7f	Turn in The Affray	Gib The Affray ab
+f85f7f1c	Accept Forsaken Aid	Nimm Forsaken Aid an
+f85fba58	Turn in The Ensorcelled Parchment	Gib The Ensorcelled Parchment ab
+f86467cc	Visit Drakk Stonehand to learn Nightscape Pants. The Expert trainer in Darnassus does not teach this recipe.	Besuche Drakk Stonehand, um Nightscape Pants zu erlernen. Der Expertenlehrer in Darnassus lehrt dieses Rezept nicht.
+f86e3af0	Turn in Coyote Thieves	Gib Coyote Thieves ab
+f8714ee1	Run to here	Lauf hierher
+f871c2cf	Travel toward |cRXP_FRIENDLY_Haggerdin|r	Reise in Richtung |cRXP_FRIENDLY_Haggerdin|r
+f8764436	Accept Stout to Kadrell	Nimm Stout to Kadrell an
+f87964b5	Turn in Desperate Prayer	Gib Desperate Prayer ab
+f87b9647	|cRXP_WARN_Equip the|r |T135650:0|t[Dirk]	|cRXP_WARN_Lege an:|r |T135650:0|t[Dirk]
+f87e71ac	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Zygand|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Zygand|r
+f8803bf9	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Krakle|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Krakle|r
+f8832a9d	Kill Prowler (x8)	Töte Prowler (x8)
+f88e7bcb	Accept Noggle's Last Hope	Nimm Noggle's Last Hope an
+f88f85b8	Turn in Vorsha the Lasher	Gib Vorsha the Lasher ab
+f890ae98	Accept Gerenzo's Orders	Nimm Gerenzo's Orders an
+f890f8e3	|cRXP_BUY_Buy at least two|r |T134419:0|t[Rune of Teleportation]	|cRXP_BUY_Kaufe mindestens zwei|r |T134419:0|t[Rune of Teleportation]
+f893497b	Turn in The Zoram Strand	Gib The Zoram Strand ab
+f896888b	Kill |cRXP_ENEMY_Forest Lurkers|r. Loot them for their |cRXP_LOOT_Spider Ichor|r	Töte |cRXP_ENEMY_Forest Lurkers|r. Plündere sie für ihr |cRXP_LOOT_Spider Ichor|r
+f89ad66f	|cRXP_BUY_Buy|r |T133738:0|t[Grimoire of Sacrifice (Rank 1)]	|cRXP_BUY_Kaufe|r |T133738:0|t[Grimoire of Sacrifice (Rank 1)]
+f8a184c4	Essence of Nightlash (1)	Essence of Nightlash (1)
+f8a2ca3b	|cRXP_WARN_Equip the|r |T135499:0|t[Laminated Recurve Bow]	|cRXP_WARN_Lege an:|r |T135499:0|t[Laminated Recurve Bow]
+f8a2d85b	Turn in Toxic Horrors	Gib Toxic Horrors ab
+f8a30be4	|cRXP_WARN_Don't go out of your way to farm this now. Simply kill and loot all the wolves you're passing by|r	|cRXP_WARN_Mach jetzt keine Umwege, um dies zu farmen. Töte und plündere einfach alle Wölfe, an denen du vorbeikommst|r
+f8a69017	|cRXP_WARN_Perform a 'Ghetto Hearth' in Blackfathom Deeps|r	|cRXP_WARN_Mach einen „Ghetto Hearth“ in Blackfathom Deeps|r
+f8ac61f8	Use the Horn of Echeyakee in your bags to summon Echeyakee. Kill him and loot him for his Hide	Benutze das Horn of Echeyakee aus deinen Taschen, um Echeyakee zu beschwören. Töte und plündere ihn für sein Hide
+f8ae4763	Accept Blackmoore's Legacy	Nimm Blackmoore's Legacy an
+f8ae6fd4	Kill |cRXP_ENEMY_Skullsplitter Mystics|r and |cRXP_ENEMY_Skullsplitter Witch Doctors|r. Loot them for their |cRXP_LOOT_Skullsplitter Fetishes|r	Töte |cRXP_ENEMY_Skullsplitter Mystics|r und |cRXP_ENEMY_Skullsplitter Witch Doctors|r. Plündere sie für ihre |cRXP_LOOT_Skullsplitter Fetishes|r
+f8afd107	Accept Into The Temple of Atal'Hakkar	Nimm Into The Temple of Atal'Hakkar an
+f8b09b18	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kranal|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kranal|r
+f8b204cb	Abandon A New Threat	Brich A New Threat ab
+f8bb5dbc	You need 50 cooking skill for a free quest in Darkshire	Du brauchst 50 Kochkunst für eine kostenlose Quest in Darkshire
+f8bc0df0	Die to the mobs here	Stirb durch die Mobs hier
+f8bda443	Turn in The Supreme Magister	Gib The Supreme Magister ab
+f8c56774	Enter Ragefire Chasm	Betritt Ragefire Chasm
+f8c66e5c	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Gunther|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Gunther|r
+f8c8163b	Kill |cRXP_ENEMY_King Bangalash|r. Loot him for the |cRXP_LOOT_Head of Bangalash|r	Töte |cRXP_ENEMY_King Bangalash|r. Plündere ihn für den |cRXP_LOOT_Head of Bangalash|r
+f8c90a0d	Iron Rivet (5)	Iron Rivet (5)
+f8cf4df5	Loot the |cRXP_PICK_Book|r for |cRXP_LOOT_Maiden's Folly Log|r	Plündere |cRXP_PICK_Book|r für |cRXP_LOOT_Maiden's Folly Log|r
+f8d07302	Travel to Kharanos. Grind to 1595+/2800xp killing |cRXP_ENEMY_Crag Boars|r en-route	Reise nach Kharanos. Grinde unterwegs bis 1595+/2800 EP, indem du |cRXP_ENEMY_Crag Boars|r tötest
+f8d15245	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Alamar Grimm|r inside	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Alamar Grimm|r drinnen
+f8d2a1d6	Turn in Soft Saber Pelts	Gib Soft Saber Pelts ab
+f8d2e96e	|cRXP_WARN_Use the |T133739:0|t[|cRXP_LOOT_The Tome of Divinity|r] to start the quest|r	|cRXP_WARN_Benutze |T133739:0|t[|cRXP_LOOT_The Tome of Divinity|r], um die Quest zu starten|r
+f8d33806	Kill |cRXP_ENEMY_Bazil Thredd|r on the east prison wing. Loot him for his |cRXP_LOOT_Head|r	Töte |cRXP_ENEMY_Bazil Thredd|r im östlichen Gefängnisflügel. Plündere ihn für seinen |cRXP_LOOT_Head|r
+f8d84d55	Cook food and gain campfire buffs for later.	Koche Essen und hol dir Lagerfeuer-Stärkungszauber für später.
+f8d8c88c	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Talk to|r |cRXP_FRIENDLY_Zendo'jian|r|cRXP_BUY_. Buy a|r |T135499:0|t[Laminated Recurve Bow] |cRXP_BUY_from him|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|t|cRXP_BUY_Sprich mit|r |cRXP_FRIENDLY_Zendo'jian|r|cRXP_BUY_. Kaufe|r |T135499:0|t[Laminated Recurve Bow] |cRXP_BUY_bei ihm|r
+f8d8eb26	Defeat |cRXP_ENEMY_Bartleby|r	Besiege |cRXP_ENEMY_Bartleby|r
+f8daa6a0	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Scooty|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Scooty|r
+f8e458d3	Trophy Swoop Quill (8)	Trophy Swoop Quill (8)
+f8e47677	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Bluff Runner Windstrider|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Bluff Runner Windstrider|r
+f8e51a8e	|cRXP_WARN_|cRXP_ENEMY_Basilisks|r share spawns with |cRXP_ENEMY_Boars|r, and |cRXP_ENEMY_Hyenas|r share spawns with|r |cRXP_ENEMY_Scorpids|r	|cRXP_WARN_|cRXP_ENEMY_Basilisks|r teilen sich Spawnpunkte mit |cRXP_ENEMY_Boars|r, und |cRXP_ENEMY_Hyenas|r teilen sich Spawnpunkte mit|r |cRXP_ENEMY_Scorpids|r
+f8e59785	Talk to |cRXP_FRIENDLY_Althea|r	Sprich mit |cRXP_FRIENDLY_Althea|r
+f8e59872	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Theocritus|r at the top	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Theocritus|r ganz oben
+f8e7d0ca	|cRXP_WARN_Equip the|r |T135353:0|t[Espadon] |cRXP_WARN_when you are level 16|r	|cRXP_WARN_Lege|r |T135353:0|t[Espadon] |cRXP_WARN_an, sobald du Stufe 16 bist|r
+f8f3b632	Head to the Shadowforge Gates at the start of the entrance	Begib dich zu den Shadowforge Gates am Anfang des Eingangs
+f8f44ac2	Click the |cRXP_PICK_Mangled Human Remains|r on the ground. Loot it for the |cRXP_LOOT_SI:7 Insignia (Rutger)|r	Klicke auf die |cRXP_PICK_Mangled Human Remains|r auf dem Boden. Plündere sie, um die |cRXP_LOOT_SI:7 Insignia (Rutger)|r zu erhalten
+f9071923	Look for small lockboxes inside the burnt houses	Suche in den abgebrannten Häusern nach kleinen Schließkassetten
+f907e809	Kill |cRXP_ENEMY_Kobold Laborers|r	Töte |cRXP_ENEMY_Kobold Laborers|r
+f908b729	Find |cRXP_FRIENDLY_Old Man Heming|r in Booty Bay.	Finde |cRXP_FRIENDLY_Old Man Heming|r in Booty Bay.
+f91053c0	Kill |cRXP_ENEMY_Fire Elementals|r. Loot them for their |cRXP_LOOT_Ash|r	Töte |cRXP_ENEMY_Fire Elementals|r. Plündere sie für ihre |cRXP_LOOT_Ash|r
+f9125b14	|cRXP_WARN_Don't fight any of the elite dragonkin in the area. If you pull one just CC it, get the report and run away|r	|cRXP_WARN_Kämpfe gegen keinen der Elite-Drachkin in der Gegend. Falls du einen pullst, setz ihn einfach per CC außer Gefecht, hol dir den Bericht und lauf weg|r
+f9173ea0	Erland must reach Rane Yorick (1)	Erland muss Rane Yorick erreichen (1)
+f918dc00	Turn in The Essence of Aku'Mai	Gib The Essence of Aku'Mai ab
+f91c3c00	Kill |cRXP_ENEMY_Croaky|r. Loot him for |T134169:0|t[|cRXP_LOOT_Croaky's Head|r]	Töte |cRXP_ENEMY_Croaky|r. Plündere ihn für |T134169:0|t[|cRXP_LOOT_Croaky's Head|r]
+f91f0a97	Grind |cRXP_ENEMY_Quilboars|r while assembling a Wailing Caverns group	Grinde |cRXP_ENEMY_Quilboars|r, während du eine Gruppe für Wailing Caverns zusammenstellst
+f923840f	Turn in Rhapsody's Tale	Gib Rhapsody's Tale ab
+f9250bfa	Turn in The Harvester	Gib The Harvester ab
+f92bb376	Loot the |cRXP_LOOT_Water Pitcher|r on the well behind |cRXP_FRIENDLY_Greatmother Hawkwind|r	Plündere |cRXP_LOOT_Water Pitcher|r auf dem Brunnen hinter |cRXP_FRIENDLY_Greatmother Hawkwind|r
+f92bea27	Kill |cRXP_ENEMY_Rot Hide Gnolls|r. Loot them for their |cRXP_LOOT_Ichor|r	Töte |cRXP_ENEMY_Rot Hide Gnolls|r. Plündere sie für ihr |cRXP_LOOT_Ichor|r
+f92e7560	Wait for the roleplay. Use the |T135432:0|t[Torch of Eternal Flame] on the burning |cRXP_PICK_Brazier of Offering|r.	Warte das Rollenspiel ab. Benutze die |T135432:0|t[Torch of Eternal Flame] an der brennenden |cRXP_PICK_Brazier of Offering|r.
+f936a12a	|cRXP_ENEMY_Enraged Stanley|r |cRXP_WARN_gives a full quest's worth of experience|r	|cRXP_ENEMY_Enraged Stanley|r |cRXP_WARN_gibt so viel Erfahrung wie eine komplette Quest|r
+f93b60c5	|cRXP_BUY_Vendor Trash. Buy a pair of |r [Tattered Cloth Bracers] |cRXP_BUY_from him to engrave a rune on|r	|cRXP_BUY_Verkaufe deinen Plunder. Kaufe ein Paar |r [Tattered Cloth Bracers] |cRXP_BUY_bei ihm, um eine Rune darauf zu gravieren|r
+f93d173f	Click the |cRXP_PICK_Highvale Records|r on the ground	Klicke auf |cRXP_PICK_Highvale Records|r auf dem Boden
+f93d8719	AoE |cRXP_ENEMY_Centipaar Sandreavers|r, |cRXP_ENEMY_Centipaar Swarmers|r, |cRXP_ENEMY_Centipaar Stingers|r, |cRXP_ENEMY_Centipaar Tunnelers|r, and |cRXP_ENEMY_Centipaar Wasps|r. Loot them for |cRXP_LOOT_Centipaar Insect Parts|r	Bekämpfe per AoE |cRXP_ENEMY_Centipaar Sandreavers|r, |cRXP_ENEMY_Centipaar Swarmers|r, |cRXP_ENEMY_Centipaar Stingers|r, |cRXP_ENEMY_Centipaar Tunnelers|r und |cRXP_ENEMY_Centipaar Wasps|r. Plündere sie, um |cRXP_LOOT_Centipaar Insect Parts|r zu erhalten
+f93daf3c	AoE |cRXP_ENEMY_Nightbane Dark Runners|r	Bekämpfe per AoE |cRXP_ENEMY_Nightbane Dark Runners|r
+f93ef4fb	Turn in all 4 fish to |cRXP_FRIENDLY_Nat Pagle|r.	Gib alle 4 Fische bei |cRXP_FRIENDLY_Nat Pagle|r ab.
+f93f0e88	Turn in What Is My Purpose?	Gib What Is My Purpose? ab
+f93fca4c	Fly to Burning Steppes	Flieg nach Burning Steppes
+f94390a4	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kravel|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kravel|r
+f94a5b6d	Turn in Tribes at War	Gib Tribes at War ab
+f94b4166	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Hemet|r and |cRXP_FRIENDLY_S. J. Erlgadin|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Hemet|r und |cRXP_FRIENDLY_S. J. Erlgadin|r
+f94e4600	12-17 The Barrens AoE	12-17 The Barrens AoE
+f9606ba3	Accept Delivery to Archmage Xylem	Nimm Delivery to Archmage Xylem an
+f9607f2f	Bernice's Necklace (1)	Bernice's Necklace (1)
+f962cb2e	1/1 Cirrusfly Queen slain	1/1 Cirrusfly Queen getötet
+f9630c59	|cRXP_WARN_He can spawn outside under the grapevine or in the 1st or 2nd floor of the house|r	|cRXP_WARN_Er kann draußen unter der Weinrebe oder im 1. oder 2. Stock des Hauses erscheinen|r
+f9637c62	|cRXP_WARN_Equip the|r |T135468:0|t[Smoldering Wand]	|cRXP_WARN_Lege an:|r |T135468:0|t[Smoldering Wand]
+f965e885	Skyborne Druid Class Quests	Skyborne-Druiden-Klassenquests
+f978676d	Take the Tram to Ironforge	Nimm die Tram nach Ironforge
+f97fb1d5	|cRXP_WARN_Be careful as they cast|r |T136218:0|t[Terrifying Screech]|cRXP_WARN_, (Instantly fearing you for 4 seconds|r	|cRXP_WARN_Sei vorsichtig, da sie wirken:|r |T136218:0|t[Terrifying Screech]|cRXP_WARN_ (versetzt dich sofort 4 Sekunden lang in Furcht|r
+f980226e	|T134797:0|t[Elixir of Water Breathing] (If you have them)	|T134797:0|t[Elixir of Water Breathing] (falls vorhanden)
+f980920d	Loot the |cRXP_PICK_Zul'Mamwe Trophy Skulls|r for its |cRXP_LOOT_Trophy|r	Plündere |cRXP_PICK_Zul'Mamwe Trophy Skulls|r für ihre |cRXP_LOOT_Trophy|r
+f984c257	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kanati|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kanati|r
+f986299c	17-18 Hall of Thanes	17-18 Hall of Thanes
+f986ce24	Accept Release Them	Nimm Release Them an
+f989e925	Talk to |cRXP_FRIENDLY_Phin|r	Sprich mit |cRXP_FRIENDLY_Phin|r
+f98b0019	Vendor Trash (and all your old food). Repair	Verkaufe Plunder beim Händler (und all dein altes Essen). Repariere
+f98bee67	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Krazek|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Krazek|r
+f98e8730	Abandon Centaur Bracers as you have not looted enough previously to make it worthwhile to finish	Brich Centaur Bracers ab, da du vorher nicht genug geplündert hast, damit sich das Abschließen lohnt
+f98f4957	|cRXP_WARN_MAKE SURE You keep an extra 15|r |T132905:0|t[Silk Cloth] |cRXP_WARN_on your character for Searing Gorge|r	|cRXP_WARN_STELLE SICHER, dass du zusätzliche 15|r |T132905:0|t[Silk Cloth] |cRXP_WARN_für Searing Gorge bei dir behältst|r
+f990bc9c	c:Mulgore,63.93,78.34	c:Mulgore,63.93,78.34
+f9911454	Turn in Nek'rosh's Gambit	Gib Nek'rosh's Gambit ab
+f99285d8	Kill |cRXP_ENEMY_Hillsbrad|r mobs. Loot them for their |cRXP_LOOT_Skulls|r	Töte |cRXP_ENEMY_Hillsbrad|r-Mobs. Plündere sie für ihre |cRXP_LOOT_Skulls|r
+f99686db	|cRXP_WARN_He patrols the road|r	|cRXP_WARN_Er patrouilliert auf der Straße|r
+f9a871c8	|cRXP_ENEMY_Twilight Keepers|r|cRXP_WARN_,|r |cRXP_ENEMY_Overlords|r |cRXP_WARN_and|r |cRXP_ENEMY_Masters|r |cRXP_WARN_have very high burst potential|r	|cRXP_ENEMY_Twilight Keepers|r|cRXP_WARN_,|r |cRXP_ENEMY_Overlords|r |cRXP_WARN_und|r |cRXP_ENEMY_Masters|r |cRXP_WARN_haben sehr hohes Burst-Potenzial|r
+f9aaf5ca	Accept The Flame's Casing	Nimm The Flame's Casing an
+f9af5ca7	Make sure you train Polymorph	Stelle sicher, dass du Polymorph trainierst
+f9af705d	Click the |cRXP_PICK_Loose Dirt|r West of |cRXP_FRIENDLY_"Swamp Eye" Jarl's|r house	Klicke auf den |cRXP_PICK_Loose Dirt|r westlich vom Haus von |cRXP_FRIENDLY_"Swamp Eye" Jarl's|r
+f9b16c5d	|cRXP_WARN_Only engage in combat with 1 |cRXP_ENEMY_Murloc|r at a time. Try to avoid |cRXP_ENEMY_Saltscale Oracles|r, |cRXP_ENEMY_Saltscale Foragers|r and|r |cRXP_ENEMY_Saltscale Tide Lords|r |cRXP_WARN_and prioritize killing|r |cRXP_ENEMY_Saltscale Hunters|r	|cRXP_WARN_Kämpfe immer nur gegen 1 |cRXP_ENEMY_Murloc|r gleichzeitig. Versuche, |cRXP_ENEMY_Saltscale Oracles|r, |cRXP_ENEMY_Saltscale Foragers|r zu meiden und|r |cRXP_ENEMY_Saltscale Tide Lords|r |cRXP_WARN_und töte bevorzugt|r |cRXP_ENEMY_Saltscale Hunters|r
+f9b81390	Kill |cRXP_ENEMY_Magra|r. Loot him for the |T134135:0|t[|cRXP_LOOT_Gem of the Third Khan|r]	Töte |cRXP_ENEMY_Magra|r. Plündere ihn für den |T134135:0|t[|cRXP_LOOT_Gem of the Third Khan|r]
+f9bb1261	Turn in Warrior Kinship	Gib Warrior Kinship ab
+f9be83ff	Accept Lieutenant Paval Reethe	Nimm Lieutenant Paval Reethe an
+f9bfdf24	Turn in Past Endeavors	Gib Past Endeavors ab
+f9c8fccf	Turn in Up to Snuff	Gib Up to Snuff ab
+f9c9fc0b	|cRXP_WARN_Perform a Logout Skip by positioning your character on the edge of the circle until it looks like they're floating, then logging out and back in|r	|cRXP_WARN_Mach einen Logout-Skip, indem du deinen Charakter so am Rand des Kreises positionierst, dass er zu schweben scheint, und dich dann aus- und wieder einloggst|r
+f9ca2833	Collect Fresh Zhevra Carcass	Sammle Fresh Zhevra Carcass
+f9cb99e2	Thank you for using Forever Fishing Guide.	Danke, dass du den Forever Fishing Guide benutzt hast.
+f9d1b3bf	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Martek the Exiled|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Martek the Exiled|r
+f9d2afb6	|cRXP_WARN_Stand on the waypoint location. Position your camera and cursor until you can click 3 |cRXP_PICK_Practice Lockboxes|r at once without having to move anything|r	|cRXP_WARN_Stell dich auf den Wegpunkt. Richte Kamera und Mauszeiger so aus, dass du 3 |cRXP_PICK_Practice Lockboxes|r gleichzeitig anklicken kannst, ohne etwas zu bewegen|r
+f9d3ddd6	Keep 10 tubes for Standard Scopes. Scopes can fill the last few points if the tubes leave you short.	Behalte 10 Röhren für Standard Scopes. Mit Zielfernrohren kannst du die letzten Punkte auffüllen, falls dir die Röhren nicht reichen.
+f9dc3034	Turn in Continue to Stormwind	Gib Continue to Stormwind ab
+f9dee826	Kill |cRXP_ENEMY_Dark Strand Fanatics|r. Loot them for their |cRXP_LOOT_Worn Parchments|r	Töte |cRXP_ENEMY_Dark Strand Fanatics|r. Plündere sie für ihre |cRXP_LOOT_Worn Parchments|r
+f9e29b94	The Apothecary's Metaphysical Primer (x1	The Apothecary's Metaphysical Primer (x1
+f9e6bb0e	Train your class spells (Arcane Explosion r5, Fire Blast r6)	Trainiere deine Klassenzauber (Arcane Explosion r5, Fire Blast r6)
+f9e797c7	|T135736:0|t[Blink] |cRXP_WARN_toward the table|r	|T135736:0|t[Blink] |cRXP_WARN_in Richtung Tisch|r
+f9ec7906	Collect Kris (1)	Sammle Kris (1)
+f9ee1562	Travel toward the |cRXP_PICK_Captain's Chest|r	Reise in Richtung |cRXP_PICK_Captain's Chest|r
+f9ee3758	Buy a |T134708:0|t[Mining Pick]	Kaufe eine |T134708:0|t[Mining Pick]
+f9f0bbaf	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kin'weelay|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kin'weelay|r
+f9f201a0	|cRXP_WARN_Make sure you don't sell your|r |T132794:0|t[|cRXP_LOOT_Flask of Oil|r]	|cRXP_WARN_Verkaufe auf keinen Fall deine|r |T132794:0|t[|cRXP_LOOT_Flask of Oil|r]
+f9f35795	|cRXP_WARN_Be careful! He is strong and is guarded by at least two|r |cRXP_ENEMY_Kolkar|r |cRXP_WARN_mobs|r	|cRXP_WARN_Vorsicht! Er ist stark und wird von mindestens zwei|r |cRXP_ENEMY_Kolkar|r |cRXP_WARN_-Mobs bewacht|r
+f9f5a8d0	Mountain Buzzard slain (6)	Mountain Buzzard getötet (6)
+f9f71ed7	Kill |cRXP_ENEMY_Deepmoss Venomspitters|r	Töte |cRXP_ENEMY_Deepmoss Venomspitters|r
+f9f78bce	Batch ingredients: 55 Chunk of Boar Meat.	Zutaten für die Charge: 55 Chunk of Boar Meat.
+f9f8d258	Turn in Rugged Terrain	Gib Rugged Terrain ab
+f9fac00e	Kill Young Forest Bear (x5)	Töte Young Forest Bear (x5)
+f9fc74ab	Turn in Crocolisk Hunting	Gib Crocolisk Hunting ab
+f9fdba0d	Kill |cRXP_ENEMY_Ashenvale Bears|r and |cRXP_ENEMY_Shadowhorn Stags|r	Töte |cRXP_ENEMY_Ashenvale Bears|r und |cRXP_ENEMY_Shadowhorn Stags|r
+f9fffa9b	Run to the Dwarven District	Lauf zum Dwarven District
+fa008f7e	|T133718:0|t[Skeleton Finger]	|T133718:0|t[Skeleton Finger]
+fa06a449	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Ruag|r upstairs	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Ruag|r oben
+fa0db1e2	Turn in The Lost Rune	Gib The Lost Rune ab
+fa0e5b38	Accept Lightforge Iron	Nimm Lightforge Iron an
+fa0fce3e	Grimoire of Blood Pact (Rank 1)	Grimoire of Blood Pact (Rank 1)
+fa11b58c	You need a |T135933:0|t[Comprehension Charm] from a |cRXP_FRIENDLY_Reagent Vendor|r to use the |T134939:0|t[|cRXP_FRIENDLY_Spell Notes: MILEGIN VALF]|r	Du brauchst einen |T135933:0|t[Comprehension Charm] von einem |cRXP_FRIENDLY_Reagent Vendor|r, um |T134939:0|t[|cRXP_FRIENDLY_Spell Notes: MILEGIN VALF]|r zu benutzen
+fa11ddd8	Carefully grind down into this nook in the cave	Grinde dich vorsichtig in diese Nische der Höhle hinunter
+fa178ca5	|cRXP_WARN_Skip this step if you already trained level 8 spells|r	|cRXP_WARN_Überspringe diesen Schritt, falls du die Zauber für Stufe 8 bereits trainiert hast|r
+fa18d432	Travel toward the Theramore Boat	Reise in Richtung des Schiffs nach Theramore
+fa1bd549	Escort |cRXP_FRIENDLY_Arko'narin|r through Shadow Hold. After |cRXP_FRIENDLY_Arko'narin|r equips her armor, kill the 3 |cRXP_ENEMY_Felguard|r that spawn	Eskortiere |cRXP_FRIENDLY_Arko'narin|r durch Shadow Hold. Nachdem |cRXP_FRIENDLY_Arko'narin|r ihre Rüstung angelegt hat, töte die 3 erscheinenden |cRXP_ENEMY_Felguard|r
+fa1ceb49	Accept The Battleboars	Nimm The Battleboars an
+fa1f2df8	Accept Find OOX-22/FE!	Nimm Find OOX-22/FE! an
+fa2954aa	|cRXP_WARN_Set up a slow trap near the goblin statue and kite him with Aspect of the Cheetah|r	|cRXP_WARN_Leg eine Verlangsamungsfalle bei der Goblinstatue und kite ihn mit Aspect of the Cheetah|r
+fa2f0e16	AoE |cRXP_ENEMY_Mirefin Muckdwellers|r, |cRXP_ENEMY_Mirefin Coastrunners|r, |cRXP_ENEMY_Mirefin Puddlejumpers|r, |cRXP_ENEMY_Mirefin Murlocs|r, and |cRXP_ENEMY_Mudrock Spikeshells|r to 43110+/95800xp	Bekämpfe per AoE |cRXP_ENEMY_Mirefin Muckdwellers|r, |cRXP_ENEMY_Mirefin Coastrunners|r, |cRXP_ENEMY_Mirefin Puddlejumpers|r, |cRXP_ENEMY_Mirefin Murlocs|r und |cRXP_ENEMY_Mudrock Spikeshells|r bis 43110+/95800 EP
+fa304aba	|cRXP_WARN_Hearthstone BATCH from Auberdine to Ironforge|r	|cRXP_WARN_Ruhestein-CHARGE von Auberdine nach Ironforge|r
+fa30b233	|cRXP_WARN_Use |T133485:0|t[|cRXP_LOOT_Noboru's Cudgel|r] to start the quest|r	|cRXP_WARN_Benutze |T133485:0|t[|cRXP_LOOT_Noboru's Cudgel|r], um die Quest zu starten|r
+fa30e371	Accept Minshina's Skull	Nimm Minshina's Skull an
+fa343c22	|cRXP_BUY_Buy a|r |T135640:0|t[Broad Bladed Knife] |cRXP_BUY_from him if it's up and you don't have it yet|r	|cRXP_BUY_Kaufe ein|r |T135640:0|t[Broad Bladed Knife] |cRXP_BUY_bei ihm, falls verfügbar und du es noch nicht hast|r
+fa35f9d9	20-22 ADV Redridge 1 Mage AoE	20-22 ADV Redridge 1 Mage AoE
+fa364fc8	Accept Vorsha the Lasher	Nimm Vorsha the Lasher an
+fa37dc0a	Accept Prompt Potion Runner	Nimm Prompt Potion Runner an
+fa3bb65f	Train Two-Handed Axes	Trainiere Two-Handed Axes
+fa3c086a	Kill |cRXP_ENEMY_Syndicate Shadow Mages|r. Loot them for their |cRXP_LOOT_Vials|r	Töte |cRXP_ENEMY_Syndicate Shadow Mages|r. Plündere sie für ihre |cRXP_LOOT_Vials|r
+fa3cb362	|cRXP_WARN_Start spam casting|r |T132794:0|t[Conjure Water r2] |cRXP_WARN_to conjure as much water as possible before taking the flight|r	|cRXP_WARN_Fang an, ständig|r |T132794:0|t[Conjure Water r2] |cRXP_WARN_zu wirken, um vor dem Flug so viel Wasser wie möglich herzustellen|r
+fa3f14a5	|cRXP_WARN_Kill |cRXP_ENEMY_Wailing Highbornes|r only if they're in your way|r	|cRXP_WARN_Töte |cRXP_ENEMY_Wailing Highbornes|r nur, wenn sie dir im Weg sind|r
+fa40b55c	c:Mulgore,48.38,59.15	c:Mulgore,48.38,59.15
+fa41f30c	Withdraw the following from the bank:	Hol Folgendes aus der Bank:
+fa457dd1	|cRXP_WARN_He has a long respawn timer. Skip this step if he isn't up or if you can't solo him|r	|cRXP_WARN_Er hat eine lange Respawnzeit. Überspringe diesen Schritt, falls er nicht da ist oder du ihn nicht solo schaffst|r
+fa461bb1	Loot boxes on the ground	Plündere Kisten auf dem Boden
+fa47a426	Expert Mining requires skill 125; there is no character level requirement in Forever.	Expert Mining erfordert Fertigkeit 125; in Forever gibt es keine Anforderung an die Charakterstufe.
+fa493e45	|cRXP_WARN_Engrave your gloves with|r |T236298:0|t[Haunt]	|cRXP_WARN_Graviere deine Handschuhe mit|r |T236298:0|t[Haunt]
+fa4d0670	Travel to Nesingwary's Expedition	Reise nach Nesingwary's Expedition
+fa5369a8	Loot the |cRXP_LOOT_Doom Weed|r on the ground	Plündere |cRXP_LOOT_Doom Weed|r auf dem Boden
+fa54d127	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Yama|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Yama|r
+fa5b5056	|cRXP_WARN_Split pull the pack that spawns with Volley. Kite|r |cRXP_ENEMY_Mercutio|r |cRXP_WARN_away until the other mobs break leash|r	|cRXP_WARN_Zieh die erscheinende Gruppe mit Volley auseinander. Kite|r |cRXP_ENEMY_Mercutio|r |cRXP_WARN_weg, bis die anderen Mobs resetten|r
+fa5f8145	Taillasher Egg (3)	Taillasher Egg (3)
+fa685be9	Turn in Items of Some Consequence	Gib Items of Some Consequence ab
+fa716ddc	Accept Murloc Poachers	Nimm Murloc Poachers an
+fa750f36	Accept The Platinum Discs	Nimm The Platinum Discs an
+fa75298f	|T134419:0|t[|cRXP_FRIENDLY_Rune of Devastate|r]	|T134419:0|t[|cRXP_FRIENDLY_Rune of Devastate|r]
+fa7c3dfd	Travel to |cRXP_FRIENDLY_Duthorian Rall|r inside the Stormwind Cathedral	Reise zu |cRXP_FRIENDLY_Duthorian Rall|r in der Stormwind Cathedral
+fa7d3257	Collecting Kelp RP	Collecting Kelp RP
+fa7d5c05	Click the Hoofprints on the ground	Klicke auf die Hufabdrücke auf dem Boden
+fa7e7e05	|cRXP_WARN_Skip this step if you already took the flight path!|r	|cRXP_WARN_Überspringe diesen Schritt, falls du die Flugroute bereits genommen hast!|r
+fa7ec62d	|cRXP_WARN_This quest can be difficult, so clear around the cave before summoning|r	|cRXP_WARN_Diese Quest kann schwer sein, räume also die Umgebung der Höhle, bevor du beschwörst|r
+fa8151d6	|cRXP_WARN_Equip the|r |T135350:0|t[Claymore]	|cRXP_WARN_Lege an:|r |T135350:0|t[Claymore]
+fa81f742	Turn in Hungry	Gib Hungry ab
+fa83e192	Accept An OOX of Your Own	Nimm An OOX of Your Own an
+fa8c0f39	|cRXP_WARN_Be VERY careful of|r |cRXP_ENEMY_Theramore Guards|r|cRXP_WARN_! They have a huge aggro range|r	|cRXP_WARN_Achte SEHR auf|r |cRXP_ENEMY_Theramore Guards|r|cRXP_WARN_! Sie haben einen riesigen Aggroradius|r
+fa96c341	Accept A Friend in Need	Nimm A Friend in Need an
+fa990929	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Glix Xizzix|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Glix Xizzix|r
+fa997aa6	Accept Delivery to the Gnomes	Nimm Delivery to the Gnomes an
+fa99c70c	Kill |cRXP_ENEMY_Stonevault Troggs|r. Loot them for their |cRXP_LOOT_Indurium|r	Töte |cRXP_ENEMY_Stonevault Troggs|r. Plündere sie für ihr |cRXP_LOOT_Indurium|r
+fa9cb66a	|cRXP_WARN_Cast|r |T132117:0|t[Challenging Roar] |cRXP_WARN_on enemies and kill them while they have the|r |T132117:0|t[Challenging Roar] |cRXP_WARN_debuff. This will give you a stack of the|r |T237556:0|t[Building Inspiration] |cRXP_WARN_buff. Repeat this 5 times|r	|cRXP_WARN_Wirke|r |T132117:0|t[Challenging Roar] |cRXP_WARN_auf Gegner und töte sie, solange sie den Schwächungszauber|r |T132117:0|t[Challenging Roar] |cRXP_WARN_haben. Dadurch erhältst du einen Stapel des Stärkungszaubers|r |T237556:0|t[Building Inspiration]|cRXP_WARN_. Wiederhole das 5 Mal|r
+fa9dfcea	Click the |cRXP_PICK_Wrecked Raft|r	Klicke auf |cRXP_PICK_Wrecked Raft|r
+faa0e8cc	Talk to |cRXP_FRIENDLY_Vidra|r	Sprich mit |cRXP_FRIENDLY_Vidra|r
+faa69402	Rune of Precision (1)	Rune of Precision (1)
+faa962c5	Turn in The Stagnant Oasis	Gib The Stagnant Oasis ab
+faa97591	Accept The Hunter's Charm	Nimm The Hunter's Charm an
+faaaac3a	Thank you for using the Advanced (|cRXP_FRIENDLY_Tommysalami|r) AoE Mage guide!	Danke, dass du den Advanced AoE-Mage-Guide (|cRXP_FRIENDLY_Tommysalami|r) benutzt hast!
+faab6c2c	Summon Mercutio and his goons by clicking on the dirt pile, you have to kill him while handling 3 other adds	Rufe Mercutio und seine Schläger herbei, indem du auf den Erdhaufen klickst. Du musst ihn töten und dabei mit 3 weiteren Adds fertigwerden
+faace4c9	Turn in WANTED: Baron Vardus	Gib WANTED: Baron Vardus ab
+faae047b	Tame a Large Crag Boar (1)	Zähme einen Large Crag Boar (1)
+faae39f9	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Watcher Biggs|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Watcher Biggs|r
+fab9b781	Turn in Alien Egg	Gib Alien Egg ab
+fabc6682	Pelt Collecting for Beginners	Pelt Collecting for Beginners
+fabfd38b	|cRXP_WARN_Use the|r |T134912:0|t[|cRXP_FRIENDLY_Idol of the Heckler|r] |cRXP_WARN_to train|r |T236149:0|t[Berserk]	|cRXP_WARN_Benutze|r |T134912:0|t[|cRXP_FRIENDLY_Idol of the Heckler|r] |cRXP_WARN_, um zu trainieren:|r |T236149:0|t[Berserk]
+fac308d4	Enter Kargathia Keep	Betritt Kargathia Keep
+fac8f854	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Sessaria Skystride::252382|r.	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Sessaria Skystride::252382|r.
+facdb6f8	|cRXP_WARN_Skip this if you're unlucky with the drop|r	|cRXP_WARN_Überspringe dies, falls du Pech mit dem Drop hast|r
+fad213a3	Reach Cooking 100	Erreiche Cooking 100
+fad21406	Reach Cooking 130	Erreiche Cooking 130
+fad21448	Reach Cooking 150	Erreiche Cooking 150
+fad2148f	Reach Cooking 175	Erreiche Cooking 175
+fad2182b	Reach Cooking 225	Erreiche Cooking 225
+fad6bcdc	Turn in Sven's Camp	Gib Sven's Camp ab
+fad79531	Click the |cRXP_PICK_Uldum Pedestal|r	Klicke auf |cRXP_PICK_Uldum Pedestal|r
+fadc91f8	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Innkeeper Kaylisk|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Innkeeper Kaylisk|r
+fae25128	Turn in Wasteland	Gib Wasteland ab
+fae820ce	Grind a little bit more if you need money for a mount (100g)	Grinde noch etwas, falls du Geld für ein Reittier brauchst (100g)
+fae9d18f	Travel to Zul'Farrak	Reise nach Zul'Farrak
+faf47e2b	Time until completion 1	Zeit bis zum Abschluss 1
+faf47e2c	Time until completion 2	Zeit bis zum Abschluss 2
+faf5625b	|cRXP_WARN_Do NOT go below 1 Silver|r	|cRXP_WARN_Geh NICHT unter 1 Silber|r
+faf9a60f	Kill |cRXP_ENEMY_Witherfang::250483|r. Loot it for a |T132108:0|t[|cRXP_LOOT_Highly Toxic Strain|r]	Töte |cRXP_ENEMY_Witherfang::250483|r. Plündere ihn für einen |T132108:0|t[|cRXP_LOOT_Highly Toxic Strain|r]
+fafb6729	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Smotts|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Smotts|r
+fafd5860	Kill |cRXP_ENEMY_Lightning Hides|r. Loot them for their |cRXP_ENEMY_Scales|r	Töte |cRXP_ENEMY_Lightning Hides|r. Plündere sie für ihre |cRXP_ENEMY_Scales|r
+faffec88	Kill |cRXP_ENEMY_Carrodin|r. Loot it for the |T134419:0|t[|cRXP_FRIENDLY_Rune of Aspect of the Lion|r]	Töte |cRXP_ENEMY_Carrodin|r. Plündere ihn für die |T134419:0|t[|cRXP_FRIENDLY_Rune of Aspect of the Lion|r]
+fb01a24e	Talk to |cRXP_FRIENDLY_Chief Archaeologist Greywhisker|r	Sprich mit |cRXP_FRIENDLY_Chief Archaeologist Greywhisker|r
+fb02de01	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to|r |cRXP_FRIENDLY_Wizzlecrank's Shredder|r in The Sludge Fen	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit|r |cRXP_FRIENDLY_Wizzlecrank's Shredder|r in The Sludge Fen
+fb032211	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to|r |cRXP_FRIENDLY_Wizzlecrank's Shredder|r in The Sludge Ven	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit|r |cRXP_FRIENDLY_Wizzlecrank's Shredder|r in The Sludge Ven
+fb0afd32	Turn in News of Dogran	Gib News of Dogran ab
+fb0b8d4b	Get the Freewind Post flight path	Hol dir die Flugroute in Freewind Post
+fb0da408	Train |T136103:0|t[Raptor Riding]	Trainiere |T136103:0|t[Raptor Riding]
+fb11e6c2	Turn in The Annals of Darrowshire	Gib The Annals of Darrowshire ab
+fb1407f8	Duskweed Petal 18/18	Duskweed Petal 18/18
+fb155a52	AoE |cRXP_ENEMY_Mottled Raptors|r and |cRXP_ENEMY_Mottled Screechers|r. Loot them for the |cRXP_LOOT_Stone of Relu|r	Bekämpfe per AoE |cRXP_ENEMY_Mottled Raptors|r und |cRXP_ENEMY_Mottled Screechers|r. Plündere sie, um |cRXP_LOOT_Stone of Relu|r zu erhalten
+fb160a15	Enter The Writhering Deep Hive from the lower southwest entrance	Betritt The Writhering Deep Hive durch den unteren südwestlichen Eingang
+fb204310	52-52 Felwood	52-52 Felwood
+fb218cba	Abandon Sigil of Strom	Brich Sigil of Strom ab
+fb2a9424	Turn in Snowbound	Gib Snowbound ab
+fb2aac00	Turn in The Woodland Protector	Gib The Woodland Protector ab
+fb2ca2ea	Turn in Wildmane Cleansing	Gib Wildmane Cleansing ab
+fb318e84	Kill |cRXP_ENEMY_Shadowmaw Panthers|r	Töte |cRXP_ENEMY_Shadowmaw Panthers|r
+fb37de64	Accept Nek'rosh's Gambit	Nimm Nek'rosh's Gambit an
+fb3a6b53	|cRXP_WARN_This will save you time from running back|r	|cRXP_WARN_Das spart dir den Rückweg|r
+fb3b9981	Accept Meddlesome Mages	Nimm Meddlesome Mages an
+fb475daa	Turn in Beer Basted Boar Ribs	Gib Beer Basted Boar Ribs ab
+fb4b0412	Grind to 4000+/8800xp	Grinde bis 4000+/8800 EP
+fb4d5565	Kill |cRXP_ENEMY_Grell|r and |cRXP_ENEMY_Grellkin|r. Loot them for their |cRXP_LOOT_Mushrooms|r	Töte |cRXP_ENEMY_Grell|r und |cRXP_ENEMY_Grellkin|r. Plündere sie für ihre |cRXP_LOOT_Mushrooms|r
+fb4f1758	|cRXP_WARN_Kill |cRXP_ENEMY_Young Scavengers|r and |cRXP_ENEMY_Duskbats|r. Loot them until you have 60 copper worth of vendor items (including your armor)|r	|cRXP_WARN_Töte |cRXP_ENEMY_Young Scavengers|r und |cRXP_ENEMY_Duskbats|r. Plündere sie, bis du Händlerware im Wert von 60 Kupfer hast (inklusive deiner Rüstung)|r
+fb537a02	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Sergeant Yohwa|r and |cRXP_FRIENDLY_Brother Nimetz|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Sergeant Yohwa|r und |cRXP_FRIENDLY_Brother Nimetz|r
+fb556a22	|cRXP_WARN_Use the|r |T135230:0|t[|cRXP_LOOT_Grime-Encrusted Ring|r] |cRXP_WARN_to start the quest|r	|cRXP_WARN_Benutze|r |T135230:0|t[|cRXP_LOOT_Grime-Encrusted Ring|r] |cRXP_WARN_, um die Quest zu starten|r
+fb57a5b0	Logout Skip out of the cave (on the EAST side) back to Lakeshire	Mach einen Logout-Skip aus der Höhle (auf der OSTSEITE) zurück nach Lakeshire
+fb5806ce	Right-click the |cRXP_FRIENDLY_Expert Fishing - The Bass and You|r book to learn Expert Fishing.	Rechtsklicke auf das Buch |cRXP_FRIENDLY_Expert Fishing - The Bass and You|r, um Expert Fishing zu erlernen.
+fb586773	Turn in Blood Feeders	Gib Blood Feeders ab
+fb58a9f3	Hunt stealthed Fen Creepers in the shallow waterways of the Wetlands.	Jage getarnte Fen Creepers in den seichten Wasserläufen der Wetlands.
+fb63d99d	|cRXP_WARN_Once inside:|r	|cRXP_WARN_Sobald du drin bist:|r
+fb666f38	|cRXP_BUY_Buy 20|r |T134059:0|t[Mild Spices] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe 20|r |T134059:0|t[Mild Spices] |cRXP_BUY_bei ihm|r
+fb6b80fa	c:Thunder Bluff,61.3,80.9	c:Thunder Bluff,61.3,80.9
+fb6bd03b	Go east to Duskwood	Geh nach Osten nach Duskwood
+fb6c864e	Turn in Cry of the Thunderhawk	Gib Cry of the Thunderhawk ab
+fb733ff8	Kill |cRXP_ENEMY_Troggs|r and |cRXP_ENEMY_Gnomes|r. Loot them for a |T133215:0|t[|cRXP_LOOT_White Punch Card|r]	Töte |cRXP_ENEMY_Troggs|r und |cRXP_ENEMY_Gnomes|r. Plündere sie für eine |T133215:0|t[|cRXP_LOOT_White Punch Card|r]
+fb73f011	Abandon Counterattack!	Brich Counterattack! ab
+fb742d96	Craft |cRXP_FRIENDLY_Rough Bronze Leggings|r from skill 80 to 95.	Stelle |cRXP_FRIENDLY_Rough Bronze Leggings|r von Fertigkeit 80 bis 95 her.
+fb744176	Click the |cRXP_PICK_Highvale Notes|r on the ground	Klicke auf |cRXP_PICK_Highvale Notes|r auf dem Boden
+fb7529d3	|cRXP_WARN_This is a level 7 elite and not easy to kill. Skip him for now if it's too hard|r	|cRXP_WARN_Das ist ein Elite der Stufe 7 und nicht leicht zu töten. Überspringe ihn vorerst, falls es zu schwer ist|r
+fb7bbb9e	Go inside the Goldshire Inn	Geh ins Gasthaus von Goldshire
+fb7e1f09	Vendor trash. Sell your weapon if it gives you enough money for a |T135611:0|t[Ornate Blunderbuss] (4s 14c). You'll come back later if you don't have enough yet	Verkaufe Plunder beim Händler. Verkaufe deine Waffe, falls du dadurch genug Geld für einen |T135611:0|t[Ornate Blunderbuss] (4s 14c) hast. Falls es noch nicht reicht, kommst du später zurück
+fb80f7b2	Gem of Cobrahn (1)	Gem of Cobrahn (1)
+fb82c481	Go up the dirt path	Geh den Erdpfad hinauf
+fb876108	Turn in Shadumbra's Head	Gib Shadumbra's Head ab
+fb891270	Accept Alien Ecology	Nimm Alien Ecology an
+fb8d34c5	Abandon Blacksmithing or continue with it.	Brich Blacksmithing ab oder mach damit weiter.
+fb8d7144	Turn in Return Trip	Gib Return Trip ab
+fb8e2cc7	Silixiz's Tower Key (1)	Silixiz's Tower Key (1)
+fb9538a2	Talk to |cRXP_FRIENDLY_Marlene Redpath|r	Sprich mit |cRXP_FRIENDLY_Marlene Redpath|r
+fb96692f	Accept Stolen Blasting Powder	Nimm Stolen Blasting Powder an
+fba33ebb	Accept Crocolisk Hunting	Nimm Crocolisk Hunting an
+fba55179	AoE |cRXP_ENEMY_Dark Iron Lookouts|r. Loot them for the |cRXP_LOOT_Lookout's Spyglass|r	Bekämpfe per AoE |cRXP_ENEMY_Dark Iron Lookouts|r. Plündere sie, um |cRXP_LOOT_Lookout's Spyglass|r zu erhalten
+fba63d1d	c:Mulgore,59.67,83.33	c:Mulgore,59.67,83.33
+fba66f8d	Accept The Stave of Equinex	Nimm The Stave of Equinex an
+fbabb8d3	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Shandris Feathermoon|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Shandris Feathermoon|r
+fbae78c6	Hearth or travel back to Kargath	Benutze deinen Ruhestein oder reise zurück nach Kargath
+fbb26535	Accept Mission: Possible But Not Probable	Nimm Mission: Possible But Not Probable an
+fbb52df6	Accept Grim Tidings	Nimm Grim Tidings an
+fbba17b9	|cRXP_WARN_Do NOT aggro|r |cRXP_ENEMY_Morganth|r	|cRXP_WARN_Zieh KEINE Aggro von|r |cRXP_ENEMY_Morganth|r
+fbbbfb04	|cRXP_WARN_Ensure you keep the|r |T134430:0|t[Black Dragonflight Molt]|cRXP_WARN_. Do not destroy it. You will need it later|r	|cRXP_WARN_Behalte unbedingt|r |T134430:0|t[Black Dragonflight Molt]|cRXP_WARN_. Zerstöre es nicht. Du brauchst es später|r
+fbc16fa3	Talk to |cRXP_FRIENDLY_Marblesten|r	Sprich mit |cRXP_FRIENDLY_Marblesten|r
+fbc2aaa3	Accept Grove of the Ancients	Nimm Grove of the Ancients an
+fbc759ed	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Augustus|r back in the house	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Augustus|r wieder im Haus
+fbcab89f	Train |T135924:0|t[Smite]	Trainiere |T135924:0|t[Smite]
+fbcb4200	|cRXP_WARN_It patrols the southern side of the river|r	|cRXP_WARN_Es patrouilliert auf der Südseite des Flusses|r
+fbcb4b9e	Click |cRXP_PICK_The Holy Spring|r to loot the |cRXP_LOOT_Holy Spring Water|r	Klicke auf |cRXP_PICK_The Holy Spring|r, um |cRXP_LOOT_Holy Spring Water|r zu plündern
+fbcd4432	Canvas Scraps (<8)	Canvas Scraps (<8)
+fbd61bd2	Craft |cRXP_FRIENDLY_Roast Raptor|r from skill 175 to 225.	Stelle |cRXP_FRIENDLY_Roast Raptor|r von Fertigkeit 175 bis 225 her.
+fbdbb13b	Enter Roguefeather Den	Betritt Roguefeather Den
+fbe17594	Abandon Wayward Weapons	Brich Wayward Weapons ab
+fbe1bb5d	Turn in Bartleby's Mug	Gib Bartleby's Mug ab
+fbe21c7c	|cRXP_BUY_Buy a|r |T133053:0|t[Wooden Mallet] |cRXP_BUY_from her if you can afford it|r	|cRXP_BUY_Kaufe einen|r |T133053:0|t[Wooden Mallet] |cRXP_BUY_bei ihr, falls du ihn dir leisten kannst|r
+fbe25ab5	Abandon Uldaman Reagent Run	Brich Uldaman Reagent Run ab
+fbeaf05a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Hermit Ortell|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Hermit Ortell|r
+fbebaa24	Travel to Thistlefur Village	Reise nach Thistlefur Village
+fbecc80b	Turn in You Have Served Us Well	Gib You Have Served Us Well ab
+fbf2104f	Turn in Linken's Sword	Gib Linken's Sword ab
+fbf37813	Cured Medium Hide	Cured Medium Hide
+fbf42005	|cRXP_WARN_There is one |cRXP_ENEMY_Argus Shadow Mage|r per camp|r	|cRXP_WARN_In jedem Lager gibt es einen |cRXP_ENEMY_Argus Shadow Mage|r|r
+fbf9e3b3	Loot |cRXP_LOOT_Gaea Seeds|r from the ground around the lake	Plündere |cRXP_LOOT_Gaea Seeds|r vom Boden rund um den See
+fbfa7f89	Open |cRXP_PICK_Cozzle's Footlocker|r. Loot it for the |cRXP_LOOT_Fuel Regulator Blueprints|r	Öffne |cRXP_PICK_Cozzle's Footlocker|r. Plündere es für |cRXP_LOOT_Fuel Regulator Blueprints|r
+fbfab9f4	|T134340:0|t[Basilisk Brain]	|T134340:0|t[Basilisk Brain]
+fbff4020	Grind to 5990+/6500xp	Grinde bis 5990+/6500 EP
+fc003139	|cRXP_WARN_Do this en route to other quests|r	|cRXP_WARN_Erledige dies auf dem Weg zu anderen Quests|r
+fc025f59	|cRXP_WARN_This has a 50 yard range|r	|cRXP_WARN_Das hat eine Reichweite von 50 Metern|r
+fc0d0719	Small Egg (1-9)	Small Egg (1-9)
+fc0ee975	Train |T132307:0|t[Sprint]	Trainiere |T132307:0|t[Sprint]
+fc0f19da	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Tymor|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Tymor|r
+fc103d3e	Paladin	Paladin
+fc10bec4	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Garryeth|r, |cRXP_FRIENDLY_Lairn|r or |cRXP_FRIENDLY_Idriana|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Garryeth|r, |cRXP_FRIENDLY_Lairn|r oder |cRXP_FRIENDLY_Idriana|r
+fc12c397	|cRXP_ENEMY_Syndicate Assassins|r |cRXP_WARN_and |cRXP_ENEMY_Syndicate Spies|r will be in|r |T132320:0|t[Stealth]	|cRXP_ENEMY_Syndicate Assassins|r |cRXP_WARN_und |cRXP_ENEMY_Syndicate Spies|r sind in|r |T132320:0|t[Stealth]
+fc17b242	|cRXP_BUY_Buy|r |T134590:0|t[|cRXP_FRIENDLY_Stalking Pants|r] |cRXP_BUY_and |T132603:0|t[|cRXP_FRIENDLY_Wolf Bracers|r] |cRXP_BUY_from her if they're up|r	|cRXP_BUY_Kaufe|r |T134590:0|t[|cRXP_FRIENDLY_Stalking Pants|r] |cRXP_BUY_und |T132603:0|t[|cRXP_FRIENDLY_Wolf Bracers|r] |cRXP_BUY_bei ihr, falls verfügbar|r
+fc1b418c	AoE |cRXP_ENEMY_Huntsman Radley|r	Bekämpfe per AoE |cRXP_ENEMY_Huntsman Radley|r
+fc20b582	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Mulgris|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Mulgris|r
+fc21a526	Set your hearth to Theramore	Setze deinen Ruhestein auf Theramore
+fc24b8d0	Accept Bitter Rivals	Nimm Bitter Rivals an
+fc284e6b	Accept Divine Retribution	Nimm Divine Retribution an
+fc287bed	|10/10 Highlands Bandit slain	|10/10 Highlands Bandit getötet
+fc28899e	Protect |cRXP_FRIENDLY_Piznik|r from incoming |cRXP_ENEMY_Windshear Vermin|r	Beschütze |cRXP_FRIENDLY_Piznik|r vor anstürmenden |cRXP_ENEMY_Windshear Vermin|r
+fc28a6e1	Accept Training the Beast	Nimm Training the Beast an
+fc2a2491	Turn in Discover Rolf's Fate	Gib Discover Rolf's Fate ab
+fc2e2edd	Accept Gahz'ridian	Nimm Gahz'ridian an
+fc31a3ec	|cRXP_WARN_Remember to cast|r |T133968:0|t[Conjure Food Rank 3] |cRXP_WARN_instead of buying food|r	|cRXP_WARN_Denk daran,|r |T133968:0|t[Conjure Food Rank 3] |cRXP_WARN_zu wirken, statt Essen zu kaufen|r
+fc325612	Kill |cRXP_ENEMY_Magregan Deepshadow|r. Loot him for |cRXP_LOOT_Hammertoe's Amulet|r	Töte |cRXP_ENEMY_Magregan Deepshadow|r. Plündere ihn für |cRXP_LOOT_Hammertoe's Amulet|r
+fc367f05	Kill the |cRXP_ENEMY_Shadowhides|r. Loot them for their |cRXP_LOOT_Pendants|r	Töte die |cRXP_ENEMY_Shadowhides|r. Plündere sie für ihre |cRXP_LOOT_Pendants|r
+fc38d8d4	Talk to |cRXP_FRIENDLY_Seereth Stonebreak|r	Sprich mit |cRXP_FRIENDLY_Seereth Stonebreak|r
+fc3d1ad4	Fly to Un'Goro	Flieg nach Un'Goro
+fc3e6a20	Accept Free the Hollows	Nimm Free the Hollows an
+fc410d04	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Faranell|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Faranell|r
+fc489c76	Talk to |cRXP_FRIENDLY_Stonegear|r, |cRXP_FRIENDLY_Beldin|r, and |cRXP_FRIENDLY_Loslor|r	Sprich mit |cRXP_FRIENDLY_Stonegear|r, |cRXP_FRIENDLY_Beldin|r und |cRXP_FRIENDLY_Loslor|r
+fc551f13	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Llane Beshere|r inside downstairs	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Llane Beshere|r drinnen im Untergeschoss
+fc5a78dd	|1/1 Raider's Battleaxe	|1/1 Raider's Battleaxe
+fc5ad35a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Gordo|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Gordo|r
+fc5d3d58	AoE |cRXP_ENEMY_Hendel|r and the |cRXP_ENEMY_Theramore Sentries|r	Bekämpfe |cRXP_ENEMY_Hendel|r und die |cRXP_ENEMY_Theramore Sentries|r per AoE
+fc5dae8d	|cRXP_BUY_Buy an|r |T135329:0|t[Executioner's Sword] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe|r |T135329:0|t[Executioner's Sword] |cRXP_BUY_bei ihm|r
+fc60af0a	Crag Boar Rib (6)	Crag Boar Rib (6)
+fc6295eb	Travel upstairs in the Keep	Geh in der Burg nach oben
+fc683d33	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to the |cRXP_FRIENDLY_Remains of Trey Lightforge|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Remains of Trey Lightforge|r
+fc6919c0	Fungal Spores RP	Fungal Spores RP
+fc6e8ad3	Turn in Rhapsody Shindigger	Gib Rhapsody Shindigger ab
+fc72eac0	Talk to |cRXP_FRIENDLY_Janice Felstone|r	Sprich mit |cRXP_FRIENDLY_Janice Felstone|r
+fc73f107	Talk to |cRXP_FRIENDLY_Thundris|r	Sprich mit |cRXP_FRIENDLY_Thundris|r
+fc79b1a4	Be patient, this item has a low droprate	Hab Geduld, dieser Gegenstand hat eine niedrige Droprate
+fc7bee5e	Fly to Ratchet	Flieg nach Ratchet
+fc7d7099	|cRXP_BUY_Buy a|r |T135489:0|t[Heavy Recurve Bow] |cRXP_BUY_from him|r. |cRXP_BUY_If you can afford to, buy a|r |T135490:0|t[Reinforced Bow] |cRXP_BUY_and a|r |T134410:0|t[Medium Quiver] |cRXP_BUY_as well|r	|cRXP_BUY_Kaufe einen|r |T135489:0|t[Heavy Recurve Bow] |cRXP_BUY_bei ihm|r. |cRXP_BUY_Falls du es dir leisten kannst, kaufe auch einen|r |T135490:0|t[Reinforced Bow] |cRXP_BUY_und einen|r |T134410:0|t[Medium Quiver] |cRXP_BUY_dazu|r
+fc7ecefb	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to Chef Jessen	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit Chef Jessen
+fc818f48	Accept Message to the Wildhammer	Nimm Message to the Wildhammer an
+fc8acb04	Fly to Dustwallow Marsh	Flieg nach Dustwallow Marsh
+fc8c1a3b	Train |T132242:0|t[Aspect of the Cheetah]	Trainiere |T132242:0|t[Aspect of the Cheetah]
+fc920763	|cRXP_WARN_This quest is HARD. He comes with 2 mobs when he spawns, and spawns 2 more at about 50% health|r	|cRXP_WARN_Diese Quest ist SCHWER. Er kommt beim Spawnen mit 2 Mobs und ruft bei etwa 50% Gesundheit 2 weitere herbei|r
+fc941bc7	Kill |cRXP_ENEMY_Serena Bloodfeather|r. Loot her for her |cRXP_LOOT_Head|r	Töte |cRXP_ENEMY_Serena Bloodfeather|r. Plündere sie für ihren |cRXP_LOOT_Head|r
+fc95c67c	Loot the |cRXP_PICK_Dusty Chest|r for |T134419:0|t[|cRXP_FRIENDLY_Rune of Precision|r]	Plündere |cRXP_PICK_Dusty Chest|r für |T134419:0|t[|cRXP_FRIENDLY_Rune of Precision|r]
+fc9dbff5	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Innkeeper Shay|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Innkeeper Shay|r
+fca0a8f2	Wild Harvest	Wild Harvest
+fca42c53	Collect Balanced Throwing Dagger (1)	Sammle Balanced Throwing Dagger (1)
+fca67aab	Grind to 2640+/4500	Grinde bis 2640+/4500 EP
+fca846b9	Accept Words of the High Chief	Nimm Words of the High Chief an
+fcb043c6	|cRXP_WARN_Kite an |cRXP_ENEMY_Ice Claw Bear|r toward|r |cRXP_FRIENDLY_Rejold|r	|cRXP_WARN_Kite einen |cRXP_ENEMY_Ice Claw Bear|r zu|r |cRXP_FRIENDLY_Rejold|r
+fcb06162	|cRXP_WARN_Build up 25+ rage, then fear all 3 mobs at the same time and click to loot the plans|r	|cRXP_WARN_Baue 25+ Wut auf, versetze dann alle 3 Mobs gleichzeitig in Furcht und klicke die Pläne an, um sie zu plündern|r
+fcbefa7d	Kill |cRXP_ENEMY_Stonelash Flayers|r and |cRXP_ENEMY_Rock Stalkers|r. Loot them for their |cRXP_LOOT_Stingers|r and |cRXP_LOOT_Fangs|r	Töte |cRXP_ENEMY_Stonelash Flayers|r und |cRXP_ENEMY_Rock Stalkers|r. Plündere sie für ihre |cRXP_LOOT_Stingers|r und |cRXP_LOOT_Fangs|r
+fcc43a99	Kill |cRXP_ENEMY_Frostmane Seers|r. Loot them for the |T134939:0|t[|cRXP_FRIENDLY_Spell Notes: MILEGIN VALF]|r	Töte |cRXP_ENEMY_Frostmane Seers|r. Plündere sie für die |T134939:0|t[|cRXP_FRIENDLY_Spell Notes: MILEGIN VALF]|r
+fcc45456	If your hearth is down, keep AoE farming until it's back up	Falls dein Ruhestein auf Abklingzeit ist, farme weiter per AoE, bis er wieder bereit ist
+fcc5c702	Talk to |cRXP_FRIENDLY_Quae|r	Sprich mit |cRXP_FRIENDLY_Quae|r
+fccb32a9	Kill |cRXP_ENEMY_Thistlefur Shamans|r and |cRXP_ENEMY_Thistlefur Avengers|r en route to the cave	Töte |cRXP_ENEMY_Thistlefur Shamans|r und |cRXP_ENEMY_Thistlefur Avengers|r auf dem Weg zur Höhle
+fcce56f7	Kill |cRXP_ENEMY_Hydromancer Velratha|r. Loot her for the |cRXP_LOOT_Tiara of the Deep|r and the |cRXP_LOOT_Second Mosh'aru Tablet|r	Töte |cRXP_ENEMY_Hydromancer Velratha|r. Plündere sie für die |cRXP_LOOT_Tiara of the Deep|r und die |cRXP_LOOT_Second Mosh'aru Tablet|r
+fcd46c1a	Accept Winterfall Activity	Nimm Winterfall Activity an
+fcd48fcf	Travel toward |cRXP_FRIENDLY_Shizzle|r	Reise in Richtung |cRXP_FRIENDLY_Shizzle|r
+fcd912fb	Abandon Baron's Demise	Brich Baron's Demise ab
+fcdaa4cb	You Have Served Us Well	You Have Served Us Well
+fcdbf7ae	Turn in Divino-matic Rod	Gib Divino-matic Rod ab
+fce9e83e	Turn in To Kill With Purpose	Gib To Kill With Purpose ab
+fced08af	Turn in Two Halves Become One	Gib Two Halves Become One ab
+fcf10c6d	Talk to |cRXP_FRIENDLY_Brewmaster Drohn|r	Sprich mit |cRXP_FRIENDLY_Brewmaster Drohn|r
+fcf1e088	|cRXP_WARN_Enter and explore Fargodeep Mine|r	|cRXP_WARN_Betritt und erkunde Fargodeep Mine|r
+fcf201ef	Turn in Letter to Jin'Zil	Gib Letter to Jin'Zil ab
+fcf43d58	Withdraw your pet from the Stable. Remember to use |T132162:0|t[|cRXP_FRIENDLY_Beast Training|r] to teach it |T132278:0|t[|cRXP_FRIENDLY_Bite|r (Rank 5)]	Hol deinen Begleiter aus dem Stall. Denk daran, mit |T132162:0|t[|cRXP_FRIENDLY_Beast Training|r] ihm |T132278:0|t[|cRXP_FRIENDLY_Bite|r (Rank 5)] beizubringen
+fcf5b398	Catching Wind	Catching Wind
+fcf76ef8	Wait for |cRXP_FRIENDLY_Denalan|r to complete the roleplay. Kill the |cRXP_ENEMY_Boglings|r for |T134187:0|t[|cRXP_LOOT_Bogling Roots|r] and loot the |cRXP_PICK_Sprouted Frond|r	Warte, bis |cRXP_FRIENDLY_Denalan|r das Rollenspiel beendet hat. Töte die |cRXP_ENEMY_Boglings|r für |T134187:0|t[|cRXP_LOOT_Bogling Roots|r] und plündere den |cRXP_PICK_Sprouted Frond|r
+fcfa8f10	Accept Havoc in the Highlands	Nimm Havoc in the Highlands an
+fcfea4bb	Turn in A Missing Hand	Gib A Missing Hand ab
+fd0643b1	Batch ingredients: 4 Steel Bar.	Zutaten für die Charge: 4 Steel Bar.
+fd0a4e02	|cRXP_WARN_Return to Wetlands and continue skinning from 125-155.|r	|cRXP_WARN_Kehre zu den Wetlands zurück und mach mit Kürschnerei von 125 bis 155 weiter.|r
+fd0aa096	Bottle of Moonshine (1)	Bottle of Moonshine (1)
+fd0d049a	Travel to Felstone Field	Reise nach Felstone Field
+fd0f03ea	|cRXP_WARN_You can get to the upper level (without fighting through many guards) by doing a jump skip|r	|cRXP_WARN_Mit einem Sprung-Skip kommst du in die obere Ebene, ohne dich durch viele Wachen kämpfen zu müssen|r
+fd105b94	Fly to Thelsamar	Flieg nach Thelsamar
+fd173791	10/10 Al'Aketh Cultist's Ear	10/10 Al'Aketh Cultist's Ear
+fd20cceb	Kill |cRXP_ENEMY_Rock Elementals|r. Loot them for their |cRXP_LOOT_Stone Slabs|r	Töte |cRXP_ENEMY_Rock Elementals|r. Plündere sie für ihre |cRXP_LOOT_Stone Slabs|r
+fd210578	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Shanda::3595|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Shanda::3595|r
+fd28855e	Kill |cRXP_ENEMY_Big Will|r	Töte |cRXP_ENEMY_Big Will|r
+fd291bea	Click the |cRXP_PICK_Keystone|r	Klicke auf |cRXP_PICK_Keystone|r
+fd2994be	Talk to |cRXP_FRIENDLY_Bruuk Barleybeard|r again to receive the |T134419:0|t[Rune of Frenzied Assault]	Sprich erneut mit |cRXP_FRIENDLY_Bruuk Barleybeard|r, um |T134419:0|t[Rune of Frenzied Assault] zu erhalten
+fd2e0b7a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Falfindel Waywarder|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Falfindel Waywarder|r
+fd30733e	Craft |cRXP_FRIENDLY_Woolen Cape|r from skill 80 to 95.	Stelle |cRXP_FRIENDLY_Woolen Cape|r von Fertigkeit 80 bis 95 her.
+fd329088	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Archbishop Benedictus|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Archbishop Benedictus|r
+fd36886f	AoE |cRXP_ENEMY_Dark Iron Taskmasters|r, |cRXP_ENEMY_Dark Iron Slavers|r, and |cRXP_ENEMY_Slave Workers|r. Loot them for |cRXP_LOOT_Thorium Plated Daggers|r and |T133614:0|t[|cRXP_LOOT_Dark Iron Scraps|r]	Bekämpfe per AoE |cRXP_ENEMY_Dark Iron Taskmasters|r, |cRXP_ENEMY_Dark Iron Slavers|r und |cRXP_ENEMY_Slave Workers|r. Plündere sie, um |cRXP_LOOT_Thorium Plated Daggers|r und |T133614:0|t[|cRXP_LOOT_Dark Iron Scraps|r] zu erhalten
+fd3934e3	Turn in Spiritual Unrest	Gib Spiritual Unrest ab
+fd3a883a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Elissa Dumas|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Elissa Dumas|r
+fd3c1f6e	Get the items for Stocking Jetsteam	Hol dir die Gegenstände für Stocking Jetsteam
+fd3ebe90	Travel southwest to the Frayfeather Highlands	Reise nach Südwesten zu den Frayfeather Highlands
+fd40e524	|cRXP_WARN_Be careful as they have 50% increased parry for 8 seconds after they do their defense stance animation|r	|cRXP_WARN_Sei vorsichtig, da ihre Parierchance um 50% im Anschluss an ihre Verteidigungshaltungs-Animation für 8 Sekunden steigt|r
+fd413339	Talk to |cRXP_FRIENDLY_Viktori Prism'Antras|r	Sprich mit |cRXP_FRIENDLY_Viktori Prism'Antras|r
+fd442a27	Thazz'ril's Pick (1)	Thazz'ril's Pick (1)
+fd4fb0a7	Abandon A Lost Master	Brich A Lost Master ab
+fd5fa989	Turn in at Watcher Ladimore. She patrols the inner circle of Darkshire	Gib die Quest bei Watcher Ladimore ab. Sie patrouilliert im inneren Kreis von Darkshire
+fd5fd773	Turn in Wild Guardians	Gib Wild Guardians ab
+fd60853c	Kill |cRXP_ENEMY_Mountain Lions|r. Loot them for a |T134368:0|t[|cRXP_LOOT_Fresh Carcass|r]	Töte |cRXP_ENEMY_Mountain Lions|r. Plündere sie für einen |T134368:0|t[|cRXP_LOOT_Fresh Carcass|r]
+fd6919d9	|cRXP_WARN_Clear the area to avoid complications from his AoE fear|r	|cRXP_WARN_Räume die Umgebung frei, um Komplikationen durch seine AoE-Furcht zu vermeiden|r
+fd70c5e5	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Talaanis Shadowsong::252476|r.	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Talaanis Shadowsong::252476|r.
+fd7daeb8	Turn in A New Threat	Gib A New Threat ab
+fd80abf3	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to|r |cRXP_FRIENDLY_Orgnil|r, |cRXP_FRIENDLY_Gar'Thok|r and |cRXP_FRIENDLY_Torka|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit|r |cRXP_FRIENDLY_Orgnil|r, |cRXP_FRIENDLY_Gar'Thok|r und |cRXP_FRIENDLY_Torka|r
+fd80d255	|cRXP_WARN_Skip this step if you do not have at least 12|r |T132905:0|t[Silk Cloth]	|cRXP_WARN_Überspringe diesen Schritt, falls du nicht mindestens 12 davon hast:|r |T132905:0|t[Silk Cloth]
+fd89569f	Talk to |cRXP_FRIENDLY_Ak'Zeloth|r	Sprich mit |cRXP_FRIENDLY_Ak'Zeloth|r
+fd8e22dc	Travel to the Rebel Camp in northern Stranglethorn Vale	Reise zum Rebel Camp im Norden von Stranglethorn Vale
+fd8ec66d	Stolen Weapon (8)	Stolen Weapon (8)
+fd9db542	Travel toward The Sludge Fen	Reise in Richtung The Sludge Fen
+fd9e9721	Talk to |cRXP_FRIENDLY_Ol' Emma|r either inside her home on the 2nd floor, or patrolling the Trade District	Sprich mit |cRXP_FRIENDLY_Ol' Emma|r, entweder in ihrem Haus im 2. Stock oder auf ihrer Patrouille durch den Trade District
+fda90768	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Shizzle|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Shizzle|r
+fdaada92	If you haven't found a |T133024:0|t[Bronze Tube], skip the escort quest, run north to Burning Steppes, die on purpose, buy a |T133024:0|t[Bronze Tube] from |cRXP_FRIENDLY_Yuka|r in the cave at Flame's Crest and Hearth back to Redridge	Falls du keine |T133024:0|t[Bronze Tube] gefunden hast, überspringe die Eskortquest, lauf nach Norden in die Burning Steppes, stirb absichtlich, kaufe eine |T133024:0|t[Bronze Tube] bei |cRXP_FRIENDLY_Yuka|r in der Höhle bei Flame's Crest und benutze deinen Ruhestein zurück nach Redridge
+fdac71ad	Accept The Princess Trapped	Nimm The Princess Trapped an
+fdb38ff9	Tirisfal Pumpkin (10)	Tirisfal Pumpkin (10)
+fdb8115a	Turn in Some Assembly Required	Gib Some Assembly Required ab
+fdbb1026	|cRXP_WARN_Cast|r |T132164:0|t[Tame Beast] |cRXP_WARN_on a |cRXP_ENEMY_Scorpashi Lasher|r to tame it|r	|cRXP_WARN_Wirke|r |T132164:0|t[Tame Beast] |cRXP_WARN_auf einen |cRXP_ENEMY_Scorpashi Lasher|r, um ihn zu zähmen|r
+fdbb3839	|cRXP_WARN_You may have to wait for|r |cRXP_FRIENDLY_Thal'trak|r |cRXP_WARN_to finish his RP. Just follow him|r	|cRXP_WARN_Eventuell musst du warten, bis|r |cRXP_FRIENDLY_Thal'trak|r |cRXP_WARN_sein RP beendet hat. Folge ihm einfach|r
+fdbc861e	Kill |cRXP_ENEMY_Venture Co. Workers|r and |cRXP_ENEMY_Venture Co. Supervisors|r	Töte |cRXP_ENEMY_Venture Co. Workers|r und |cRXP_ENEMY_Venture Co. Supervisors|r
+fdca054e	Abandon Dark Heart	Brich Dark Heart ab
+fdcdb93f	Head towards the slime pond south of Jaedenar. Die and respawn at the |cRXP_FRIENDLY_Spirit Healer|r in Southern Felwood	Begib dich zum Schleimteich südlich von Jaedenar. Stirb und lass dich beim |cRXP_FRIENDLY_Spirit Healer|r im südlichen Felwood wiederbeleben
+fdce35b6	Abandon Zapper Fuel	Brich Zapper Fuel ab
+fdd3bad5	Turn in Brumeran of the Chillwind	Gib Brumeran of the Chillwind ab
+fdd7dff0	AoE the Hillsbrad Mobs in the area. Keep an eye out for Farmer Rey and Getz	Bekämpfe die Hillsbrad-Mobs in der Gegend per AoE. Halte Ausschau nach Farmer Rey und Getz
+fdd7e1b2	Train |T132292:0|t[Eviscerate (Rank 2)]	Trainiere |T132292:0|t[Eviscerate (Rank 2)]
+fdd8b5db	|cRXP_WARN_Delete the|r |T134237:0|t[Dull Iron Key] |cRXP_WARN_from your bags, as it's no longer needed|r	|cRXP_WARN_Lösche|r |T134237:0|t[Dull Iron Key] |cRXP_WARN_aus deinen Taschen, da er nicht mehr benötigt wird|r
+fdd8bdd2	Turn in The Fall of Ameth'Aran	Gib The Fall of Ameth'Aran ab
+fdd8eb99	|cRXP_WARN_Click here for a video guide|r	|cRXP_WARN_Klicke hier für einen Video-Guide|r
+fdd9de75	Turn in Brother Paxton	Gib Brother Paxton ab
+fddaacf5	Turn in Errand for Apothecary Zinge	Gib Errand for Apothecary Zinge ab
+fddac8b4	Turn in Troubled Spirits of Kel'Theril	Gib Troubled Spirits of Kel'Theril ab
+fddd01b4	Open the |cRXP_PICK_Mangled Human Remains|r on the ground. Loot it for the |cRXP_LOOT_[SI:7 Insignia (Turyen)]|r	Öffne |cRXP_PICK_Mangled Human Remains|r auf dem Boden und plündere |cRXP_LOOT_[SI:7 Insignia (Turyen)]|r daraus
+fddd4943	|cRXP_WARN_Prioritize killing |cRXP_ENEMY_Thistleshrub Dew Collectors|r as the |cRXP_LOOT_Laden Dew Gland|r has a low drop chance|r	|cRXP_WARN_Töte bevorzugt |cRXP_ENEMY_Thistleshrub Dew Collectors|r, da die |cRXP_LOOT_Laden Dew Gland|r eine niedrige Dropchance hat|r
+fdde1788	Hearth to Lakeshire if your Hearth is set there. Otherwise fly to Burning Steppes manually	Benutze deinen Ruhestein nach Lakeshire, falls er dort gesetzt ist. Ansonsten flieg manuell nach Burning Steppes
+fde0b4ce	Turn in Unwanted and Unworthy	Gib Unwanted and Unworthy ab
+fdeb51bb	22-26 ADV Wetlands 1 Mage AoE	22-26 ADV Wetlands 1 Mage AoE
+fdee8464	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Innkeeper Sikewa|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Innkeeper Sikewa|r
+fdf112fc	Accept Night Web's Hollow	Nimm Night Web's Hollow an
+fdf3d516	Turn in The Wrath of Rath'mael	Gib The Wrath of Rath'mael ab
+fdf465bf	Travel to Thunder Bluff	Reise nach Thunder Bluff
+fdf5113a	Accept Heroes of Darrowshire	Nimm Heroes of Darrowshire an
+fdf64f64	|cRXP_WARN_This is a rare enemy and there's a chance it may not be present|r	|cRXP_WARN_Das ist ein seltener Gegner und möglicherweise nicht da|r
+fdff5a7a	Delete the |T134437:0|t[Silithid Goo]. It isn't used for anything	Lösche |T134437:0|t[Silithid Goo]. Es wird für nichts gebraucht
+fe02b5bc	|cRXP_WARN_Abandon Need for a Cure. This will remove the timer on the quest but you will still be able to do it|r	|cRXP_WARN_Brich Need for a Cure ab. Dadurch wird das Zeitlimit der Quest entfernt, du kannst sie aber trotzdem noch abschließen|r
+fe030b14	Kill Goldtooth for Bernice's Necklace	Töte Goldtooth für Bernice's Necklace
+fe061aee	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Xar'Ti|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Xar'Ti|r
+fe0aa631	|T133639:0|t[Remains of Trey Lightforge] (If you have it)	|T133639:0|t[Remains of Trey Lightforge] (falls vorhanden)
+fe0be81a	Travel toward |cRXP_FRIENDLY_Talen|r	Reise in Richtung |cRXP_FRIENDLY_Talen|r
+fe0c6b0b	Talk to |cRXP_FRIENDLY_Liladris Moonriver|r	Sprich mit |cRXP_FRIENDLY_Liladris Moonriver|r
+fe17a9b5	|cRXP_BUY_Buy the following items for a faster turn in at Loch Modan shortly and to level your|r |T133971:0|t[Cooking] |cRXP_BUY_skill with:|r	|cRXP_BUY_Kaufe die folgenden Gegenstände, um sie bald in Loch Modan schneller abgeben zu können und deine|r |T133971:0|t[Cooking] |cRXP_BUY_-Fertigkeit damit zu steigern:|r
+fe1a75d2	Accept The Thandol Span	Nimm The Thandol Span an
+fe1ac26b	Requirements: no character level requirement; Tinker Town, Ironforge.	Voraussetzungen: keine Mindeststufe für den Charakter; Tinker Town, Ironforge.
+fe1b6146	Open |T136241:0|t[Blacksmithing] and craft a |T135248:0|t[Rough Sharpening Stone] for your sharp weapon and apply it.	Öffne |T136241:0|t[Blacksmithing], stelle einen |T135248:0|t[Rough Sharpening Stone] für deine Klingenwaffe her und wende ihn an.
+fe1d062a	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Norman|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Norman|r
+fe1f7d78	Grind to 2635+/2800xp	Grinde bis 2635+/2800 EP
+fe25159d	Kill the |cRXP_ENEMY_Minor Manifestation of Fire|r. Loot it for the |cRXP_LOOT_Glowing Ember|r	Töte die |cRXP_ENEMY_Minor Manifestation of Fire|r. Plündere sie für die |cRXP_LOOT_Glowing Ember|r
+fe270555	Go to the top floor of the house. Talk to Janice	Geh in das oberste Stockwerk des Hauses. Sprich mit Janice
+fe2a55a4	AoE Grind to 43 & 91000+/106300xp	Grinde per AoE bis 43 & 91000+/106300 EP
+fe2ce1ea	Buy 5 |T134059:0|t[Mild Spices] from her, use |T133971:0|t[|cRXP_FRIENDLY_Cooking|r] to cook |T132834:0|t[|cRXP_LOOT_Herb Baked Eggs|r] until you run out of |T132832:0|t[|cRXP_LOOT_Small Eggs|r]	Kaufe 5 |T134059:0|t[Mild Spices] bei ihr und benutze |T133971:0|t[|cRXP_FRIENDLY_Cooking|r], um |T132834:0|t[|cRXP_LOOT_Herb Baked Eggs|r] zu kochen, bis dir die |T132832:0|t[|cRXP_LOOT_Small Eggs|r] ausgehen
+fe2fb998	Talk to |cRXP_FRIENDLY_Rhag|r	Sprich mit |cRXP_FRIENDLY_Rhag|r
+fe2ff224	Use the |T134419:0|t[|cRXP_FRIENDLY_Rune of Incinerate|r] to train |T135789:0|t[Incinerate]	Benutze die |T134419:0|t[|cRXP_FRIENDLY_Rune of Incinerate|r], um |T135789:0|t[Incinerate] zu trainieren
+fe3344e6	Kill |cRXP_ENEMY_Razormane Stalkers|r and |cRXP_ENEMY_Razormane Pathfinders|r. Loot them for a |T135640:0|t[|cRXP_LOOT_Razormane Backstabber|r]	Töte |cRXP_ENEMY_Razormane Stalkers|r und |cRXP_ENEMY_Razormane Pathfinders|r. Plündere sie für einen |T135640:0|t[|cRXP_LOOT_Razormane Backstabber|r]
+fe33853d	Wait here for the boat. Make a Campfire from your spellbook and start cooking the chunks of boar meat you saved from earlier. You need at least 10 skill now, and 50 later (so cook all of it)	Warte hier auf das Schiff. Mach ein Campfire aus deinem Zauberbuch und koche die Eberfleischstücke, die du vorhin aufgehoben hast. Du brauchst jetzt mindestens 10 Fertigkeit und später 50 (koche also alles)
+fe3404fd	Collect Rhapsody Malt (x1)	Sammle Rhapsody Malt (x1)
+fe36480a	Kill |cRXP_ENEMY_Dark Strand Fanatics|r. Loot them for |cRXP_LOOT_Worn Parchments|r	Töte |cRXP_ENEMY_Dark Strand Fanatics|r. Plündere sie für |cRXP_LOOT_Worn Parchments|r
+fe3cd834	If you're lucky, Murkdeep might already be up about 30 yards off the shore to the west (if someone died on him before).	Mit etwas Glück ist Murkdeep bereits etwa 30 Meter vor der Küste im Westen da (falls vorher jemand an ihm gestorben ist).
+fe3fae01	Use the Titan Relic to accept Elder Knowledge	Benutze das Titan Relic, um Elder Knowledge anzunehmen
+fe3fcfba	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Scout Galiaan|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Scout Galiaan|r
+fe419687	|cRXP_WARN_Attack mobs with it to learn|r |T132278:0|t[Bite (Rank 4)]	|cRXP_WARN_Greife damit Mobs an, um zu erlernen:|r |T132278:0|t[Bite (Rank 4)]
+fe419ac8	|cRXP_WARN_Attack mobs with it to learn|r |T132278:0|t[Bite (Rank 5)]	|cRXP_WARN_Greife damit Mobs an, um zu erlernen:|r |T132278:0|t[Bite (Rank 5)]
+fe419f09	|cRXP_WARN_Attack mobs with it to learn|r |T132278:0|t[Bite (Rank 6)]	|cRXP_WARN_Greife damit Mobs an, um zu erlernen:|r |T132278:0|t[Bite (Rank 6)]
+fe41a34a	|cRXP_WARN_Attack mobs with it to learn|r |T132278:0|t[Bite (Rank 7)]	|cRXP_WARN_Greife damit Mobs an, um zu erlernen:|r |T132278:0|t[Bite (Rank 7)]
+fe479d01	Talk to |cRXP_FRIENDLY_Robert|r outside	Sprich draußen mit |cRXP_FRIENDLY_Robert|r
+fe48a4bc	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Shenaan Spellwind::254086|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Shenaan Spellwind::254086|r
+fe49d796	Return to Stormwind City.	Kehre nach Stormwind City zurück.
+fe4ad33f	Accept In Search of The Temple	Nimm In Search of The Temple an
+fe4d05f1	|cRXP_WARN_You can loot |cRXP_PICK_Furlbrow's Wardrobe|r from outside if you angle your camera correctly|r	|cRXP_WARN_Du kannst |cRXP_PICK_Furlbrow's Wardrobe|r von draußen plündern, wenn du deine Kamera richtig ausrichtest|r
+fe53d84c	|cRXP_WARN_Be careful as |cRXP_ENEMY_Twilight Dark Shamans|r cast|r |T136052:0|t[Healing Wave] |cRXP_WARN_(heals for about 1000 damage) and|r |T136115:0|t[Shock] |cRXP_WARN_(instantly deals about 500 damage) and |cRXP_ENEMY_Twilight Geomancers|r cast|r |T135812:0|t[Fireball] |cRXP_WARN_(deals about 350 ranged fire damage),|r |T136186:0|t[Rain of Fire] |cRXP_WARN_(deals about 150 fire damage per tick, don't stand in it), and|r |T136091:0|t[Slow] |cRXP_WARN_(reduces movespeed by 60% for 10 seconds)|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Twilight Dark Shamans|r wirken:|r |T136052:0|t[Healing Wave] |cRXP_WARN_(heilt um etwa 1000) und|r |T136115:0|t[Shock] |cRXP_WARN_(verursacht sofort etwa 500 Schaden), und |cRXP_ENEMY_Twilight Geomancers|r wirken|r |T135812:0|t[Fireball] |cRXP_WARN_(verursacht etwa 350 Feuerschaden auf Distanz),|r |T136186:0|t[Rain of Fire] |cRXP_WARN_(verursacht etwa 150 Feuerschaden pro Tick, bleib nicht darin stehen) und|r |T136091:0|t[Slow] |cRXP_WARN_(verringert das Bewegungstempo um 60% für 10 Sekunden)|r
+fe59f48d	Kill |cRXP_ENEMY_Young Wetlands Crocolisks|r. Loot them for their |T134304:0|t|cRXP_LOOT_Young Crocolisk Skin|r	Töte |cRXP_ENEMY_Young Wetlands Crocolisks|r. Plündere sie für ihre |T134304:0|t|cRXP_LOOT_Young Crocolisk Skin|r
+fe5f07e1	c:Thunder Bluff,40.93,62.73	c:Thunder Bluff,40.93,62.73
+fe615b0b	Accept Supplies to Private Thorsen	Nimm Supplies to Private Thorsen an
+fe659566	Click on the red crystal	Klicke auf den roten Kristall
+fe6eab18	Use the |T132261:0|t[|cRXP_WARN_Chestnut Mare Bridle|r] to learn it	Benutze |T132261:0|t[|cRXP_WARN_Chestnut Mare Bridle|r], um das Reittier zu erlernen
+fe6f29ec	Turn in Kidnapped Elder Torntusk!	Gib Kidnapped Elder Torntusk! ab
+fe78a3c7	Accept The Ruins of Kel'Theril	Nimm The Ruins of Kel'Theril an
+fe78b257	Turn in The Deserters	Gib The Deserters ab
+fe7bf8f4	To solo this quest you need to play correctly in 2 ways. First of all you need to not die to breath, that means before you aggro the boss you should have full breath. The second thing to be aware of is that you need to kick EVERY frostbolt you can and use evasion after a kick. Most of his damage will be from frostbolts. Remember you can vanish and try again 5 mins later, as long as you don't die to breath.	Um diese Quest solo zu schaffen, musst du auf 2 Dinge achten. Erstens darfst du nicht am Atemmangel sterben, das heißt, du solltest vollen Atem haben, bevor du den Boss pullst. Zweitens musst du JEDEN Frostblitz unterbrechen, den du kannst, und nach einem Tritt Entrinnen benutzen. Der meiste Schaden kommt von seinen Frostblitzen. Denk daran, dass du verschwinden und es 5 Minuten später erneut versuchen kannst, solange du nicht am Atemmangel stirbst.
+fe7c0d13	Open the |cRXP_PICK_Rockjaw Footlocker|r on the ground. Loot it for the |T134419:0|t|cRXP_LOOT_[Rune of Haunting]|r	Öffne |cRXP_PICK_Rockjaw Footlocker|r auf dem Boden und plündere |T134419:0|t|cRXP_LOOT_[Rune of Haunting]|r daraus
+fe7d5377	Talk to |cRXP_FRIENDLY_Genavie Callow|r	Sprich mit |cRXP_FRIENDLY_Genavie Callow|r
+fe7dd051	Obtain Formula: Lesser Wizard Oil from Jessara Cordell in Stormwind, Tilli Thistlefuzz in Ironforge, or Vaean in Darnassus; use it to learn the recipe.	Besorge dir Formula: Lesser Wizard Oil bei Jessara Cordell in Stormwind, Tilli Thistlefuzz in Ironforge oder Vaean in Darnassus und benutze es, um das Rezept zu erlernen.
+fe82dda9	|cRXP_WARN_Buy and use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Warbringer|r] |cRXP_WARN_to train|r |T236319:0|t[Warbinger]	|cRXP_WARN_Kaufe und benutze die|r |T134419:0|t[|cRXP_FRIENDLY_Rune of the Warbringer|r]|cRXP_WARN_, um zu trainieren:|r |T236319:0|t[Warbinger]
+fe8bbd86	Accept The First and the Last	Nimm The First and the Last an
+fe98cbff	Accept Letter to Jin'Zil	Nimm Letter to Jin'Zil an
+fe9d8039	Use Frost Ward if you trained it. Loot Eliza for her heart	Benutze Frost Ward, falls du es trainiert hast. Plündere Eliza für ihr Herz
+fe9ef4ad	Accept Lost Necklace	Nimm Lost Necklace an
+fea00928	Cliffspring River Sample (1)	Cliffspring River Sample (1)
+fea670d8	Accept Special Forces	Nimm Special Forces an
+feaac555	Keep killing |cRXP_ENEMY_Nightbane Worgens|r until your Hearthstone cooldown is <25 minutes	Töte weiter |cRXP_ENEMY_Nightbane Worgens|r, bis die Abklingzeit deines Ruhesteins unter 25 Minuten liegt
+feabc61d	|cRXP_WARN_Cast|r |T132212:0|t[Hunter's Mark] |cRXP_WARN_on the|r |cRXP_ENEMY_Rustling Bush|r	|cRXP_WARN_Wirke|r |T132212:0|t[Hunter's Mark] |cRXP_WARN_auf den|r |cRXP_ENEMY_Rustling Bush|r
+feac6e86	|cRXP_WARN_The |cRXP_LOOT_Fragments|r have random spawn locations in the Excavation Site|r	|cRXP_WARN_Die |cRXP_LOOT_Fragments|r spawnen an zufälligen Orten in der Excavation Site|r
+feacba68	Take the boat to Menethil Harbor	Nimm das Schiff nach Menethil Harbor
+feacde3b	Turn in Return to Milton	Gib Return to Milton ab
+feafb9d2	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Neals|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Neals|r
+feb366aa	|cRXP_WARN_He patrols the terraces, so you may have to look around for him|r	|cRXP_WARN_Er patrouilliert auf den Terrassen, du musst dich eventuell nach ihm umsehen|r
+feb5672c	|TInterface/cursor/crosshair/interact.blp:20|tClick on the |cRXP_PICK_Druids|r	|TInterface/cursor/crosshair/interact.blp:20|tKlicke auf die |cRXP_PICK_Druids|r
+feb93012	Talk to |cRXP_FRIENDLY_William Pestle|r	Sprich mit |cRXP_FRIENDLY_William Pestle|r
+febaa483	Train your class spells (Flamestrike)	Trainiere deine Klassenzauber (Flamestrike)
+febc3289	Kill |cRXP_ENEMY_Colonel Kurzen|r. Loot him for his |cRXP_LOOT_Head|r	Töte |cRXP_ENEMY_Colonel Kurzen|r. Plündere ihn für seinen |cRXP_LOOT_Head|r
+fec43d5c	|cRXP_WARN_Do not accept Stormpike's Order yet|r	|cRXP_WARN_Nimm Stormpike's Order noch nicht an|r
+fec78477	|cRXP_BUY_Buy 5 stacks of food/water|r	|cRXP_BUY_Kaufe 5 Stapel Essen/Wasser|r
+fed59576	Turn in Chakuyak	Gib Chakuyak ab
+fed6333b	Start being very careful with your money too, as it's very nice to have your mount at level 40	Geh ab jetzt auch sehr sorgsam mit deinem Geld um, denn es ist sehr praktisch, dein Reittier auf Stufe 40 zu haben
+fed70d9b	Turn in Bloody Bone Necklaces	Gib Bloody Bone Necklaces ab
+feda6c63	Accept Crime and Punishment	Nimm Crime and Punishment an
+fedf1c3d	8/8 Enchanted Skyhopper Exterminated	8/8 Enchanted Skyhopper ausgerottet
+fee242a4	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Bilgewhizzle|r and |cRXP_FRIENDLY_Stoley|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Bilgewhizzle|r und |cRXP_FRIENDLY_Stoley|r
+fee392fd	Kill |cRXP_ENEMY_Geltharis|r. Loot him for his |cRXP_LOOT_Branch|r	Töte |cRXP_ENEMY_Geltharis|r. Plündere ihn für seinen |cRXP_LOOT_Branch|r
+fee4b055	|cRXP_WARN_You will level Mining from 1-65 in a starter zone.|r	|cRXP_WARN_Du levelst Mining von 1-65 in einem Startgebiet.|r
+fee8565f	|cRXP_WARN_Be careful as they cast|r |T132109:0|t[Tendon Rip] |cRXP_WARN_(reduces movespeed by 70% for 8 seconds)|r	|cRXP_WARN_Sei vorsichtig, da sie wirken:|r |T132109:0|t[Tendon Rip] |cRXP_WARN_(verringert das Bewegungstempo um 70% für 8 Sekunden)|r
+feea8e87	|cRXP_WARN_Equip the|r |T135280:0|t[Dacian Falx]	|cRXP_WARN_Lege an:|r |T135280:0|t[Dacian Falx]
+feea9a6f	Kill any |cRXP_ENEMY_Diseased Grizzlies|r you see en-route to Eastern Plaguelands	Töte alle |cRXP_ENEMY_Diseased Grizzlies|r, die du auf dem Weg zu den Eastern Plaguelands siehst
+feebbe73	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Kaplak|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Kaplak|r
+feef50d9	Kill |cRXP_ENEMY_Enraged Rock Elementals|r. Loot them for their |cRXP_LOOT_Scroll Fragments|r	Töte |cRXP_ENEMY_Enraged Rock Elementals|r. Plündere sie für ihre |cRXP_LOOT_Scroll Fragments|r
+fef2ce15	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Afadra Dunwall|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Afadra Dunwall|r
+fef32457	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Pamela Redpath|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Pamela Redpath|r
+fef5a168	The Parasites |cRXP_WARN_cannot swim!|r If you get overwhelmed try to run into |T135861:0|t[|cRXP_LOOT_Water|r] to evade them	Die Parasites |cRXP_WARN_können nicht schwimmen!|r Wenn du überwältigt wirst, lauf ins |T135861:0|t[|cRXP_LOOT_Water|r], um ihnen zu entkommen
+fef742e3	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Neeka|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Neeka|r
+fef75a9c	Spell Notes: Enlightenment (1)	Spell Notes: Enlightenment (1)
+fef7cf44	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Neela|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Neela|r
+fefa82dd	Turn in Cherry for Your Thoughts?	Gib Cherry for Your Thoughts? ab
+fefb6e9e	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Neeru|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Neeru|r
+fefb95ab	|cRXP_ENEMY_Mossflayer Scouts|r |cRXP_WARN_will run away and call for help as soon as you aggro them|r	|cRXP_ENEMY_Mossflayer Scouts|r |cRXP_WARN_laufen weg und rufen um Hilfe, sobald du sie pullst|r
+fefd38fa	Once you reach Skinning level 300, click here.	Sobald du in Skinning Stufe 300 erreichst, klicke hier.
+fefe5d90	XX Shows if cooking skill is 10-50	XX Wird angezeigt, wenn die Kochkunst-Fertigkeit 10-50 beträgt
+ff0091fb	Turn in The Knife Revealed	Gib The Knife Revealed ab
+ff00ca5d	|cRXP_WARN_Be careful as |cRXP_ENEMY_Mosshide Fenrunners|r have|r |T132307:0|t[Increased Movespeed] |cRXP_WARN_and run in fear at <25% health|r	|cRXP_WARN_Sei vorsichtig, da |cRXP_ENEMY_Mosshide Fenrunners|r haben:|r |T132307:0|t[Increased Movespeed] |cRXP_WARN_und bei <25% Gesundheit ängstlich fliehen|r
+ff019345	Loot the corpse on the bottom floor	Plündere die Leiche im untersten Stockwerk
+ff01dfba	If you ever see a |cRXP_ENEMY_Shadowy Assassin|r in Southshore, kill them. Loot them for the |T134939:0|t[|cRXP_LOOT_Assassin's Contract|r]	Falls du jemals einen |cRXP_ENEMY_Shadowy Assassin|r in Southshore siehst, töte ihn. Plündere ihn für den |T134939:0|t[|cRXP_LOOT_Assassin's Contract|r]
+ff0390ef	Turn in The Damned	Gib The Damned ab
+ff079fbb	Turn in KILL ON SIGHT: High Ranking Dark Iron Officials	Gib KILL ON SIGHT: High Ranking Dark Iron Officials ab
+ff08e544	Use the |T134419:0|t[|cRXP_FRIENDLY_Rune of Tactics|r] to train |T136150:0|t[Demonic Tactics]	Benutze die |T134419:0|t[|cRXP_FRIENDLY_Rune of Tactics|r], um |T136150:0|t[Demonic Tactics] zu trainieren
+ff0999ef	|cRXP_WARN_Use|r |T135637:0|t[Catelyn's Blade] |cRXP_WARN_on the |cRXP_PICK_Altar of the Tides|r underwater to summon|r |cRXP_ENEMY_Gazban|r	|cRXP_WARN_Benutze|r |T135637:0|t[Catelyn's Blade] |cRXP_WARN_unter Wasser am |cRXP_PICK_Altar of the Tides|r, um zu beschwören:|r |cRXP_ENEMY_Gazban|r
+ff0a5a1b	There is a trick which allows you to loot it without having to open the safe. View the link below to see how it is done	Es gibt einen Trick, mit dem du es plündern kannst, ohne den Safe öffnen zu müssen. Sieh dir den Link unten an, um zu sehen, wie es geht
+ff0b9334	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Narret Shadowgrove|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Narret Shadowgrove|r
+ff0cbf86	Stable your pet. You will tame a |cRXP_ENEMY_Starving Blisterpaw|r shortly	Bring deinen Begleiter in den Stall. Du zähmst gleich |cRXP_ENEMY_Starving Blisterpaw|r
+ff0d0a36	|cRXP_WARN_Run into the mine and hug the right/east side to reach him|r	|cRXP_WARN_Lauf in die Mine und halte dich an der rechten/östlichen Seite, um ihn zu erreichen|r
+ff120a03	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Norzsh|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Norzsh|r
+ff12117d	Turn in Minion's Scourgestones	Gib Minion's Scourgestones ab
+ff14949d	|cRXP_WARN_He has a chance of spawning every time a |cRXP_ENEMY_Kolkar|r is killed|r	|cRXP_WARN_Er kann jedes Mal erscheinen, wenn ein |cRXP_ENEMY_Kolkar|r getötet wird|r
+ff15deb7	c:Moonglade,44.29,45.87	c:Moonglade,44.29,45.87
+ff15fa70	|cRXP_WARN_She patrols around|r	|cRXP_WARN_Sie patrouilliert umher|r
+ff189e3d	Turn in Feralas Mission VII: Recover Moonglow Dragonegg	Gib Feralas Mission VII: Recover Moonglow Dragonegg ab
+ff2975e9	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Razzeric|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Razzeric|r
+ff2b7520	Loot |cRXP_PICK_Chen's Empty Keg|r from the ground and start the quest. If it's not up you'll get it later	Plündere |cRXP_PICK_Chen's Empty Keg|r vom Boden und starte die Quest. Falls es nicht da ist, holst du es später
+ff397d15	|T134249:0|t[Cenarion Beacon]	|T134249:0|t[Cenarion Beacon]
+ff3a566f	10-12 LAUNCH ADV Darkshore 1 Mage AoE	10-12 LAUNCH ADV Darkshore 1 Mage AoE
+ff3d169b	Travel to Ashenvale.	Reise nach Ashenvale.
+ff41e053	Turn in Lack of Surplus	Gib Lack of Surplus ab
+ff4b063c	|cRXP_WARN_You will make progress here but likely finish the quest at another location later|r.	|cRXP_WARN_Du machst hier Fortschritt, schließt die Quest aber wahrscheinlich später an einem anderen Ort ab|r.
+ff4d6dbd	Vision Dust	Vision Dust
+ff4d8593	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Monty|r on the middle platform in the Deeprun Tram |cRXP_WARN_on the Ironforge side!|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Monty|r auf dem mittleren Bahnsteig in der Deeprun Tram |cRXP_WARN_auf der Ironforge-Seite!|r
+ff4e88f3	|cRXP_BUY_Restock on|r |T135661:0|t[Jagged Arrows] |cRXP_BUY_if needed|r	|cRXP_BUY_Fülle bei Bedarf deine|r |T135661:0|t[Jagged Arrows] |cRXP_BUY_auf|r
+ff536aa3	Turn in Chen's Empty Keg	Gib Chen's Empty Keg ab
+ff5441ef	Haunch of Meat (15)	Haunch of Meat (15)
+ff546418	Delete the |T133682:0|t[Triage Bandage]. You no longer need it	Lösche |T133682:0|t[Triage Bandage]. Du brauchst es nicht mehr
+ff55ba1e	|cRXP_WARN_Keep distance from him by casting|r |T136183:0|t[Fear]	|cRXP_WARN_Halte ihn auf Abstand, indem du Folgendes wirkst:|r |T136183:0|t[Fear]
+ff596364	Hearth to Stormwind City	Benutze deinen Ruhestein nach Stormwind City
+ff5bf9d9	Cross the bridge, then go up the mountain. Click on |cRXP_PICK_Sha'ni Proudtusk's Remains|r atop the altar	Überquere die Brücke und geh dann den Berg hinauf. Klicke oben auf dem Altar auf |cRXP_PICK_Sha'ni Proudtusk's Remains|r
+ff6450a0	Accept Deliveries to Sven	Nimm Deliveries to Sven an
+ff6d9d10	Engrave |T236168:0|t[Starfall] on your |T133771:0|t[Cloak]	Graviere |T236168:0|t[Starfall] auf deinen |T133771:0|t[Cloak]
+ff6e1b2f	Collect Webwood Egg (x1)	Sammle Webwood Egg (x1)
+ff733377	Turn in Magical Analysis	Gib Magical Analysis ab
+ff799a6f	|cRXP_WARN_If it's not up you'll get it later|r	|cRXP_WARN_Falls es gerade nicht verfügbar ist, bekommst du es später|r
+ff7f1016	Black Pearl	Black Pearl
+ff81a5cb	Accept Helcular's Revenge	Nimm Helcular's Revenge an
+ff82b8e6	Talisman of Corruption (<1)	Talisman of Corruption (<1)
+ff87a273	|cRXP_WARN_Once you have 3 |cRXP_LOOT_Jowls|r, 2 |cRXP_LOOT_Lungs|r and 1 |cRXP_LOOT_Pincer|r turn in the quest for the 25 Strength buff|r	|cRXP_WARN_Sobald du 3 |cRXP_LOOT_Jowls|r, 2 |cRXP_LOOT_Lungs|r und 1 |cRXP_LOOT_Pincer|r hast, gib die Quest für den Stärkungszauber mit 25 Stärke ab|r
+ff969422	|cRXP_WARN_You can now mine Rich Thorium Veins!|r	|cRXP_WARN_Du kannst jetzt Rich Thorium Veins abbauen!|r
+ff987486	|T132385:0|t[Seaforium Booster]	|T132385:0|t[Seaforium Booster]
+ff9a8c8e	|cRXP_WARN_The artifacts have different models. Open your menu, click System, then Graphics, then adjust the Environmental Clutter slider (at the very bottom) to 0|r	|cRXP_WARN_Die Artefakte haben unterschiedliche Modelle. Öffne dein Menü, klicke auf System, dann Grafik, und stelle den Regler für Umgebungsdetails (ganz unten) auf 0|r
+ff9b9c90	|T133970:0|t|cRXP_LOOT_[Stringy Wolf Meat]|r	|T133970:0|t|cRXP_LOOT_[Stringy Wolf Meat]|r
+ff9c30d2	Collect Tough Wolf Meat (x8)	Sammle Tough Wolf Meat (x8)
+ffa10359	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Nyrill|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Nyrill|r
+ffa2cb64	Kill a Zhevra in the area. Loot it for a Carcass	Töte ein Zhevra in der Umgebung. Plündere es für einen Carcass
+ffa2f77e	Grind until your HS cooldown is <6 minutes. Die and respawn at the |cRXP_FRIENDLY_Spirit Healer|r	Grinde, bis die Abklingzeit deines Ruhesteins unter 6 Minuten liegt. Stirb und lass dich beim |cRXP_FRIENDLY_Spirit Healer|r wiederbeleben
+ffa98482	Open your character sheet and engrave your helmet with |T132167:0|t[Catlike Reflexes]	Öffne dein Charakterfenster und graviere deinen Helm mit |T132167:0|t[Catlike Reflexes]
+ffac4a74	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Liladris Moonriver|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Liladris Moonriver|r
+ffadf9b1	Talk to |cRXP_FRIENDLY_Deathguard Kristof|r	Sprich mit |cRXP_FRIENDLY_Deathguard Kristof|r
+ffb1a7ad	Kill Grimtotems in the area	Töte Grimtotems in der Gegend
+ffb211e7	|cRXP_WARN_Use the|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Endless Rage|r] |cRXP_WARN_to train|r |T132347:0|t[Endless Rage]	|cRXP_WARN_Benutze|r |T134419:0|t[|cRXP_FRIENDLY_Rune of Endless Rage|r] |cRXP_WARN_, um zu trainieren:|r |T132347:0|t[Endless Rage]
+ffb28c5a	Turn in Wanted - Arnak Grimtotem	Gib Wanted - Arnak Grimtotem ab
+ffb988b6	Click |cRXP_PICK_Rackmore's Log|r on the small barrel	Klicke auf |cRXP_PICK_Rackmore's Log|r auf dem kleinen Fass
+ffbd2560	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cRXP_FRIENDLY_Thork|r and |cRXP_FRIENDLY_Sergra|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cRXP_FRIENDLY_Thork|r und |cRXP_FRIENDLY_Sergra|r
+ffc09c98	Accept What Is My Purpose?	Nimm What Is My Purpose? an
+ffc450ab	|cRXP_WARN_Engrave your|r gloves with|r |T133816:0|t[Haunt]	|cRXP_WARN_Graviere deine|r Handschuhe mit|r |T133816:0|t[Haunt]
+ffc5c78b	|Tinterface/worldmap/chatbubble_64grey.blp:20|tTalk to |cFF00FF25Duokna|r	|Tinterface/worldmap/chatbubble_64grey.blp:20|tSprich mit |cFF00FF25Duokna|r
+ffc75da4	Turn in Sealed Azure Bag	Gib Sealed Azure Bag ab
+ffc8d510	Turn in Ashenvale Mission I: Defeat Satyrs	Gib Ashenvale Mission I: Defeat Satyrs ab
+ffcf6565	AoE Syndicates in the area. Go up north and kill Ogres for knucklebones if you're waiting on respawns after clearing both camps	Bekämpfe das Syndicate in der Gegend per AoE. Geh nach Norden und töte Oger für Knöchel, falls du nach dem Leeren beider Lager auf Respawns wartest
+ffdb2259	Also start AoEing the small Fenrunner pull at the trees just north of the northern-most AoE-able gnoll camp until you have all of your Flint	Fang außerdem an, die kleine Fenrunner-Gruppe an den Bäumen direkt nördlich des nördlichsten per AoE machbaren Gnollcamps per AoE zu bekämpfen, bis du deinen ganzen Flint hast
+ffe2cdf1	|cRXP_BUY_Buy up to 20|r |T132815:0|t[Ice Cold Milk] |cRXP_BUY_from him|r	|cRXP_BUY_Kaufe bis zu 20|r |T132815:0|t[Ice Cold Milk] |cRXP_BUY_bei ihm|r
+ffe4be95	Accept The Stockade Riots	Nimm The Stockade Riots an
+ffe50f39	Travel through Dun Algaz into Loch Modan	Reise durch Dun Algaz nach Loch Modan
+ffe6fbe7	Cook |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r into |T133974:0|t[Roasted Boar Meat] until your |T133971:0|t[Cooking] skill reaches 10	Koche |T133970:0|t|cRXP_LOOT_[Chunks of Boar Meat]|r zu |T133974:0|t[Roasted Boar Meat], bis deine |T133971:0|t[Cooking]-Fertigkeit 10 erreicht
+ffe70f70	Accept Wanted: Vile Priestess Hexx and Her Minions	Nimm Wanted: Vile Priestess Hexx and Her Minions an
+ffea392e	equip the Short Staff	Lege den Short Staff an
+ffedea17	Jump down to the 1st floor	Spring hinunter in den 1. Stock
+ffedfe5b	Talk to |cRXP_FRIENDLY_Jazzrik|r	Sprich mit |cRXP_FRIENDLY_Jazzrik|r
+fff9c162	Kill any Skeletal Raiders you see en route. You can finish this later	Töte alle Skeletal Raiders, die du unterwegs siehst. Du kannst das später abschließen
+fffc5fcf	|cRXP_WARN_Kill |cRXP_ENEMY_Young Wolves|r. Loot them until you have 50 copper worth of vendor items (including your armor)|r	|cRXP_WARN_Töte |cRXP_ENEMY_Young Wolves|r. Plündere sie, bis du Händlerware im Wert von 50 Kupfer hast (inklusive deiner Rüstung)|r
+ffffdb41	|cRXP_WARN_Be mindful that mobs have no Z axis range. They can hit you from the bottom of the tower if they're directly below you|r	|cRXP_WARN_Beachte, dass Mobs keine Z-Achsen-Reichweite haben. Sie können dich vom Fuß des Turms aus treffen, wenn sie direkt unter dir stehen|r
